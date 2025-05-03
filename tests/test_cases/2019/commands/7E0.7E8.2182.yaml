@@ -1,0 +1,1800 @@
+command_id: 7E0.7E8.2182
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E80661823F204240
+  expected_values:
+    TOYOTA_ATF_PAN_T: 23.125
+    TOYOTA_ATF_TQC_T: 26.25
+- response: 7E80661823FC042E0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 23.75
+    TOYOTA_ATF_TQC_T: 26.875
+- response: 7E806618241A044C0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 25.625
+    TOYOTA_ATF_TQC_T: 28.75
+- response: '7E806618243804600'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 27.5
+    TOYOTA_ATF_TQC_T: 30
+- response: '7E806618243804880'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 27.5
+    TOYOTA_ATF_TQC_T: 32.5
+- response: 7E806618244C04880
+  expected_values:
+    TOYOTA_ATF_PAN_T: 28.75
+    TOYOTA_ATF_TQC_T: 32.5
+- response: 7E8066182456049C0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 29.375
+    TOYOTA_ATF_TQC_T: 33.75
+- response: 7E8066182460047E0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 30
+    TOYOTA_ATF_TQC_T: 31.875
+- response: 7E806618246004A60
+  expected_values:
+    TOYOTA_ATF_PAN_T: 30
+    TOYOTA_ATF_TQC_T: 34.375
+- response: 7E806618247404B00
+  expected_values:
+    TOYOTA_ATF_PAN_T: 31.25
+    TOYOTA_ATF_TQC_T: 35
+- response: 7E806618247E04920
+  expected_values:
+    TOYOTA_ATF_PAN_T: 31.875
+    TOYOTA_ATF_TQC_T: 33.125
+- response: 7E806618249204A60
+  expected_values:
+    TOYOTA_ATF_PAN_T: 33.125
+    TOYOTA_ATF_TQC_T: 34.375
+- response: 7E806618249C04A60
+  expected_values:
+    TOYOTA_ATF_PAN_T: 33.75
+    TOYOTA_ATF_TQC_T: 34.375
+- response: 7E80661824A605140
+  expected_values:
+    TOYOTA_ATF_PAN_T: 34.375
+    TOYOTA_ATF_TQC_T: 41.25
+- response: 7E80661824B005140
+  expected_values:
+    TOYOTA_ATF_PAN_T: 35
+    TOYOTA_ATF_TQC_T: 41.25
+- response: 7E80661824BA04A60
+  expected_values:
+    TOYOTA_ATF_PAN_T: 35.625
+    TOYOTA_ATF_TQC_T: 34.375
+- response: 7E80661824C404B00
+  expected_values:
+    TOYOTA_ATF_PAN_T: 36.25
+    TOYOTA_ATF_TQC_T: 35
+- response: 7E80661824CE050A0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 36.875
+    TOYOTA_ATF_TQC_T: 40.625
+- response: 7E80661824D804BA0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 37.5
+    TOYOTA_ATF_TQC_T: 35.625
+- response: 7E80661824D804CE0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 37.5
+    TOYOTA_ATF_TQC_T: 36.875
+- response: 7E80661824E204C40
+  expected_values:
+    TOYOTA_ATF_PAN_T: 38.125
+    TOYOTA_ATF_TQC_T: 36.25
+- response: 7E80661824E205780
+  expected_values:
+    TOYOTA_ATF_PAN_T: 38.125
+    TOYOTA_ATF_TQC_T: 47.5
+- response: 7E80661824EC04D80
+  expected_values:
+    TOYOTA_ATF_PAN_T: 38.75
+    TOYOTA_ATF_TQC_T: 37.5
+- response: 7E80661824EC050A0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 38.75
+    TOYOTA_ATF_TQC_T: 40.625
+- response: 7E80661824EC05320
+  expected_values:
+    TOYOTA_ATF_PAN_T: 38.75
+    TOYOTA_ATF_TQC_T: 43.125
+- response: 7E806618250004E20
+  expected_values:
+    TOYOTA_ATF_PAN_T: 40
+    TOYOTA_ATF_TQC_T: 38.125
+- response: '7E806618250005000'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 40
+    TOYOTA_ATF_TQC_T: 40
+- response: 7E806618251404F60
+  expected_values:
+    TOYOTA_ATF_PAN_T: 41.25
+    TOYOTA_ATF_TQC_T: 39.375
+- response: '7E806618251405460'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 41.25
+    TOYOTA_ATF_TQC_T: 44.375
+- response: 7E806618251E05280
+  expected_values:
+    TOYOTA_ATF_PAN_T: 41.875
+    TOYOTA_ATF_TQC_T: 42.5
+- response: 7E806618251E056E0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 41.875
+    TOYOTA_ATF_TQC_T: 46.875
+- response: 7E8066182528051E0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 42.5
+    TOYOTA_ATF_TQC_T: 41.875
+- response: '7E806618253205640'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 43.125
+    TOYOTA_ATF_TQC_T: 46.25
+- response: '7E806618253205820'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 43.125
+    TOYOTA_ATF_TQC_T: 48.125
+- response: 7E806618253C053C0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 43.75
+    TOYOTA_ATF_TQC_T: 43.75
+- response: 7E806618253C05500
+  expected_values:
+    TOYOTA_ATF_PAN_T: 43.75
+    TOYOTA_ATF_TQC_T: 45
+- response: 7E806618253C05E60
+  expected_values:
+    TOYOTA_ATF_PAN_T: 43.75
+    TOYOTA_ATF_TQC_T: 54.375
+- response: 7E8066182546055A0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 44.375
+    TOYOTA_ATF_TQC_T: 45.625
+- response: '7E806618255005640'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 45
+    TOYOTA_ATF_TQC_T: 46.25
+- response: '7E806618255005820'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 45
+    TOYOTA_ATF_TQC_T: 48.125
+- response: 7E8066182550058C0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 45
+    TOYOTA_ATF_TQC_T: 48.75
+- response: 7E806618255A05AA0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 45.625
+    TOYOTA_ATF_TQC_T: 50.625
+- response: 7E806618256405A00
+  expected_values:
+    TOYOTA_ATF_PAN_T: 46.25
+    TOYOTA_ATF_TQC_T: 50
+- response: 7E806618256E05820
+  expected_values:
+    TOYOTA_ATF_PAN_T: 46.875
+    TOYOTA_ATF_TQC_T: 48.125
+- response: '7E806618257805780'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 47.5
+    TOYOTA_ATF_TQC_T: 47.5
+- response: 7E8066182578058C0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 47.5
+    TOYOTA_ATF_TQC_T: 48.75
+- response: '7E806618257805960'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 47.5
+    TOYOTA_ATF_TQC_T: 49.375
+- response: 7E806618257805F00
+  expected_values:
+    TOYOTA_ATF_PAN_T: 47.5
+    TOYOTA_ATF_TQC_T: 55
+- response: '7E806618257806400'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 47.5
+    TOYOTA_ATF_TQC_T: 60
+- response: 7E8066182582058C0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 48.125
+    TOYOTA_ATF_TQC_T: 48.75
+- response: 7E806618258C05960
+  expected_values:
+    TOYOTA_ATF_PAN_T: 48.75
+    TOYOTA_ATF_TQC_T: 49.375
+- response: 7E806618258C05AA0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 48.75
+    TOYOTA_ATF_TQC_T: 50.625
+- response: 7E806618258C05BE0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 48.75
+    TOYOTA_ATF_TQC_T: 51.875
+- response: 7E806618258C05E60
+  expected_values:
+    TOYOTA_ATF_PAN_T: 48.75
+    TOYOTA_ATF_TQC_T: 54.375
+- response: 7E806618259605AA0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 49.375
+    TOYOTA_ATF_TQC_T: 50.625
+- response: '7E806618259606400'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 49.375
+    TOYOTA_ATF_TQC_T: 60
+- response: 7E80661825A005A00
+  expected_values:
+    TOYOTA_ATF_PAN_T: 50
+    TOYOTA_ATF_TQC_T: 50
+- response: 7E80661825A005D20
+  expected_values:
+    TOYOTA_ATF_PAN_T: 50
+    TOYOTA_ATF_TQC_T: 53.125
+- response: 7E80661825AA05E60
+  expected_values:
+    TOYOTA_ATF_PAN_T: 50.625
+    TOYOTA_ATF_TQC_T: 54.375
+- response: 7E80661825B405D20
+  expected_values:
+    TOYOTA_ATF_PAN_T: 51.25
+    TOYOTA_ATF_TQC_T: 53.125
+- response: 7E80661825B405E60
+  expected_values:
+    TOYOTA_ATF_PAN_T: 51.25
+    TOYOTA_ATF_TQC_T: 54.375
+- response: 7E80661825BE05BE0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 51.875
+    TOYOTA_ATF_TQC_T: 51.875
+- response: 7E80661825BE05F00
+  expected_values:
+    TOYOTA_ATF_PAN_T: 51.875
+    TOYOTA_ATF_TQC_T: 55
+- response: 7E80661825C805D20
+  expected_values:
+    TOYOTA_ATF_PAN_T: 52.5
+    TOYOTA_ATF_TQC_T: 53.125
+- response: 7E80661825C805E60
+  expected_values:
+    TOYOTA_ATF_PAN_T: 52.5
+    TOYOTA_ATF_TQC_T: 54.375
+- response: 7E80661825C8060E0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 52.5
+    TOYOTA_ATF_TQC_T: 56.875
+- response: 7E80661825C806360
+  expected_values:
+    TOYOTA_ATF_PAN_T: 52.5
+    TOYOTA_ATF_TQC_T: 59.375
+- response: 7E80661825D205D20
+  expected_values:
+    TOYOTA_ATF_PAN_T: 53.125
+    TOYOTA_ATF_TQC_T: 53.125
+- response: 7E80661825D205F00
+  expected_values:
+    TOYOTA_ATF_PAN_T: 53.125
+    TOYOTA_ATF_TQC_T: 55
+- response: 7E80661825D2060E0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 53.125
+    TOYOTA_ATF_TQC_T: 56.875
+- response: 7E80661825DC05E60
+  expected_values:
+    TOYOTA_ATF_PAN_T: 53.75
+    TOYOTA_ATF_TQC_T: 54.375
+- response: 7E80661825F005FA0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 55
+    TOYOTA_ATF_TQC_T: 55.625
+- response: 7E80661825F006180
+  expected_values:
+    TOYOTA_ATF_PAN_T: 55
+    TOYOTA_ATF_TQC_T: 57.5
+- response: 7E80661825F006540
+  expected_values:
+    TOYOTA_ATF_PAN_T: 55
+    TOYOTA_ATF_TQC_T: 61.25
+- response: 7E80661825FA06180
+  expected_values:
+    TOYOTA_ATF_PAN_T: 55.625
+    TOYOTA_ATF_TQC_T: 57.5
+- response: 7E806618260E06180
+  expected_values:
+    TOYOTA_ATF_PAN_T: 56.875
+    TOYOTA_ATF_TQC_T: 57.5
+- response: 7E806618260E062C0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 56.875
+    TOYOTA_ATF_TQC_T: 58.75
+- response: 7E806618260E06400
+  expected_values:
+    TOYOTA_ATF_PAN_T: 56.875
+    TOYOTA_ATF_TQC_T: 60
+- response: '7E806618261806400'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 57.5
+    TOYOTA_ATF_TQC_T: 60
+- response: 7E8066182618065E0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 57.5
+    TOYOTA_ATF_TQC_T: 61.875
+- response: 7E8066182622064A0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 58.125
+    TOYOTA_ATF_TQC_T: 60.625
+- response: '7E806618262206540'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 58.125
+    TOYOTA_ATF_TQC_T: 61.25
+- response: 7E806618262C06360
+  expected_values:
+    TOYOTA_ATF_PAN_T: 58.75
+    TOYOTA_ATF_TQC_T: 59.375
+- response: 7E806618262C06400
+  expected_values:
+    TOYOTA_ATF_PAN_T: 58.75
+    TOYOTA_ATF_TQC_T: 60
+- response: 7E8066182636064A0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 59.375
+    TOYOTA_ATF_TQC_T: 60.625
+- response: 7E8066182636065E0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 59.375
+    TOYOTA_ATF_TQC_T: 61.875
+- response: '7E806618263606860'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 59.375
+    TOYOTA_ATF_TQC_T: 64.375
+- response: '7E806618264006680'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 60
+    TOYOTA_ATF_TQC_T: 62.5
+- response: 7E8066182640067C0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 60
+    TOYOTA_ATF_TQC_T: 63.75
+- response: '7E806618264006860'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 60
+    TOYOTA_ATF_TQC_T: 64.375
+- response: '7E806618264006900'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 60
+    TOYOTA_ATF_TQC_T: 65
+- response: 7E8066182654065E0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 61.25
+    TOYOTA_ATF_TQC_T: 61.875
+- response: '7E806618265406720'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 61.25
+    TOYOTA_ATF_TQC_T: 63.125
+- response: 7E8066182654067C0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 61.25
+    TOYOTA_ATF_TQC_T: 63.75
+- response: 7E806618265E067C0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 61.875
+    TOYOTA_ATF_TQC_T: 63.75
+- response: 7E806618265E06900
+  expected_values:
+    TOYOTA_ATF_PAN_T: 61.875
+    TOYOTA_ATF_TQC_T: 65
+- response: '7E806618266806680'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 62.5
+    TOYOTA_ATF_TQC_T: 62.5
+- response: '7E806618266806860'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 62.5
+    TOYOTA_ATF_TQC_T: 64.375
+- response: '7E806618266806900'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 62.5
+    TOYOTA_ATF_TQC_T: 65
+- response: 7E8066182668069A0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 62.5
+    TOYOTA_ATF_TQC_T: 65.625
+- response: 7E806618266806A40
+  expected_values:
+    TOYOTA_ATF_PAN_T: 62.5
+    TOYOTA_ATF_TQC_T: 66.25
+- response: 7E806618266806AE0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 62.5
+    TOYOTA_ATF_TQC_T: 66.875
+- response: '7E806618267206860'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 63.125
+    TOYOTA_ATF_TQC_T: 64.375
+- response: 7E806618267206AE0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 63.125
+    TOYOTA_ATF_TQC_T: 66.875
+- response: 7E806618267C06900
+  expected_values:
+    TOYOTA_ATF_PAN_T: 63.75
+    TOYOTA_ATF_TQC_T: 65
+- response: 7E806618267C07580
+  expected_values:
+    TOYOTA_ATF_PAN_T: 63.75
+    TOYOTA_ATF_TQC_T: 77.5
+- response: '7E806618268606900'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 64.375
+    TOYOTA_ATF_TQC_T: 65
+- response: 7E806618268606AE0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 64.375
+    TOYOTA_ATF_TQC_T: 66.875
+- response: 7E806618268606B80
+  expected_values:
+    TOYOTA_ATF_PAN_T: 64.375
+    TOYOTA_ATF_TQC_T: 67.5
+- response: 7E806618268606C20
+  expected_values:
+    TOYOTA_ATF_PAN_T: 64.375
+    TOYOTA_ATF_TQC_T: 68.125
+- response: '7E806618269006900'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 65
+    TOYOTA_ATF_TQC_T: 65
+- response: 7E806618269006AE0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 65
+    TOYOTA_ATF_TQC_T: 66.875
+- response: 7E806618269006B80
+  expected_values:
+    TOYOTA_ATF_PAN_T: 65
+    TOYOTA_ATF_TQC_T: 67.5
+- response: 7E806618269006CC0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 65
+    TOYOTA_ATF_TQC_T: 68.75
+- response: 7E806618269A06A40
+  expected_values:
+    TOYOTA_ATF_PAN_T: 65.625
+    TOYOTA_ATF_TQC_T: 66.25
+- response: 7E806618269A06D60
+  expected_values:
+    TOYOTA_ATF_PAN_T: 65.625
+    TOYOTA_ATF_TQC_T: 69.375
+- response: 7E80661826A406AE0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 66.25
+    TOYOTA_ATF_TQC_T: 66.875
+- response: 7E80661826A406B80
+  expected_values:
+    TOYOTA_ATF_PAN_T: 66.25
+    TOYOTA_ATF_TQC_T: 67.5
+- response: 7E80661826AE06AE0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 66.875
+    TOYOTA_ATF_TQC_T: 66.875
+- response: 7E80661826AE06C20
+  expected_values:
+    TOYOTA_ATF_PAN_T: 66.875
+    TOYOTA_ATF_TQC_T: 68.125
+- response: 7E80661826AE06CC0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 66.875
+    TOYOTA_ATF_TQC_T: 68.75
+- response: 7E80661826AE06EA0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 66.875
+    TOYOTA_ATF_TQC_T: 70.625
+- response: 7E80661826B806B80
+  expected_values:
+    TOYOTA_ATF_PAN_T: 67.5
+    TOYOTA_ATF_TQC_T: 67.5
+- response: 7E80661826B806CC0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 67.5
+    TOYOTA_ATF_TQC_T: 68.75
+- response: 7E80661826B806D60
+  expected_values:
+    TOYOTA_ATF_PAN_T: 67.5
+    TOYOTA_ATF_TQC_T: 69.375
+- response: 7E80661826B806F40
+  expected_values:
+    TOYOTA_ATF_PAN_T: 67.5
+    TOYOTA_ATF_TQC_T: 71.25
+- response: 7E80661826C206C20
+  expected_values:
+    TOYOTA_ATF_PAN_T: 68.125
+    TOYOTA_ATF_TQC_T: 68.125
+- response: 7E80661826C206D60
+  expected_values:
+    TOYOTA_ATF_PAN_T: 68.125
+    TOYOTA_ATF_TQC_T: 69.375
+- response: 7E80661826C207260
+  expected_values:
+    TOYOTA_ATF_PAN_T: 68.125
+    TOYOTA_ATF_TQC_T: 74.375
+- response: 7E80661826CC06CC0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 68.75
+    TOYOTA_ATF_TQC_T: 68.75
+- response: 7E80661826CC06EA0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 68.75
+    TOYOTA_ATF_TQC_T: 70.625
+- response: 7E80661826CC07580
+  expected_values:
+    TOYOTA_ATF_PAN_T: 68.75
+    TOYOTA_ATF_TQC_T: 77.5
+- response: 7E80661826D606EA0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 69.375
+    TOYOTA_ATF_TQC_T: 70.625
+- response: 7E80661826D606F40
+  expected_values:
+    TOYOTA_ATF_PAN_T: 69.375
+    TOYOTA_ATF_TQC_T: 71.25
+- response: 7E80661826D606FE0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 69.375
+    TOYOTA_ATF_TQC_T: 71.875
+- response: 7E80661826D607120
+  expected_values:
+    TOYOTA_ATF_PAN_T: 69.375
+    TOYOTA_ATF_TQC_T: 73.125
+- response: 7E80661826E006D60
+  expected_values:
+    TOYOTA_ATF_PAN_T: 70
+    TOYOTA_ATF_TQC_T: 69.375
+- response: 7E80661826E006F40
+  expected_values:
+    TOYOTA_ATF_PAN_T: 70
+    TOYOTA_ATF_TQC_T: 71.25
+- response: 7E80661826E006FE0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 70
+    TOYOTA_ATF_TQC_T: 71.875
+- response: 7E80661826E007120
+  expected_values:
+    TOYOTA_ATF_PAN_T: 70
+    TOYOTA_ATF_TQC_T: 73.125
+- response: 7E80661826E007620
+  expected_values:
+    TOYOTA_ATF_PAN_T: 70
+    TOYOTA_ATF_TQC_T: 78.125
+- response: 7E80661826EA06EA0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 70.625
+    TOYOTA_ATF_TQC_T: 70.625
+- response: 7E80661826EA07080
+  expected_values:
+    TOYOTA_ATF_PAN_T: 70.625
+    TOYOTA_ATF_TQC_T: 72.5
+- response: 7E80661826EA07300
+  expected_values:
+    TOYOTA_ATF_PAN_T: 70.625
+    TOYOTA_ATF_TQC_T: 75
+- response: 7E80661826F406FE0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 71.25
+    TOYOTA_ATF_TQC_T: 71.875
+- response: 7E80661826F407080
+  expected_values:
+    TOYOTA_ATF_PAN_T: 71.25
+    TOYOTA_ATF_TQC_T: 72.5
+- response: 7E80661826F4071C0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 71.25
+    TOYOTA_ATF_TQC_T: 73.75
+- response: 7E80661826FE06FE0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 71.875
+    TOYOTA_ATF_TQC_T: 71.875
+- response: 7E80661826FE07260
+  expected_values:
+    TOYOTA_ATF_PAN_T: 71.875
+    TOYOTA_ATF_TQC_T: 74.375
+- response: 7E8066182708073A0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 72.5
+    TOYOTA_ATF_TQC_T: 75.625
+- response: '7E806618270807440'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 72.5
+    TOYOTA_ATF_TQC_T: 76.25
+- response: 7E8066182708074E0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 72.5
+    TOYOTA_ATF_TQC_T: 76.875
+- response: '7E806618270807800'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 72.5
+    TOYOTA_ATF_TQC_T: 80
+- response: 7E8066182712073A0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 73.125
+    TOYOTA_ATF_TQC_T: 75.625
+- response: 7E806618271C07440
+  expected_values:
+    TOYOTA_ATF_PAN_T: 73.75
+    TOYOTA_ATF_TQC_T: 76.25
+- response: 7E806618271C074E0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 73.75
+    TOYOTA_ATF_TQC_T: 76.875
+- response: 7E806618271C07580
+  expected_values:
+    TOYOTA_ATF_PAN_T: 73.75
+    TOYOTA_ATF_TQC_T: 77.5
+- response: '7E806618272607580'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 74.375
+    TOYOTA_ATF_TQC_T: 77.5
+- response: '7E806618273007300'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 75
+    TOYOTA_ATF_TQC_T: 75
+- response: 7E8066182730074E0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 75
+    TOYOTA_ATF_TQC_T: 76.875
+- response: '7E806618273007580'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 75
+    TOYOTA_ATF_TQC_T: 77.5
+- response: '7E806618273007620'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 75
+    TOYOTA_ATF_TQC_T: 78.125
+- response: '7E806618273007760'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 75
+    TOYOTA_ATF_TQC_T: 79.375
+- response: 7E806618273A073A0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 75.625
+    TOYOTA_ATF_TQC_T: 75.625
+- response: 7E806618273A07580
+  expected_values:
+    TOYOTA_ATF_PAN_T: 75.625
+    TOYOTA_ATF_TQC_T: 77.5
+- response: 7E806618273A07620
+  expected_values:
+    TOYOTA_ATF_PAN_T: 75.625
+    TOYOTA_ATF_TQC_T: 78.125
+- response: 7E806618273A07760
+  expected_values:
+    TOYOTA_ATF_PAN_T: 75.625
+    TOYOTA_ATF_TQC_T: 79.375
+- response: 7E806618273A078A0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 75.625
+    TOYOTA_ATF_TQC_T: 80.625
+- response: '7E806618274407760'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 76.25
+    TOYOTA_ATF_TQC_T: 79.375
+- response: '7E806618274407940'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 76.25
+    TOYOTA_ATF_TQC_T: 81.25
+- response: 7E8066182744088E0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 76.25
+    TOYOTA_ATF_TQC_T: 96.875
+- response: 7E806618274E076C0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 76.875
+    TOYOTA_ATF_TQC_T: 78.75
+- response: 7E806618274E07800
+  expected_values:
+    TOYOTA_ATF_PAN_T: 76.875
+    TOYOTA_ATF_TQC_T: 80
+- response: 7E806618274E078A0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 76.875
+    TOYOTA_ATF_TQC_T: 80.625
+- response: '7E806618275807580'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 77.5
+    TOYOTA_ATF_TQC_T: 77.5
+- response: '7E806618275807620'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 77.5
+    TOYOTA_ATF_TQC_T: 78.125
+- response: '7E806618275807760'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 77.5
+    TOYOTA_ATF_TQC_T: 79.375
+- response: '7E806618275807800'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 77.5
+    TOYOTA_ATF_TQC_T: 80
+- response: 7E8066182758078A0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 77.5
+    TOYOTA_ATF_TQC_T: 80.625
+- response: 7E8066182758079E0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 77.5
+    TOYOTA_ATF_TQC_T: 81.875
+- response: 7E806618275807B20
+  expected_values:
+    TOYOTA_ATF_PAN_T: 77.5
+    TOYOTA_ATF_TQC_T: 83.125
+- response: '7E806618276207620'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 78.125
+    TOYOTA_ATF_TQC_T: 78.125
+- response: '7E806618276207940'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 78.125
+    TOYOTA_ATF_TQC_T: 81.25
+- response: 7E806618276207A80
+  expected_values:
+    TOYOTA_ATF_PAN_T: 78.125
+    TOYOTA_ATF_TQC_T: 82.5
+- response: 7E806618276207B20
+  expected_values:
+    TOYOTA_ATF_PAN_T: 78.125
+    TOYOTA_ATF_TQC_T: 83.125
+- response: 7E806618276C07800
+  expected_values:
+    TOYOTA_ATF_PAN_T: 78.75
+    TOYOTA_ATF_TQC_T: 80
+- response: 7E806618276C07940
+  expected_values:
+    TOYOTA_ATF_PAN_T: 78.75
+    TOYOTA_ATF_TQC_T: 81.25
+- response: 7E806618276C07B20
+  expected_values:
+    TOYOTA_ATF_PAN_T: 78.75
+    TOYOTA_ATF_TQC_T: 83.125
+- response: 7E806618276C07D00
+  expected_values:
+    TOYOTA_ATF_PAN_T: 78.75
+    TOYOTA_ATF_TQC_T: 85
+- response: 7E806618277607B20
+  expected_values:
+    TOYOTA_ATF_PAN_T: 79.375
+    TOYOTA_ATF_TQC_T: 83.125
+- response: 7E806618277607BC0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 79.375
+    TOYOTA_ATF_TQC_T: 83.75
+- response: 7E806618277607C60
+  expected_values:
+    TOYOTA_ATF_PAN_T: 79.375
+    TOYOTA_ATF_TQC_T: 84.375
+- response: 7E8066182780078A0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 80
+    TOYOTA_ATF_TQC_T: 80.625
+- response: 7E806618278007C60
+  expected_values:
+    TOYOTA_ATF_PAN_T: 80
+    TOYOTA_ATF_TQC_T: 84.375
+- response: 7E806618278007D00
+  expected_values:
+    TOYOTA_ATF_PAN_T: 80
+    TOYOTA_ATF_TQC_T: 85
+- response: 7E806618278007E40
+  expected_values:
+    TOYOTA_ATF_PAN_T: 80
+    TOYOTA_ATF_TQC_T: 86.25
+- response: 7E806618278007F80
+  expected_values:
+    TOYOTA_ATF_PAN_T: 80
+    TOYOTA_ATF_TQC_T: 87.5
+- response: 7E806618278A07A80
+  expected_values:
+    TOYOTA_ATF_PAN_T: 80.625
+    TOYOTA_ATF_TQC_T: 82.5
+- response: 7E806618278A07B20
+  expected_values:
+    TOYOTA_ATF_PAN_T: 80.625
+    TOYOTA_ATF_TQC_T: 83.125
+- response: 7E806618278A07C60
+  expected_values:
+    TOYOTA_ATF_PAN_T: 80.625
+    TOYOTA_ATF_TQC_T: 84.375
+- response: 7E806618278A07D00
+  expected_values:
+    TOYOTA_ATF_PAN_T: 80.625
+    TOYOTA_ATF_TQC_T: 85
+- response: 7E806618278A07DA0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 80.625
+    TOYOTA_ATF_TQC_T: 85.625
+- response: 7E806618278A07EE0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 80.625
+    TOYOTA_ATF_TQC_T: 86.875
+- response: 7E806618278A07F80
+  expected_values:
+    TOYOTA_ATF_PAN_T: 80.625
+    TOYOTA_ATF_TQC_T: 87.5
+- response: 7E806618279407A80
+  expected_values:
+    TOYOTA_ATF_PAN_T: 81.25
+    TOYOTA_ATF_TQC_T: 82.5
+- response: 7E806618279407B20
+  expected_values:
+    TOYOTA_ATF_PAN_T: 81.25
+    TOYOTA_ATF_TQC_T: 83.125
+- response: 7E806618279407E40
+  expected_values:
+    TOYOTA_ATF_PAN_T: 81.25
+    TOYOTA_ATF_TQC_T: 86.25
+- response: 7E806618279E07DA0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 81.875
+    TOYOTA_ATF_TQC_T: 85.625
+- response: 7E806618279E07E40
+  expected_values:
+    TOYOTA_ATF_PAN_T: 81.875
+    TOYOTA_ATF_TQC_T: 86.25
+- response: 7E806618279E07F80
+  expected_values:
+    TOYOTA_ATF_PAN_T: 81.875
+    TOYOTA_ATF_TQC_T: 87.5
+- response: 7E806618279E08020
+  expected_values:
+    TOYOTA_ATF_PAN_T: 81.875
+    TOYOTA_ATF_TQC_T: 88.125
+- response: 7E806618279E080C0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 81.875
+    TOYOTA_ATF_TQC_T: 88.75
+- response: 7E80661827A807B20
+  expected_values:
+    TOYOTA_ATF_PAN_T: 82.5
+    TOYOTA_ATF_TQC_T: 83.125
+- response: 7E80661827A807D00
+  expected_values:
+    TOYOTA_ATF_PAN_T: 82.5
+    TOYOTA_ATF_TQC_T: 85
+- response: 7E80661827A807DA0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 82.5
+    TOYOTA_ATF_TQC_T: 85.625
+- response: 7E80661827A808520
+  expected_values:
+    TOYOTA_ATF_PAN_T: 82.5
+    TOYOTA_ATF_TQC_T: 93.125
+- response: 7E80661827B207C60
+  expected_values:
+    TOYOTA_ATF_PAN_T: 83.125
+    TOYOTA_ATF_TQC_T: 84.375
+- response: 7E80661827B207DA0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 83.125
+    TOYOTA_ATF_TQC_T: 85.625
+- response: 7E80661827B207F80
+  expected_values:
+    TOYOTA_ATF_PAN_T: 83.125
+    TOYOTA_ATF_TQC_T: 87.5
+- response: 7E80661827B208020
+  expected_values:
+    TOYOTA_ATF_PAN_T: 83.125
+    TOYOTA_ATF_TQC_T: 88.125
+- response: 7E80661827B208160
+  expected_values:
+    TOYOTA_ATF_PAN_T: 83.125
+    TOYOTA_ATF_TQC_T: 89.375
+- response: 7E80661827BC07C60
+  expected_values:
+    TOYOTA_ATF_PAN_T: 83.75
+    TOYOTA_ATF_TQC_T: 84.375
+- response: 7E80661827BC07DA0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 83.75
+    TOYOTA_ATF_TQC_T: 85.625
+- response: 7E80661827BC07EE0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 83.75
+    TOYOTA_ATF_TQC_T: 86.875
+- response: 7E80661827BC08020
+  expected_values:
+    TOYOTA_ATF_PAN_T: 83.75
+    TOYOTA_ATF_TQC_T: 88.125
+- response: 7E80661827BC08340
+  expected_values:
+    TOYOTA_ATF_PAN_T: 83.75
+    TOYOTA_ATF_TQC_T: 91.25
+- response: 7E80661827C607DA0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 84.375
+    TOYOTA_ATF_TQC_T: 85.625
+- response: 7E80661827C607EE0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 84.375
+    TOYOTA_ATF_TQC_T: 86.875
+- response: 7E80661827C608160
+  expected_values:
+    TOYOTA_ATF_PAN_T: 84.375
+    TOYOTA_ATF_TQC_T: 89.375
+- response: 7E80661827C608200
+  expected_values:
+    TOYOTA_ATF_PAN_T: 84.375
+    TOYOTA_ATF_TQC_T: 90
+- response: 7E80661827C6082A0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 84.375
+    TOYOTA_ATF_TQC_T: 90.625
+- response: 7E80661827D007DA0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 85
+    TOYOTA_ATF_TQC_T: 85.625
+- response: 7E80661827D0080C0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 85
+    TOYOTA_ATF_TQC_T: 88.75
+- response: 7E80661827D008160
+  expected_values:
+    TOYOTA_ATF_PAN_T: 85
+    TOYOTA_ATF_TQC_T: 89.375
+- response: 7E80661827DA07DA0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 85.625
+    TOYOTA_ATF_TQC_T: 85.625
+- response: 7E80661827DA07E40
+  expected_values:
+    TOYOTA_ATF_PAN_T: 85.625
+    TOYOTA_ATF_TQC_T: 86.25
+- response: 7E80661827DA08160
+  expected_values:
+    TOYOTA_ATF_PAN_T: 85.625
+    TOYOTA_ATF_TQC_T: 89.375
+- response: 7E80661827DA08200
+  expected_values:
+    TOYOTA_ATF_PAN_T: 85.625
+    TOYOTA_ATF_TQC_T: 90
+- response: 7E80661827DA082A0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 85.625
+    TOYOTA_ATF_TQC_T: 90.625
+- response: 7E80661827DA083E0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 85.625
+    TOYOTA_ATF_TQC_T: 91.875
+- response: 7E80661827DA08480
+  expected_values:
+    TOYOTA_ATF_PAN_T: 85.625
+    TOYOTA_ATF_TQC_T: 92.5
+- response: 7E80661827E4080C0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 86.25
+    TOYOTA_ATF_TQC_T: 88.75
+- response: 7E80661827E408340
+  expected_values:
+    TOYOTA_ATF_PAN_T: 86.25
+    TOYOTA_ATF_TQC_T: 91.25
+- response: 7E80661827EE08020
+  expected_values:
+    TOYOTA_ATF_PAN_T: 86.875
+    TOYOTA_ATF_TQC_T: 88.125
+- response: 7E80661827EE083E0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 86.875
+    TOYOTA_ATF_TQC_T: 91.875
+- response: 7E80661827EE08480
+  expected_values:
+    TOYOTA_ATF_PAN_T: 86.875
+    TOYOTA_ATF_TQC_T: 92.5
+- response: 7E80661827EE08520
+  expected_values:
+    TOYOTA_ATF_PAN_T: 86.875
+    TOYOTA_ATF_TQC_T: 93.125
+- response: 7E80661827EE08660
+  expected_values:
+    TOYOTA_ATF_PAN_T: 86.875
+    TOYOTA_ATF_TQC_T: 94.375
+- response: 7E80661827F807F80
+  expected_values:
+    TOYOTA_ATF_PAN_T: 87.5
+    TOYOTA_ATF_TQC_T: 87.5
+- response: 7E80661827F808020
+  expected_values:
+    TOYOTA_ATF_PAN_T: 87.5
+    TOYOTA_ATF_TQC_T: 88.125
+- response: 7E80661827F8080C0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 87.5
+    TOYOTA_ATF_TQC_T: 88.75
+- response: 7E80661827F8082A0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 87.5
+    TOYOTA_ATF_TQC_T: 90.625
+- response: '7E806618280208020'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 88.125
+    TOYOTA_ATF_TQC_T: 88.125
+- response: 7E8066182802080C0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 88.125
+    TOYOTA_ATF_TQC_T: 88.75
+- response: '7E806618280208200'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 88.125
+    TOYOTA_ATF_TQC_T: 90
+- response: 7E8066182802082A0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 88.125
+    TOYOTA_ATF_TQC_T: 90.625
+- response: '7E806618280208340'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 88.125
+    TOYOTA_ATF_TQC_T: 91.25
+- response: 7E8066182802083E0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 88.125
+    TOYOTA_ATF_TQC_T: 91.875
+- response: 7E8066182802085C0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 88.125
+    TOYOTA_ATF_TQC_T: 93.75
+- response: '7E806618280208660'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 88.125
+    TOYOTA_ATF_TQC_T: 94.375
+- response: 7E8066182802087A0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 88.125
+    TOYOTA_ATF_TQC_T: 95.625
+- response: 7E806618280C080C0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 88.75
+    TOYOTA_ATF_TQC_T: 88.75
+- response: 7E806618280C08160
+  expected_values:
+    TOYOTA_ATF_PAN_T: 88.75
+    TOYOTA_ATF_TQC_T: 89.375
+- response: 7E806618280C08200
+  expected_values:
+    TOYOTA_ATF_PAN_T: 88.75
+    TOYOTA_ATF_TQC_T: 90
+- response: 7E806618280C082A0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 88.75
+    TOYOTA_ATF_TQC_T: 90.625
+- response: 7E806618280C08520
+  expected_values:
+    TOYOTA_ATF_PAN_T: 88.75
+    TOYOTA_ATF_TQC_T: 93.125
+- response: 7E806618280C085C0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 88.75
+    TOYOTA_ATF_TQC_T: 93.75
+- response: 7E806618280C08700
+  expected_values:
+    TOYOTA_ATF_PAN_T: 88.75
+    TOYOTA_ATF_TQC_T: 95
+- response: 7E806618280C087A0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 88.75
+    TOYOTA_ATF_TQC_T: 95.625
+- response: '7E806618281608160'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 89.375
+    TOYOTA_ATF_TQC_T: 89.375
+- response: '7E806618281608200'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 89.375
+    TOYOTA_ATF_TQC_T: 90
+- response: 7E8066182816082A0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 89.375
+    TOYOTA_ATF_TQC_T: 90.625
+- response: 7E8066182816083E0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 89.375
+    TOYOTA_ATF_TQC_T: 91.875
+- response: '7E806618281608480'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 89.375
+    TOYOTA_ATF_TQC_T: 92.5
+- response: '7E806618281608520'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 89.375
+    TOYOTA_ATF_TQC_T: 93.125
+- response: 7E8066182816085C0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 89.375
+    TOYOTA_ATF_TQC_T: 93.75
+- response: '7E806618281608660'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 89.375
+    TOYOTA_ATF_TQC_T: 94.375
+- response: '7E806618281608700'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 89.375
+    TOYOTA_ATF_TQC_T: 95
+- response: '7E806618281608840'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 89.375
+    TOYOTA_ATF_TQC_T: 96.25
+- response: 7E8066182816088E0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 89.375
+    TOYOTA_ATF_TQC_T: 96.875
+- response: '7E806618282008200'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 90
+    TOYOTA_ATF_TQC_T: 90
+- response: 7E8066182820082A0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 90
+    TOYOTA_ATF_TQC_T: 90.625
+- response: '7E806618282008340'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 90
+    TOYOTA_ATF_TQC_T: 91.25
+- response: 7E8066182820083E0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 90
+    TOYOTA_ATF_TQC_T: 91.875
+- response: 7E8066182820087A0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 90
+    TOYOTA_ATF_TQC_T: 95.625
+- response: '7E806618282008840'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 90
+    TOYOTA_ATF_TQC_T: 96.25
+- response: 7E806618282A082A0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 90.625
+    TOYOTA_ATF_TQC_T: 90.625
+- response: 7E806618282A08340
+  expected_values:
+    TOYOTA_ATF_PAN_T: 90.625
+    TOYOTA_ATF_TQC_T: 91.25
+- response: 7E806618282A083E0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 90.625
+    TOYOTA_ATF_TQC_T: 91.875
+- response: 7E806618282A08480
+  expected_values:
+    TOYOTA_ATF_PAN_T: 90.625
+    TOYOTA_ATF_TQC_T: 92.5
+- response: 7E806618282A085C0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 90.625
+    TOYOTA_ATF_TQC_T: 93.75
+- response: 7E806618282A08660
+  expected_values:
+    TOYOTA_ATF_PAN_T: 90.625
+    TOYOTA_ATF_TQC_T: 94.375
+- response: 7E806618282A08700
+  expected_values:
+    TOYOTA_ATF_PAN_T: 90.625
+    TOYOTA_ATF_TQC_T: 95
+- response: 7E806618282A088E0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 90.625
+    TOYOTA_ATF_TQC_T: 96.875
+- response: 7E806618282A08980
+  expected_values:
+    TOYOTA_ATF_PAN_T: 90.625
+    TOYOTA_ATF_TQC_T: 97.5
+- response: 7E806618282A08A20
+  expected_values:
+    TOYOTA_ATF_PAN_T: 90.625
+    TOYOTA_ATF_TQC_T: 98.125
+- response: 7E806618282A08AC0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 90.625
+    TOYOTA_ATF_TQC_T: 98.75
+- response: '7E806618283408340'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 91.25
+    TOYOTA_ATF_TQC_T: 91.25
+- response: 7E8066182834083E0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 91.25
+    TOYOTA_ATF_TQC_T: 91.875
+- response: '7E806618283408660'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 91.25
+    TOYOTA_ATF_TQC_T: 94.375
+- response: 7E8066182834088E0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 91.25
+    TOYOTA_ATF_TQC_T: 96.875
+- response: 7E806618283408A20
+  expected_values:
+    TOYOTA_ATF_PAN_T: 91.25
+    TOYOTA_ATF_TQC_T: 98.125
+- response: 7E806618283408B60
+  expected_values:
+    TOYOTA_ATF_PAN_T: 91.25
+    TOYOTA_ATF_TQC_T: 99.375
+- response: 7E806618283E083E0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 91.875
+    TOYOTA_ATF_TQC_T: 91.875
+- response: 7E806618283E08480
+  expected_values:
+    TOYOTA_ATF_PAN_T: 91.875
+    TOYOTA_ATF_TQC_T: 92.5
+- response: 7E806618283E08660
+  expected_values:
+    TOYOTA_ATF_PAN_T: 91.875
+    TOYOTA_ATF_TQC_T: 94.375
+- response: 7E806618283E088E0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 91.875
+    TOYOTA_ATF_TQC_T: 96.875
+- response: 7E806618283E08980
+  expected_values:
+    TOYOTA_ATF_PAN_T: 91.875
+    TOYOTA_ATF_TQC_T: 97.5
+- response: 7E806618283E08A20
+  expected_values:
+    TOYOTA_ATF_PAN_T: 91.875
+    TOYOTA_ATF_TQC_T: 98.125
+- response: 7E806618283E08AC0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 91.875
+    TOYOTA_ATF_TQC_T: 98.75
+- response: '7E806618284808480'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 92.5
+    TOYOTA_ATF_TQC_T: 92.5
+- response: '7E806618284808520'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 92.5
+    TOYOTA_ATF_TQC_T: 93.125
+- response: 7E8066182848085C0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 92.5
+    TOYOTA_ATF_TQC_T: 93.75
+- response: '7E806618284808660'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 92.5
+    TOYOTA_ATF_TQC_T: 94.375
+- response: '7E806618284808700'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 92.5
+    TOYOTA_ATF_TQC_T: 95
+- response: '7E806618284808980'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 92.5
+    TOYOTA_ATF_TQC_T: 97.5
+- response: 7E806618284808A20
+  expected_values:
+    TOYOTA_ATF_PAN_T: 92.5
+    TOYOTA_ATF_TQC_T: 98.125
+- response: 7E806618284808AC0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 92.5
+    TOYOTA_ATF_TQC_T: 98.75
+- response: 7E806618284808B60
+  expected_values:
+    TOYOTA_ATF_PAN_T: 92.5
+    TOYOTA_ATF_TQC_T: 99.375
+- response: 7E806618284808C00
+  expected_values:
+    TOYOTA_ATF_PAN_T: 92.5
+    TOYOTA_ATF_TQC_T: 100
+- response: '7E806618285208520'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 93.125
+    TOYOTA_ATF_TQC_T: 93.125
+- response: 7E8066182852085C0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 93.125
+    TOYOTA_ATF_TQC_T: 93.75
+- response: '7E806618285208660'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 93.125
+    TOYOTA_ATF_TQC_T: 94.375
+- response: 7E8066182852087A0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 93.125
+    TOYOTA_ATF_TQC_T: 95.625
+- response: 7E806618285208C00
+  expected_values:
+    TOYOTA_ATF_PAN_T: 93.125
+    TOYOTA_ATF_TQC_T: 100
+- response: 7E806618285C08660
+  expected_values:
+    TOYOTA_ATF_PAN_T: 93.75
+    TOYOTA_ATF_TQC_T: 94.375
+- response: 7E806618285C08B60
+  expected_values:
+    TOYOTA_ATF_PAN_T: 93.75
+    TOYOTA_ATF_TQC_T: 99.375
+- response: 7E806618285C08C00
+  expected_values:
+    TOYOTA_ATF_PAN_T: 93.75
+    TOYOTA_ATF_TQC_T: 100
+- response: 7E806618285C08D40
+  expected_values:
+    TOYOTA_ATF_PAN_T: 93.75
+    TOYOTA_ATF_TQC_T: 101.25
+- response: '7E806618286608700'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 94.375
+    TOYOTA_ATF_TQC_T: 95
+- response: 7E8066182866087A0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 94.375
+    TOYOTA_ATF_TQC_T: 95.625
+- response: '7E806618286608840'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 94.375
+    TOYOTA_ATF_TQC_T: 96.25
+- response: 7E8066182866088E0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 94.375
+    TOYOTA_ATF_TQC_T: 96.875
+- response: 7E806618286608AC0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 94.375
+    TOYOTA_ATF_TQC_T: 98.75
+- response: 7E806618286608CA0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 94.375
+    TOYOTA_ATF_TQC_T: 100.625
+- response: 7E806618286608D40
+  expected_values:
+    TOYOTA_ATF_PAN_T: 94.375
+    TOYOTA_ATF_TQC_T: 101.25
+- response: 7E806618286608E80
+  expected_values:
+    TOYOTA_ATF_PAN_T: 94.375
+    TOYOTA_ATF_TQC_T: 102.5
+- response: 7E8066182870087A0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 95
+    TOYOTA_ATF_TQC_T: 95.625
+- response: '7E806618287008840'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 95
+    TOYOTA_ATF_TQC_T: 96.25
+- response: '7E806618287008980'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 95
+    TOYOTA_ATF_TQC_T: 97.5
+- response: 7E806618287008A20
+  expected_values:
+    TOYOTA_ATF_PAN_T: 95
+    TOYOTA_ATF_TQC_T: 98.125
+- response: 7E806618287008AC0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 95
+    TOYOTA_ATF_TQC_T: 98.75
+- response: 7E806618287008B60
+  expected_values:
+    TOYOTA_ATF_PAN_T: 95
+    TOYOTA_ATF_TQC_T: 99.375
+- response: 7E806618287008C00
+  expected_values:
+    TOYOTA_ATF_PAN_T: 95
+    TOYOTA_ATF_TQC_T: 100
+- response: 7E806618287A087A0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 95.625
+    TOYOTA_ATF_TQC_T: 95.625
+- response: 7E806618287A08A20
+  expected_values:
+    TOYOTA_ATF_PAN_T: 95.625
+    TOYOTA_ATF_TQC_T: 98.125
+- response: 7E806618287A08DE0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 95.625
+    TOYOTA_ATF_TQC_T: 101.875
+- response: 7E806618287A08E80
+  expected_values:
+    TOYOTA_ATF_PAN_T: 95.625
+    TOYOTA_ATF_TQC_T: 102.5
+- response: 7E806618287A08FC0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 95.625
+    TOYOTA_ATF_TQC_T: 103.75
+- response: 7E806618287A09060
+  expected_values:
+    TOYOTA_ATF_PAN_T: 95.625
+    TOYOTA_ATF_TQC_T: 104.375
+- response: 7E8066182884088E0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 96.25
+    TOYOTA_ATF_TQC_T: 96.875
+- response: '7E806618288408980'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 96.25
+    TOYOTA_ATF_TQC_T: 97.5
+- response: 7E806618288408A20
+  expected_values:
+    TOYOTA_ATF_PAN_T: 96.25
+    TOYOTA_ATF_TQC_T: 98.125
+- response: 7E806618288408B60
+  expected_values:
+    TOYOTA_ATF_PAN_T: 96.25
+    TOYOTA_ATF_TQC_T: 99.375
+- response: 7E806618288408CA0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 96.25
+    TOYOTA_ATF_TQC_T: 100.625
+- response: 7E806618288408E80
+  expected_values:
+    TOYOTA_ATF_PAN_T: 96.25
+    TOYOTA_ATF_TQC_T: 102.5
+- response: '7E806618288409100'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 96.25
+    TOYOTA_ATF_TQC_T: 105
+- response: 7E806618288E08980
+  expected_values:
+    TOYOTA_ATF_PAN_T: 96.875
+    TOYOTA_ATF_TQC_T: 97.5
+- response: 7E806618288E08A20
+  expected_values:
+    TOYOTA_ATF_PAN_T: 96.875
+    TOYOTA_ATF_TQC_T: 98.125
+- response: 7E806618288E08AC0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 96.875
+    TOYOTA_ATF_TQC_T: 98.75
+- response: 7E806618288E08B60
+  expected_values:
+    TOYOTA_ATF_PAN_T: 96.875
+    TOYOTA_ATF_TQC_T: 99.375
+- response: 7E806618288E08CA0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 96.875
+    TOYOTA_ATF_TQC_T: 100.625
+- response: 7E806618288E08D40
+  expected_values:
+    TOYOTA_ATF_PAN_T: 96.875
+    TOYOTA_ATF_TQC_T: 101.25
+- response: 7E806618288E08E80
+  expected_values:
+    TOYOTA_ATF_PAN_T: 96.875
+    TOYOTA_ATF_TQC_T: 102.5
+- response: 7E806618288E08F20
+  expected_values:
+    TOYOTA_ATF_PAN_T: 96.875
+    TOYOTA_ATF_TQC_T: 103.125
+- response: 7E806618288E09100
+  expected_values:
+    TOYOTA_ATF_PAN_T: 96.875
+    TOYOTA_ATF_TQC_T: 105
+- response: 7E806618289808A20
+  expected_values:
+    TOYOTA_ATF_PAN_T: 97.5
+    TOYOTA_ATF_TQC_T: 98.125
+- response: 7E806618289808AC0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 97.5
+    TOYOTA_ATF_TQC_T: 98.75
+- response: 7E806618289808B60
+  expected_values:
+    TOYOTA_ATF_PAN_T: 97.5
+    TOYOTA_ATF_TQC_T: 99.375
+- response: 7E806618289808C00
+  expected_values:
+    TOYOTA_ATF_PAN_T: 97.5
+    TOYOTA_ATF_TQC_T: 100
+- response: 7E806618289808D40
+  expected_values:
+    TOYOTA_ATF_PAN_T: 97.5
+    TOYOTA_ATF_TQC_T: 101.25
+- response: 7E806618289808DE0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 97.5
+    TOYOTA_ATF_TQC_T: 101.875
+- response: 7E806618289808E80
+  expected_values:
+    TOYOTA_ATF_PAN_T: 97.5
+    TOYOTA_ATF_TQC_T: 102.5
+- response: 7E806618289808FC0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 97.5
+    TOYOTA_ATF_TQC_T: 103.75
+- response: '7E806618289809060'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 97.5
+    TOYOTA_ATF_TQC_T: 104.375
+- response: '7E806618289809100'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 97.5
+    TOYOTA_ATF_TQC_T: 105
+- response: 7E80661828A208A20
+  expected_values:
+    TOYOTA_ATF_PAN_T: 98.125
+    TOYOTA_ATF_TQC_T: 98.125
+- response: 7E80661828A208AC0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 98.125
+    TOYOTA_ATF_TQC_T: 98.75
+- response: 7E80661828A208B60
+  expected_values:
+    TOYOTA_ATF_PAN_T: 98.125
+    TOYOTA_ATF_TQC_T: 99.375
+- response: 7E80661828A208C00
+  expected_values:
+    TOYOTA_ATF_PAN_T: 98.125
+    TOYOTA_ATF_TQC_T: 100
+- response: 7E80661828A208CA0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 98.125
+    TOYOTA_ATF_TQC_T: 100.625
+- response: 7E80661828A208DE0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 98.125
+    TOYOTA_ATF_TQC_T: 101.875
+- response: 7E80661828A208E80
+  expected_values:
+    TOYOTA_ATF_PAN_T: 98.125
+    TOYOTA_ATF_TQC_T: 102.5
+- response: 7E80661828A208F20
+  expected_values:
+    TOYOTA_ATF_PAN_T: 98.125
+    TOYOTA_ATF_TQC_T: 103.125
+- response: 7E80661828A208FC0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 98.125
+    TOYOTA_ATF_TQC_T: 103.75
+- response: 7E80661828A209060
+  expected_values:
+    TOYOTA_ATF_PAN_T: 98.125
+    TOYOTA_ATF_TQC_T: 104.375
+- response: 7E80661828A209100
+  expected_values:
+    TOYOTA_ATF_PAN_T: 98.125
+    TOYOTA_ATF_TQC_T: 105
+- response: 7E80661828A2091A0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 98.125
+    TOYOTA_ATF_TQC_T: 105.625
+- response: 7E80661828AC08B60
+  expected_values:
+    TOYOTA_ATF_PAN_T: 98.75
+    TOYOTA_ATF_TQC_T: 99.375
+- response: 7E80661828AC08C00
+  expected_values:
+    TOYOTA_ATF_PAN_T: 98.75
+    TOYOTA_ATF_TQC_T: 100
+- response: 7E80661828AC08D40
+  expected_values:
+    TOYOTA_ATF_PAN_T: 98.75
+    TOYOTA_ATF_TQC_T: 101.25
+- response: 7E80661828AC08E80
+  expected_values:
+    TOYOTA_ATF_PAN_T: 98.75
+    TOYOTA_ATF_TQC_T: 102.5
+- response: 7E80661828B608C00
+  expected_values:
+    TOYOTA_ATF_PAN_T: 99.375
+    TOYOTA_ATF_TQC_T: 100
+- response: 7E80661828B608CA0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 99.375
+    TOYOTA_ATF_TQC_T: 100.625
+- response: 7E80661828B608FC0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 99.375
+    TOYOTA_ATF_TQC_T: 103.75
+- response: 7E80661828B609240
+  expected_values:
+    TOYOTA_ATF_PAN_T: 99.375
+    TOYOTA_ATF_TQC_T: 106.25
+- response: 7E80661828B6092E0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 99.375
+    TOYOTA_ATF_TQC_T: 106.875
+- response: 7E80661828B609380
+  expected_values:
+    TOYOTA_ATF_PAN_T: 99.375
+    TOYOTA_ATF_TQC_T: 107.5
+- response: 7E80661828C008D40
+  expected_values:
+    TOYOTA_ATF_PAN_T: 100
+    TOYOTA_ATF_TQC_T: 101.25
+- response: 7E80661828C008DE0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 100
+    TOYOTA_ATF_TQC_T: 101.875
+- response: 7E80661828C008E80
+  expected_values:
+    TOYOTA_ATF_PAN_T: 100
+    TOYOTA_ATF_TQC_T: 102.5
+- response: 7E80661828C009100
+  expected_values:
+    TOYOTA_ATF_PAN_T: 100
+    TOYOTA_ATF_TQC_T: 105
+- response: 7E80661828C009240
+  expected_values:
+    TOYOTA_ATF_PAN_T: 100
+    TOYOTA_ATF_TQC_T: 106.25
+- response: 7E80661828C0092E0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 100
+    TOYOTA_ATF_TQC_T: 106.875
+- response: 7E80661828C009380
+  expected_values:
+    TOYOTA_ATF_PAN_T: 100
+    TOYOTA_ATF_TQC_T: 107.5
+- response: 7E80661828C0094C0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 100
+    TOYOTA_ATF_TQC_T: 108.75
+- response: 7E80661828CA08DE0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 100.625
+    TOYOTA_ATF_TQC_T: 101.875
+- response: 7E80661828CA08E80
+  expected_values:
+    TOYOTA_ATF_PAN_T: 100.625
+    TOYOTA_ATF_TQC_T: 102.5
+- response: 7E80661828CA08FC0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 100.625
+    TOYOTA_ATF_TQC_T: 103.75
+- response: 7E80661828CA09380
+  expected_values:
+    TOYOTA_ATF_PAN_T: 100.625
+    TOYOTA_ATF_TQC_T: 107.5
+- response: 7E80661828CA094C0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 100.625
+    TOYOTA_ATF_TQC_T: 108.75
+- response: 7E80661828D408E80
+  expected_values:
+    TOYOTA_ATF_PAN_T: 101.25
+    TOYOTA_ATF_TQC_T: 102.5
+- response: 7E80661828D408FC0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 101.25
+    TOYOTA_ATF_TQC_T: 103.75
+- response: 7E80661828D409100
+  expected_values:
+    TOYOTA_ATF_PAN_T: 101.25
+    TOYOTA_ATF_TQC_T: 105
+- response: 7E80661828D409240
+  expected_values:
+    TOYOTA_ATF_PAN_T: 101.25
+    TOYOTA_ATF_TQC_T: 106.25
+- response: 7E80661828D409380
+  expected_values:
+    TOYOTA_ATF_PAN_T: 101.25
+    TOYOTA_ATF_TQC_T: 107.5
+- response: 7E80661828D409420
+  expected_values:
+    TOYOTA_ATF_PAN_T: 101.25
+    TOYOTA_ATF_TQC_T: 108.125
+- response: 7E80661828D4094C0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 101.25
+    TOYOTA_ATF_TQC_T: 108.75
+- response: 7E80661828DE094C0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 101.875
+    TOYOTA_ATF_TQC_T: 108.75
+- response: 7E80661828DE09600
+  expected_values:
+    TOYOTA_ATF_PAN_T: 101.875
+    TOYOTA_ATF_TQC_T: 110
+- response: 7E80661828E809100
+  expected_values:
+    TOYOTA_ATF_PAN_T: 102.5
+    TOYOTA_ATF_TQC_T: 105
+- response: 7E80661828E8091A0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 102.5
+    TOYOTA_ATF_TQC_T: 105.625
+- response: 7E80661828E809420
+  expected_values:
+    TOYOTA_ATF_PAN_T: 102.5
+    TOYOTA_ATF_TQC_T: 108.125
+- response: 7E80661828E8094C0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 102.5
+    TOYOTA_ATF_TQC_T: 108.75
+- response: 7E80661828E809560
+  expected_values:
+    TOYOTA_ATF_PAN_T: 102.5
+    TOYOTA_ATF_TQC_T: 109.375
+- response: 7E80661828E809600
+  expected_values:
+    TOYOTA_ATF_PAN_T: 102.5
+    TOYOTA_ATF_TQC_T: 110
+- response: 7E80661828E8096A0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 102.5
+    TOYOTA_ATF_TQC_T: 110.625
+- response: 7E80661828F2092E0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 103.125
+    TOYOTA_ATF_TQC_T: 106.875
+- response: 7E80661828F2094C0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 103.125
+    TOYOTA_ATF_TQC_T: 108.75
+- response: 7E80661828F2096A0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 103.125
+    TOYOTA_ATF_TQC_T: 110.625
+- response: 7E80661828F209740
+  expected_values:
+    TOYOTA_ATF_PAN_T: 103.125
+    TOYOTA_ATF_TQC_T: 111.25
+- response: 7E80661828FC08FC0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 103.75
+    TOYOTA_ATF_TQC_T: 103.75
+- response: 7E80661828FC09100
+  expected_values:
+    TOYOTA_ATF_PAN_T: 103.75
+    TOYOTA_ATF_TQC_T: 105
+- response: 7E80661828FC09380
+  expected_values:
+    TOYOTA_ATF_PAN_T: 103.75
+    TOYOTA_ATF_TQC_T: 107.5
+- response: 7E80661828FC09420
+  expected_values:
+    TOYOTA_ATF_PAN_T: 103.75
+    TOYOTA_ATF_TQC_T: 108.125
+- response: 7E80661828FC094C0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 103.75
+    TOYOTA_ATF_TQC_T: 108.75
+- response: 7E80661828FC09560
+  expected_values:
+    TOYOTA_ATF_PAN_T: 103.75
+    TOYOTA_ATF_TQC_T: 109.375
+- response: 7E80661828FC09600
+  expected_values:
+    TOYOTA_ATF_PAN_T: 103.75
+    TOYOTA_ATF_TQC_T: 110
+- response: 7E80661828FC09740
+  expected_values:
+    TOYOTA_ATF_PAN_T: 103.75
+    TOYOTA_ATF_TQC_T: 111.25
+- response: 7E80661828FC097E0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 103.75
+    TOYOTA_ATF_TQC_T: 111.875
+- response: 7E80661828FC09880
+  expected_values:
+    TOYOTA_ATF_PAN_T: 103.75
+    TOYOTA_ATF_TQC_T: 112.5
+- response: '7E806618290609380'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 104.375
+    TOYOTA_ATF_TQC_T: 107.5
+- response: '7E806618290609560'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 104.375
+    TOYOTA_ATF_TQC_T: 109.375
+- response: '7E806618290609600'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 104.375
+    TOYOTA_ATF_TQC_T: 110
+- response: 7E8066182906096A0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 104.375
+    TOYOTA_ATF_TQC_T: 110.625
+- response: 7E8066182910091A0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 105
+    TOYOTA_ATF_TQC_T: 105.625
+- response: '7E806618291009240'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 105
+    TOYOTA_ATF_TQC_T: 106.25
+- response: '7E806618291009920'
+  expected_values:
+    TOYOTA_ATF_PAN_T: 105
+    TOYOTA_ATF_TQC_T: 113.125
+- response: 7E8066182910099C0
+  expected_values:
+    TOYOTA_ATF_PAN_T: 105
+    TOYOTA_ATF_TQC_T: 113.75

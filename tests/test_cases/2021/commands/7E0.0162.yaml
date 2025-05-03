@@ -1,0 +1,76 @@
+command_id: 7E0.0162
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: '7E803416283'
+  expected_values:
+    TQ_ACT: 6
+- response: '7E803416284'
+  expected_values:
+    TQ_ACT: 7
+- response: '7E803416285'
+  expected_values:
+    TQ_ACT: 8
+- response: '7E803416286'
+  expected_values:
+    TQ_ACT: 9
+- response: '7E803416287'
+  expected_values:
+    TQ_ACT: 10
+- response: '7E803416288'
+  expected_values:
+    TQ_ACT: 11
+- response: '7E803416289'
+  expected_values:
+    TQ_ACT: 12
+- response: 7E80341628A
+  expected_values:
+    TQ_ACT: 13
+- response: '7E803416290'
+  expected_values:
+    TQ_ACT: 19
+- response: '7E803416292'
+  expected_values:
+    TQ_ACT: 21
+- response: '7E803416293'
+  expected_values:
+    TQ_ACT: 22
+- response: '7E803416295'
+  expected_values:
+    TQ_ACT: 24
+- response: '7E803416297'
+  expected_values:
+    TQ_ACT: 26
+- response: 7E80341629A
+  expected_values:
+    TQ_ACT: 29
+- response: 7E80341629D
+  expected_values:
+    TQ_ACT: 32
+- response: 7E8034162A4
+  expected_values:
+    TQ_ACT: 39
+- response: 7E8034162A6
+  expected_values:
+    TQ_ACT: 41
+- response: 7E8034162A8
+  expected_values:
+    TQ_ACT: 43
+- response: 7E8034162A9
+  expected_values:
+    TQ_ACT: 44
+- response: 7E8034162AD
+  expected_values:
+    TQ_ACT: 48
+- response: 7E8034162AE
+  expected_values:
+    TQ_ACT: 49
+- response: 7E8034162AF
+  expected_values:
+    TQ_ACT: 50
+- response: 7E8034162B1
+  expected_values:
+    TQ_ACT: 52
+- response: 7E8034162B3
+  expected_values:
+    TQ_ACT: 54

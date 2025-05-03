@@ -1,0 +1,37 @@
+command_id: 7E0.7E8.2128
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E805612800C438
+  expected_values:
+    TOYOTA_ODO: 50232
+- response: 7E805612800C439
+  expected_values:
+    TOYOTA_ODO: 50233
+- response: 7E805612800C43B
+  expected_values:
+    TOYOTA_ODO: 50235
+- response: 7E805612800C43D
+  expected_values:
+    TOYOTA_ODO: 50237
+- response: 7E805612800C43E
+  expected_values:
+    TOYOTA_ODO: 50238
+- response: 7E805612800C440
+  expected_values:
+    TOYOTA_ODO: 50240
+- response: 7E805612800C441
+  expected_values:
+    TOYOTA_ODO: 50241
+- response: 7E805612800C443
+  expected_values:
+    TOYOTA_ODO: 50243
+- response: 7E805612800C445
+  expected_values:
+    TOYOTA_ODO: 50245
+- response: 7E805612800C446
+  expected_values:
+    TOYOTA_ODO: 50246
+- response: 7E805612800C448
+  expected_values:
+    TOYOTA_ODO: 50248
