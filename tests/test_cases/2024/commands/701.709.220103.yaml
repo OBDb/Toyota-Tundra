@@ -4,25 +4,25 @@ extended_addressing_enabled: false
 test_cases:
 - response: 7090762010302003CDB
   expected_values:
-    TOYOTA_ODO: 15579
+    TOYOTA_ODO_V3: 15579
 - response: 7090762010302003CDC
   expected_values:
-    TOYOTA_ODO: 15580
+    TOYOTA_ODO_V3: 15580
 - response: 7090762010302003CDD
   expected_values:
-    TOYOTA_ODO: 15581
+    TOYOTA_ODO_V3: 15581
 - response: 7090762010302003CDE
   expected_values:
-    TOYOTA_ODO: 15582
+    TOYOTA_ODO_V3: 15582
 - response: 7090762010302003CDF
   expected_values:
-    TOYOTA_ODO: 15583
+    TOYOTA_ODO_V3: 15583
 - response: 7090762010302003CE0
   expected_values:
-    TOYOTA_ODO: 15584
+    TOYOTA_ODO_V3: 15584
 - response: 7090762010302003CE1
   expected_values:
-    TOYOTA_ODO: 15585
+    TOYOTA_ODO_V3: 15585
 - response: 7090762010302003CE2
   expected_values:
-    TOYOTA_ODO: 15586
+    TOYOTA_ODO_V3: 15586
