@@ -1,0 +1,100 @@
+command_id: 7E0.0142
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E90441422ECA
+  expected_values:
+    VPWR: 11.978
+- response: 7E90441422EE0
+  expected_values:
+    VPWR: 12
+- response: 7E90441422EF5
+  expected_values:
+    VPWR: 12.021
+- response: 7E90441422F0B
+  expected_values:
+    VPWR: 12.043
+- response: 7E90441422F20
+  expected_values:
+    VPWR: 12.064
+- response: 7E90441422F4B
+  expected_values:
+    VPWR: 12.107
+- response: 7E90441422F76
+  expected_values:
+    VPWR: 12.15
+- response: 7E90441422F8C
+  expected_values:
+    VPWR: 12.172
+- response: 7E90441422FA1
+  expected_values:
+    VPWR: 12.193
+- response: 7E90441422FB7
+  expected_values:
+    VPWR: 12.215
+- response: 7E90441422FCC
+  expected_values:
+    VPWR: 12.236
+- response: 7E90441422FE2
+  expected_values:
+    VPWR: 12.258
+- response: 7E904414230B9
+  expected_values:
+    VPWR: 12.473
+- response: 7E9044142314F
+  expected_values:
+    VPWR: 12.623
+- response: 7E904414231E6
+  expected_values:
+    VPWR: 12.774
+- response: 7E904414231FB
+  expected_values:
+    VPWR: 12.795
+- response: 7E904414233D4
+  expected_values:
+    VPWR: 13.268
+- response: 7E904414233EA
+  expected_values:
+    VPWR: 13.29
+- response: 7E904414233FF
+  expected_values:
+    VPWR: 13.311
+- response: '7E90441423542'
+  expected_values:
+    VPWR: 13.634
+- response: '7E90441423557'
+  expected_values:
+    VPWR: 13.655
+- response: 7E9044142356D
+  expected_values:
+    VPWR: 13.677
+- response: 7E904414235D8
+  expected_values:
+    VPWR: 13.784
+- response: 7E904414235EE
+  expected_values:
+    VPWR: 13.806
+- response: '7E90441423619'
+  expected_values:
+    VPWR: 13.849
+- response: 7E9044142362E
+  expected_values:
+    VPWR: 13.87
+- response: '7E90441423659'
+  expected_values:
+    VPWR: 13.913
+- response: '7E90441423684'
+  expected_values:
+    VPWR: 13.956
+- response: 7E904414238DF
+  expected_values:
+    VPWR: 14.559
+- response: 7E9044142390A
+  expected_values:
+    VPWR: 14.602
+- response: 7E9044142391F
+  expected_values:
+    VPWR: 14.623
+- response: '7E90441423960'
+  expected_values:
+    VPWR: 14.688
