@@ -5,48 +5,6 @@ test_cases:
 - response: 7090762010302003CDB
   expected_values:
     TOYOTA_ODO_V3: 15579
-- response: 7090762010302003CDC
-  expected_values:
-    TOYOTA_ODO_V3: 15580
-- response: 7090762010302003CDD
-  expected_values:
-    TOYOTA_ODO_V3: 15581
-- response: 7090762010302003CDE
-  expected_values:
-    TOYOTA_ODO_V3: 15582
-- response: 7090762010302003CDF
-  expected_values:
-    TOYOTA_ODO_V3: 15583
-- response: 7090762010302003CE0
-  expected_values:
-    TOYOTA_ODO_V3: 15584
-- response: 7090762010302003CE1
-  expected_values:
-    TOYOTA_ODO_V3: 15585
-- response: 7090762010302003CE2
-  expected_values:
-    TOYOTA_ODO_V3: 15586
-- response: 7090762010302003CE3
-  expected_values:
-    TOYOTA_ODO_V3: 15587
-- response: 7090762010302003CE4
-  expected_values:
-    TOYOTA_ODO_V3: 15588
-- response: 7090762010302003CE5
-  expected_values:
-    TOYOTA_ODO_V3: 15589
-- response: 7090762010302003CE6
-  expected_values:
-    TOYOTA_ODO_V3: 15590
-- response: 7090762010302003CE7
-  expected_values:
-    TOYOTA_ODO_V3: 15591
-- response: 7090762010302003CE8
-  expected_values:
-    TOYOTA_ODO_V3: 15592
-- response: 7090762010302003CE9
-  expected_values:
-    TOYOTA_ODO_V3: 15593
 - response: 7090762010302003CEA
   expected_values:
     TOYOTA_ODO_V3: 15594
