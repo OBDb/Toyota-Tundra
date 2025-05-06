@@ -6,17 +6,9 @@ test_cases:
   expected_values:
     TOYOTA_GEAR: 1
     TOYOTA_GEAR_LOCKUP: 0
-- response: '7E8056185020000'
-  expected_values:
-    TOYOTA_GEAR: 2
-    TOYOTA_GEAR_LOCKUP: 0
 - response: '7E8056185020010'
   expected_values:
     TOYOTA_GEAR: 2
-    TOYOTA_GEAR_LOCKUP: 0
-- response: '7E8056185030000'
-  expected_values:
-    TOYOTA_GEAR: 3
     TOYOTA_GEAR_LOCKUP: 0
 - response: '7E8056185030010'
   expected_values:
@@ -26,29 +18,9 @@ test_cases:
   expected_values:
     TOYOTA_GEAR: 4
     TOYOTA_GEAR_LOCKUP: 0
-- response: '7E8056185050000'
-  expected_values:
-    TOYOTA_GEAR: 5
-    TOYOTA_GEAR_LOCKUP: 0
 - response: '7E8056185050010'
   expected_values:
     TOYOTA_GEAR: 5
-    TOYOTA_GEAR_LOCKUP: 0
-- response: '7E8056185058008'
-  expected_values:
-    TOYOTA_GEAR: 5
-    TOYOTA_GEAR_LOCKUP: 1
-- response: '7E8056185058010'
-  expected_values:
-    TOYOTA_GEAR: 5
-    TOYOTA_GEAR_LOCKUP: 1
-- response: '7E8056185058018'
-  expected_values:
-    TOYOTA_GEAR: 5
-    TOYOTA_GEAR_LOCKUP: 1
-- response: '7E8056185060010'
-  expected_values:
-    TOYOTA_GEAR: 6
     TOYOTA_GEAR_LOCKUP: 0
 - response: '7E8056185068018'
   expected_values:
