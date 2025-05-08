@@ -22,6 +22,10 @@ test_cases:
   expected_values:
     TOYOTA_GEAR: 5
     TOYOTA_GEAR_LOCKUP: 0
+- response: '7E8056185060010'
+  expected_values:
+    TOYOTA_GEAR: 6
+    TOYOTA_GEAR_LOCKUP: 0
 - response: '7E8056185068018'
   expected_values:
     TOYOTA_GEAR: 6
