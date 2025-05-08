@@ -5,6 +5,6 @@ test_cases:
 - response: 7E805612800C438
   expected_values:
     TOYOTA_ODO: 50232
-- response: 7E805612800C478
+- response: 7E805612800C48D
   expected_values:
-    TOYOTA_ODO: 50296
+    TOYOTA_ODO: 50317

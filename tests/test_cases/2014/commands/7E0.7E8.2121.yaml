@@ -5,30 +5,9 @@ test_cases:
 - response: '7E80761210000000000'
   expected_values:
     TOYOTA_CC_S: 0
-- response: '7E80761210000000080'
-  expected_values:
-    TOYOTA_CC_S: 0
 - response: 7E807612100000080E0
   expected_values:
     TOYOTA_CC_S: 0
-- response: '7E80761210300000060'
-  expected_values:
-    TOYOTA_CC_S: 0
-- response: '7E80761211000008000'
-  expected_values:
-    TOYOTA_CC_S: 0
-- response: 7E80761211A00008000
-  expected_values:
-    TOYOTA_CC_S: 0
-- response: 7E80761211C000080E0
-  expected_values:
-    TOYOTA_CC_S: 0
-- response: 7E80761212D00008000
-  expected_values:
-    TOYOTA_CC_S: 0
-- response: '7E80761213800008000'
-  expected_values:
-    TOYOTA_CC_S: 0
-- response: 7E80761213B00008000
+- response: '7E80761216400008000'
   expected_values:
     TOYOTA_CC_S: 0

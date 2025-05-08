@@ -2,9 +2,9 @@ command_id: 701.709.221627
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
-- response: '709056216274200'
+- response: '709056216273E00'
   expected_values:
-    TOYOTA_TF1_PAN: 78.8
-- response: '709056216277300'
+    TOYOTA_TF1_PAN: 71.6
+- response: '709056216278200'
   expected_values:
-    TOYOTA_TF1_PAN: 167
+    TOYOTA_TF1_PAN: 194
