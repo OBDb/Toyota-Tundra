@@ -60,4 +60,4 @@ supported_commands_by_ecu:
   - 01A6:ODO
 unsupported_commands_by_ecu:
   700:
-  - 700.221F2F
+  - 700.221F2F:TOYOTA_FLI
