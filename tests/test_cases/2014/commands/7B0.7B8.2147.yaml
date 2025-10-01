@@ -9,7 +9,7 @@ test_cases:
     TOYOTA_LAT_G: 0
     TOYOTA_LNG_G: -2.5
     TOYOTA_YAW_RATE: -1
-  response: 7B806614700807FB5
+  response: 7B806614700807FC4
 - expected_values:
     TOYOTA_LAT_G: 0
     TOYOTA_LNG_G: -2.5
