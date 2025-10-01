@@ -1,13 +1,20 @@
 command_id: 7E0.7E8.2121
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
 test_cases:
-- response: '7E80761210000000000'
-  expected_values:
+- expected_values:
     TOYOTA_CC_S: 0
-- response: 7E807612100000080E0
-  expected_values:
+  response: '7E80761210000000000'
+- expected_values:
     TOYOTA_CC_S: 0
-- response: '7E80761216400008000'
-  expected_values:
-    TOYOTA_CC_S: 0
+  response: 7E807612100000000E0
+- expected_values:
+    TOYOTA_CC_S: 90
+  response: 7E8076121005A00BCE0
+- expected_values:
+    TOYOTA_CC_S: 86
+  response: 7E8076121565612FC00
+- expected_values:
+    TOYOTA_CC_S: 90
+  response: 7E80761215A5A16FC00
+- expected_values:
+    TOYOTA_CC_S: 86
+  response: 7E80761215B5600BC00

@@ -1,34 +1,27 @@
 command_id: '700.221059'
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
 test_cases:
-- response: |-
+- expected_values:
+    TOYOTA_ACCEL_PEDAL: 0
+  response: |-
     708100A621059285128
     7082151000000000000
-  expected_values:
+- expected_values:
     TOYOTA_ACCEL_PEDAL: 0
-- response: |-
-    708100A621059285129
-    7082151000000000000
-  expected_values:
+  response: |-
+    708100A62105929512A
+    7082153000000000000
+- expected_values:
     TOYOTA_ACCEL_PEDAL: 0
-- response: |-
-    708100A6210592E5728
-    708215101CF00000000
-  expected_values:
-    TOYOTA_ACCEL_PEDAL: 0
-- response: |-
-    708100A621059477128
-    70821510FCA00000000
-  expected_values:
+  response: |-
+    708100A6210592A5328
+    7082151000F00000000
+- expected_values:
     TOYOTA_ACCEL_PEDAL: 9
-- response: |-
-    708100A621059497229
-    7082152107500000000
-  expected_values:
-    TOYOTA_ACCEL_PEDAL: 10.40845
-- response: |-
-    708100A621059699328
-    708215122E100000000
-  expected_values:
-    TOYOTA_ACCEL_PEDAL: 32.94366
+  response: |-
+    708100A621059477028
+    70821510FF000000000
+- expected_values:
+    TOYOTA_ACCEL_PEDAL: 47.73239
+  response: |-
+    708100A6210597EA828
+    70821512E2300000000
