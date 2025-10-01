@@ -1,10 +1,11 @@
 command_id: 7E0.7E8.2128
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
 test_cases:
-- response: 7E805612801842C
-  expected_values:
+- expected_values:
     TOYOTA_ODO: 99372
-- response: 7E805612801843B
-  expected_values:
-    TOYOTA_ODO: 99387
+  response: 7E805612801842C
+- expected_values:
+    TOYOTA_ODO: 99525
+  response: 7E80561280184C5
+- expected_values:
+    TOYOTA_ODO: 99596
+  response: 7E805612801850C

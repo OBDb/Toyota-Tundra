@@ -1,0 +1,13 @@
+command_id: 7C0.221021
+test_cases:
+- expected_values:
+    TOYOTA_BATTERY_VOLTAGE: 11.8
+  response: |-
+    221021
+    7C80462102176
+- expected_values:
+    TOYOTA_BATTERY_VOLTAGE: 11.8
+  response: 7C80462102176
+- expected_values:
+    TOYOTA_BATTERY_VOLTAGE: 11.9
+  response: 7C80462102177

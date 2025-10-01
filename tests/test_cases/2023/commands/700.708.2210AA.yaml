@@ -1,0 +1,10 @@
+command_id: 700.708.2210AA
+test_cases:
+- expected_values:
+    TOYOTA_MISFIRE_LOAD: 0
+  response: |-
+    2210AA
+    708046210AA00
+- expected_values:
+    TOYOTA_MISFIRE_LOAD: 0
+  response: 708046210AA00
