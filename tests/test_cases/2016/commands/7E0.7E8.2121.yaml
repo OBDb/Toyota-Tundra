@@ -5,10 +5,7 @@ test_cases:
   response: '7E80761210000000000'
 - expected_values:
     TOYOTA_CC_S: 0
-  response: 7E807612100000000E0
+  response: 7E80761212A00008000
 - expected_values:
     TOYOTA_CC_S: 0
-  response: 7E807612100000080E0
-- expected_values:
-    TOYOTA_CC_S: 0
-  response: 7E807612138000080E0
+  response: 7E807612136000080E0
