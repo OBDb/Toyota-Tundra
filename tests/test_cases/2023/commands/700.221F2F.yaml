@@ -1,5 +1,8 @@
 command_id: 700.221F2F
 test_cases:
 - expected_values:
+    TOYOTA_FLI: 90.19608
+  response: '708 04 62 1F 2F E6 '
+- expected_values:
     TOYOTA_FLI: 29.41176
   response: 70804621F2F4B
