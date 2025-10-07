@@ -1,5 +1,8 @@
-command_id: 7B3.221004
+command_id: 7B3.7BB.221004
 test_cases:
+- expected_values:
+    TOYOTA_STEERING_ANGLE: 410
+  response: '7BB 06 62 10 04 01 5B 09 '
 - expected_values:
     TOYOTA_STEERING_ANGLE: 0
   response: 7BB06621004000000
@@ -7,8 +10,8 @@ test_cases:
     TOYOTA_STEERING_ANGLE: 0
   response: 7BB0662100400000F
 - expected_values:
-    TOYOTA_STEERING_ANGLE: 410
-  response: 7BB066210040F0209
+    TOYOTA_STEERING_ANGLE: 382.5
+  response: 7BB0662100400FF01
 - expected_values:
     TOYOTA_STEERING_ANGLE: 410
-  response: 7BB066210040FFF00
+  response: 7BB066210040F0101
