@@ -4,6 +4,12 @@ test_cases:
     TOYOTA_ODO: 124913
   response: 7E805612801E7F1
 - expected_values:
+    TOYOTA_ODO: 126714
+  response: 7E805612801EEFA
+- expected_values:
+    TOYOTA_ODO: 126772
+  response: 7E805612801EF34
+- expected_values:
     TOYOTA_ODO: 277475
   response: |-
     7E8056128043BE3
@@ -20,9 +26,6 @@ test_cases:
     7E803410D18
     7E80441100374
     7E804410C0DCE
-- expected_values:
-    TOYOTA_ODO: 280313
-  response: 7E80561280446F9
 - expected_values:
     TOYOTA_ODO: 280322
   response: '7E8056128044702'

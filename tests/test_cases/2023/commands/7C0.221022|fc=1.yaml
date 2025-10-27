@@ -6,23 +6,11 @@ test_cases:
     221022
     7C8056210222CB5
 - expected_values:
-    TOYOTA_FLV: 106.66
-  response: 7C80562102229AA
+    TOYOTA_FLV: 0
+  response: 7C8056210220000
 - expected_values:
-    TOYOTA_FLV: 106.68
-  response: 7C80562102229AC
-- expected_values:
-    TOYOTA_FLV: 106.71
-  response: 7C80562102229AF
-- expected_values:
-    TOYOTA_FLV: 106.81
-  response: 7C80562102229B9
-- expected_values:
-    TOYOTA_FLV: 106.86
-  response: 7C80562102229BE
-- expected_values:
-    TOYOTA_FLV: 106.93
-  response: 7C80562102229C5
+    TOYOTA_FLV: 38.09
+  response: 7C8056210220EE1
 - expected_values:
     TOYOTA_FLV: 116.54
   response: 7C8056210222D86

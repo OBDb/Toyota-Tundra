@@ -4,8 +4,29 @@ test_cases:
     TOYOTA_EOT_V2: 39
   response: 70804621F5C4F
 - expected_values:
+    TOYOTA_EOT_V2: 84
+  response: 70804621F5C7C
+- expected_values:
+    TOYOTA_EOT_V2: 85
+  response: 70804621F5C7D
+- expected_values:
     TOYOTA_EOT_V2: 86
   response: 70804621F5C7E
 - expected_values:
+    TOYOTA_EOT_V2: 87
+  response: 70804621F5C7F
+- expected_values:
+    TOYOTA_EOT_V2: 88
+  response: 70804621F5C80
+- expected_values:
+    TOYOTA_EOT_V2: 89
+  response: 70804621F5C81
+- expected_values:
+    TOYOTA_EOT_V2: 90
+  response: 70804621F5C82
+- expected_values:
     TOYOTA_EOT_V2: 91
   response: 70804621F5C83
+- expected_values:
+    TOYOTA_EOT_V2: 92
+  response: 70804621F5C84
