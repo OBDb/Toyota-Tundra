@@ -2,6 +2,9 @@ command_id: 700.708.221059
 test_cases:
 - expected_values:
     TOYOTA_ACCEL_PEDAL: 0
+  response: "708 10 0A 62 10 59 28 51 29 \n708 21 52 00 00 00 00 00 00 "
+- expected_values:
+    TOYOTA_ACCEL_PEDAL: 0
   response: |-
     708100A621059285128
     7082151000000000000
