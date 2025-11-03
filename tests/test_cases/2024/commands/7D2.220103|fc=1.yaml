@@ -20,8 +20,8 @@ test_cases:
     70907620103020090E5
     70805621F3C155F
 - expected_values:
-    TOYOTA_ODO_V2_V2: 41730
-  response: 709076201030200A302
+    TOYOTA_ODO_V2_V2: 42016
+  response: 709076201030200A420
 - expected_values:
     TOYOTA_ODO_V2_V2: 5119
   response: 7DA07620103020013FF
