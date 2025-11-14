@@ -1,6 +1,11 @@
 command_id: 7B0.7B8.2147
 test_cases:
 - expected_values:
+    TOYOTA_LAT_G: -0.02
+    TOYOTA_LNG_G: -2.5
+    TOYOTA_YAW_RATE: -6
+  response: 7B8066147FF807A6F
+- expected_values:
     TOYOTA_LAT_G: 0
     TOYOTA_LNG_G: 0
     TOYOTA_STEER_ANGLE: -114
