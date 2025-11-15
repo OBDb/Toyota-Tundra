@@ -1,10 +1,20 @@
 command_id: 7B0.7B8.2147
 test_cases:
 - expected_values:
-    TOYOTA_LAT_G: 0.08
+    TOYOTA_LAT_G: 0
+    TOYOTA_LNG_G: 2.48
+    TOYOTA_YAW_RATE: -7
+  response: 7B8066147007C7970
+- expected_values:
+    TOYOTA_LAT_G: 0
+    TOYOTA_LNG_G: 2.5
+    TOYOTA_YAW_RATE: -6
+  response: 7B8066147007F7AAB
+- expected_values:
+    TOYOTA_LAT_G: 0
     TOYOTA_LNG_G: -2.5
     TOYOTA_YAW_RATE: -5
-  response: 7B806614704807B7D
+  response: 7B806614700807B5F
 - expected_values:
     TOYOTA_LAT_G: -0.02
     TOYOTA_LNG_G: 2.5
@@ -14,7 +24,7 @@ test_cases:
     TOYOTA_LAT_G: -0.02
     TOYOTA_LNG_G: -2.5
     TOYOTA_YAW_RATE: -5
-  response: 7B8066147FF807B50
+  response: 7B8066147FF807B32
 - expected_values:
     TOYOTA_LAT_G: 0
     TOYOTA_LNG_G: 0
