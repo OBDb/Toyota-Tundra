@@ -1,0 +1,44 @@
+command_id: 750.758.221004|e=2A,fc=1
+test_cases:
+- expected_values:
+    TOYOTA_TIRE_T_1: -40
+    TOYOTA_TIRE_T_2: -40
+    TOYOTA_TIRE_T_3: -40
+  response: |-
+    7582A10086210040000
+    7582A21000000000000
+- expected_values:
+    TOYOTA_TIRE_T_1: 25
+    TOYOTA_TIRE_T_2: 26
+    TOYOTA_TIRE_T_3: 25
+  response: |-
+    7582A10086210044142
+    7582A21414100000000
+- expected_values:
+    TOYOTA_TIRE_T_1: 26
+    TOYOTA_TIRE_T_2: -40
+    TOYOTA_TIRE_T_3: 25
+  response: |-
+    7582A10086210044200
+    7582A21410000000000
+- expected_values:
+    TOYOTA_TIRE_T_1: 26
+    TOYOTA_TIRE_T_2: 26
+    TOYOTA_TIRE_T_3: 25
+  response: |-
+    7582A10086210044242
+    7582A21414100000000
+- expected_values:
+    TOYOTA_TIRE_T_1: 27
+    TOYOTA_TIRE_T_2: 25
+    TOYOTA_TIRE_T_3: 25
+  response: |-
+    7582A10086210044341
+    7582A21414000000000
+- expected_values:
+    TOYOTA_TIRE_T_1: 28
+    TOYOTA_TIRE_T_2: 26
+    TOYOTA_TIRE_T_3: 25
+  response: |-
+    7582A10086210044442
+    7582A21414000000000
