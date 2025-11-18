@@ -4,5 +4,26 @@ test_cases:
     TOYOTA_FLI: 90.19608
   response: '708 04 62 1F 2F E6 '
 - expected_values:
+    TOYOTA_FLI: 9.80392
+  response: 70804621F2F19
+- expected_values:
+    TOYOTA_FLI: 29.01961
+  response: 70804621F2F4A
+- expected_values:
     TOYOTA_FLI: 29.41176
   response: 70804621F2F4B
+- expected_values:
+    TOYOTA_FLI: 29.80392
+  response: 70804621F2F4C
+- expected_values:
+    TOYOTA_FLI: 30.98039
+  response: 70804621F2F4F
+- expected_values:
+    TOYOTA_FLI: 32.94118
+  response: 70804621F2F54
+- expected_values:
+    TOYOTA_FLI: 43.13725
+  response: 70804621F2F6E
+- expected_values:
+    TOYOTA_FLI: 54.11765
+  response: 70804621F2F8A
