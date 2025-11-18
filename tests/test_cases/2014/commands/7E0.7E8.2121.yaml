@@ -1,17 +1,20 @@
 command_id: 7E0.7E8.2121
 test_cases:
 - expected_values:
-    TOYOTA_CC_S: 90
-  response: 7E8076121005A00BCE0
+    TOYOTA_CC_S: 0
+  response: 7E807612116000080E0
 - expected_values:
     TOYOTA_CC_S: 0
-  response: 7E80761211E00008000
+  response: 7E807612117000080E0
 - expected_values:
-    TOYOTA_CC_S: 86
-  response: 7E8076121565612FC00
+    TOYOTA_CC_S: 0
+  response: '7E80761213200008000'
 - expected_values:
-    TOYOTA_CC_S: 90
-  response: 7E80761215A5A16FC00
+    TOYOTA_CC_S: 0
+  response: '7E80761214100008000'
 - expected_values:
-    TOYOTA_CC_S: 86
-  response: 7E80761215B5600BC00
+    TOYOTA_CC_S: 0
+  response: 7E80761214F00008000
+- expected_values:
+    TOYOTA_CC_S: 0
+  response: '7E80761215900008000'
