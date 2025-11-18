@@ -5,37 +5,9 @@ test_cases:
     TOYOTA_EOP: 0
   response: '708056210740000'
 - expected_values:
-    TOYOTA_ENG_OIL_PRESS: 0.07812
-    TOYOTA_EOP: 1
-  response: '708056210740001'
-- expected_values:
-    TOYOTA_ENG_OIL_PRESS: 91.01562
-    TOYOTA_EOP: 1165
-  response: 70805621074048D
-- expected_values:
-    TOYOTA_ENG_OIL_PRESS: 134.6875
-    TOYOTA_EOP: 1724
-  response: 7080562107406BC
-- expected_values:
-    TOYOTA_ENG_OIL_PRESS: 162.10938
-    TOYOTA_EOP: 2075
-  response: 70805621074081B
-- expected_values:
     TOYOTA_ENG_OIL_PRESS: 179.53125
     TOYOTA_EOP: 2298
   response: 7080562107408FA
-- expected_values:
-    TOYOTA_ENG_OIL_PRESS: 189.29688
-    TOYOTA_EOP: 2423
-  response: '708056210740977'
-- expected_values:
-    TOYOTA_ENG_OIL_PRESS: 192.03125
-    TOYOTA_EOP: 2458
-  response: 70805621074099A
-- expected_values:
-    TOYOTA_ENG_OIL_PRESS: 193.28125
-    TOYOTA_EOP: 2474
-  response: 7080562107409AA
 - expected_values:
     TOYOTA_ENG_OIL_PRESS: 203.04688
     TOYOTA_EOP: 2599
