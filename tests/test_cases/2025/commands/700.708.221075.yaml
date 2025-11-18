@@ -1,0 +1,8 @@
+command_id: 700.708.221075
+test_cases:
+- expected_values:
+    TOYOTA_INTERCOOLER_WP_VSS: 600300.6764
+  response: 708056210758C6B
+- expected_values:
+    TOYOTA_INTERCOOLER_WP_VSS: 619762.5968
+  response: 708056210758F9C
