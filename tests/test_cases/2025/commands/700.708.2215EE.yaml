@@ -1,0 +1,11 @@
+command_id: 700.708.2215EE
+test_cases:
+- expected_values:
+    TOYOTA_BAT_SENS_V: 14.31627
+  response: 708056215EE2DD0
+- expected_values:
+    TOYOTA_BAT_SENS_V: 14.33092
+  response: 708056215EE2DDC
+- expected_values:
+    TOYOTA_BAT_SENS_V: 14.34556
+  response: 708056215EE2DE8

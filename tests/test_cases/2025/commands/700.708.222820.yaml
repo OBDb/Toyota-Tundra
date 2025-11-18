@@ -1,0 +1,11 @@
+command_id: 700.708.222820
+test_cases:
+- expected_values:
+    TOYOTA_INTERCOOLER_WATER_PUMP: 35.0042
+  response: '708056228201667'
+- expected_values:
+    TOYOTA_INTERCOOLER_WATER_PUMP: 37.96445
+  response: 70805622820184C
+- expected_values:
+    TOYOTA_INTERCOOLER_WATER_PUMP: 43.16472
+  response: 708056228201BA0
