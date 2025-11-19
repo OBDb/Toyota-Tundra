@@ -9,3 +9,9 @@ test_cases:
 - expected_values:
     TOYOTA_TRANSMISSION_FLUID_PAN_T_VAR_3: 20
   response: 708056216273C00
+- expected_values:
+    TOYOTA_TRANSMISSION_FLUID_PAN_T_VAR_3: 25.625
+  response: 7080562162741A0
+- expected_values:
+    TOYOTA_TRANSMISSION_FLUID_PAN_T_VAR_3: 27.5
+  response: '708056216274380'
