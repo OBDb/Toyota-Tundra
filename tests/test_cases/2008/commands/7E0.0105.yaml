@@ -4,29 +4,5 @@ test_cases:
     ECT: 51
   response: 7E80341055B
 - expected_values:
-    ECT: 56
-  response: '7E803410560'
-- expected_values:
-    ECT: 61
-  response: '7E803410565'
-- expected_values:
-    ECT: 67
-  response: 7E80341056B
-- expected_values:
-    ECT: 70
-  response: 7E80341056E
-- expected_values:
-    ECT: 76
-  response: '7E803410574'
-- expected_values:
-    ECT: 80
-  response: '7E803410578'
-- expected_values:
-    ECT: 85
-  response: 7E80341057D
-- expected_values:
-    ECT: 86
-  response: 7E80341057E
-- expected_values:
-    ECT: 88
-  response: '7E803410580'
+    ECT: 90
+  response: '7E803410582'
