@@ -1,10 +1,30 @@
 command_id: 700.708.2215F6
 test_cases:
 - expected_values:
+    TOYOTA_BAT_V_INIT_LOW_V: 8.5
+  response: |-
+    70810096215F6000055
+    7082100003200000000
+- expected_values:
     TOYOTA_BAT_V_INIT_LOW_V: 8.6
   response: |-
     70810096215F6000056
     7082100002C00000000
+- expected_values:
+    TOYOTA_BAT_V_INIT_LOW_V: 8.7
+  response: |-
+    70810096215F6000057
+    7082100003100000000
+- expected_values:
+    TOYOTA_BAT_V_INIT_LOW_V: 8.8
+  response: |-
+    70810096215F6000058
+    7082100003100000000
+- expected_values:
+    TOYOTA_BAT_V_INIT_LOW_V: 8.9
+  response: |-
+    70810096215F6000059
+    7082100003100000000
 - expected_values:
     TOYOTA_BAT_V_INIT_LOW_V: 8.9
   response: |-
