@@ -7,9 +7,9 @@ test_cases:
     221627
     709056216275200
 - expected_values:
-    TOYOTA_TF1_PAN: 104
-    TOYOTA_TFP_T: 40
-  response: '709056216275000'
+    TOYOTA_TF1_PAN: 96.8
+    TOYOTA_TFP_T: 36
+  response: 709056216274C00
 - expected_values:
     TOYOTA_TF1_PAN: 167
     TOYOTA_TFP_T: 75
