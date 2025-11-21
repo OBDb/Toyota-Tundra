@@ -1,0 +1,9 @@
+command_id: 7C0.7C8.2112
+test_cases:
+- expected_values:
+    TOYOTA_CHECK_ENGINE: 0
+    TOYOTA_P_SEATBELT_BUCKLE: 0
+    TOYOTA_TAIL_CANCEL: 0
+  response: |-
+    2112
+    7C80461120000
