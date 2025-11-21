@@ -1,8 +1,8 @@
 command_id: 700.708.2215F8
 test_cases:
 - expected_values:
-    TOYOTA_BAT_T: 6.4
-  response: 708056215F801D0
+    TOYOTA_BAT_T: 4.8
+  response: 708056215F801C0
 - expected_values:
     TOYOTA_BAT_T: 11.1
   response: 708056215F801FF
