@@ -35,3 +35,10 @@ test_cases:
   response: |-
     7B8100961460102807F
     7B821F1280000000000
+- expected_values:
+    TOYOTA_ZP_DEC: -24.91384
+    TOYOTA_ZP_DEC2: -24.71769
+    TOYOTA_ZP_YAW: 0
+  response: |-
+    7B8100961460102807F
+    7B821F1280100000000
