@@ -6,7 +6,7 @@ test_cases:
     TOYOTA_STEERING_ANGLE: -6
     TOYOTA_STEER_ANGLE: -6
     TOYOTA_YAW: -1
-    TOYOTA_YAW_RATE: -1
+    TOYOTA_YAW_RATE_V2: -1
   response: 7B807614700007F7FC4
 - expected_values:
     TOYOTA_LAT_G: 0
@@ -14,7 +14,7 @@ test_cases:
     TOYOTA_STEERING_ANGLE: 0
     TOYOTA_STEER_ANGLE: 0
     TOYOTA_YAW: 0
-    TOYOTA_YAW_RATE: 0
+    TOYOTA_YAW_RATE_V2: 0
   response: 7B807614700F3808000
 - expected_values:
     TOYOTA_LAT_G: 0
@@ -22,7 +22,7 @@ test_cases:
     TOYOTA_STEERING_ANGLE: -70.5
     TOYOTA_STEER_ANGLE: -70.5
     TOYOTA_YAW: -4
-    TOYOTA_YAW_RATE: -4
+    TOYOTA_YAW_RATE_V2: -4
   response: 7B807614700FF7C7D3F
 - expected_values:
     TOYOTA_LAT_G: 0
@@ -30,7 +30,7 @@ test_cases:
     TOYOTA_STEERING_ANGLE: 541.5
     TOYOTA_STEER_ANGLE: 541.5
     TOYOTA_YAW: 0
-    TOYOTA_YAW_RATE: 0
+    TOYOTA_YAW_RATE_V2: 0
   response: 7B807614700FF809527
 - expected_values:
     TOYOTA_LAT_G: 0.08
@@ -38,7 +38,7 @@ test_cases:
     TOYOTA_STEERING_ANGLE: -679.5
     TOYOTA_STEER_ANGLE: -679.5
     TOYOTA_YAW: -6
-    TOYOTA_YAW_RATE: -6
+    TOYOTA_YAW_RATE_V2: -6
   response: 7B807614704FE7A6575
 - expected_values:
     TOYOTA_LAT_G: 0.28
@@ -46,7 +46,7 @@ test_cases:
     TOYOTA_STEERING_ANGLE: 466.5
     TOYOTA_STEER_ANGLE: 466.5
     TOYOTA_YAW: 23
-    TOYOTA_YAW_RATE: 23
+    TOYOTA_YAW_RATE_V2: 23
   response: 7B80761470EFA979239
 - expected_values:
     TOYOTA_LAT_G: -0.16
@@ -54,7 +54,7 @@ test_cases:
     TOYOTA_STEERING_ANGLE: -357
     TOYOTA_STEER_ANGLE: -357
     TOYOTA_YAW: -25
-    TOYOTA_YAW_RATE: -25
+    TOYOTA_YAW_RATE_V2: -25
   response: 7B8076147F80267720E
 - expected_values:
     TOYOTA_LAT_G: -0.02
@@ -62,7 +62,7 @@ test_cases:
     TOYOTA_STEERING_ANGLE: -3
     TOYOTA_STEER_ANGLE: -3
     TOYOTA_YAW: 0
-    TOYOTA_YAW_RATE: 0
+    TOYOTA_YAW_RATE_V2: 0
   response: 7B8076147FF00807FE2
 - expected_values:
     TOYOTA_LAT_G: -0.02
@@ -70,5 +70,5 @@ test_cases:
     TOYOTA_STEERING_ANGLE: -358.5
     TOYOTA_STEER_ANGLE: -358.5
     TOYOTA_YAW: 0
-    TOYOTA_YAW_RATE: 0
+    TOYOTA_YAW_RATE_V2: 0
   response: 7B8076147FFFF8071FF

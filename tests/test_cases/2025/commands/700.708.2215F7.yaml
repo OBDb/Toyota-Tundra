@@ -7,8 +7,8 @@ test_cases:
     TOYOTA_BAT_C: 0.92809
   response: 708056215F78100
 - expected_values:
-    TOYOTA_BAT_C: 2.8614
-  response: 708056215F782FB
+    TOYOTA_BAT_C: 1.90047
+  response: 708056215F781FF
 - expected_values:
-    TOYOTA_BAT_C: 9.65276
-  response: 708056215F789F0
+    TOYOTA_BAT_C: 33.72568
+  response: 708056215F7A299
