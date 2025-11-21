@@ -1,0 +1,12 @@
+command_id: 7C4.2124
+test_cases:
+- expected_values:
+    TOYOTA_D_SIDE_: 4
+  response: |-
+    2124
+    7CC03612404
+- expected_values:
+    TOYOTA_D_SIDE_: 4
+  response: |-
+    21241
+    7CC03612404
