@@ -1,5 +1,8 @@
 command_id: 700.708.2215E5
 test_cases:
 - expected_values:
+    TOYOTA_BAT_STATUS_OF_FULL_CHARGE: 17977.5
+  response: 708046215E58D
+- expected_values:
     TOYOTA_BAT_STATUS_OF_FULL_CHARGE: 20527.5
   response: 708046215E5A1

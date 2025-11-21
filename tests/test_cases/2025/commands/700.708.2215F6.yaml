@@ -40,3 +40,8 @@ test_cases:
   response: |-
     70810096215F6000059
     7082100003200000000
+- expected_values:
+    TOYOTA_BAT_V_INIT_LOW_V: 9.1
+  response: |-
+    70810096215F600005B
+    7082100004E00000000
