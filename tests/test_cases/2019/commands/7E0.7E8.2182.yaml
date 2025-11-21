@@ -1,6 +1,10 @@
 command_id: 7E0.7E8.2182
 test_cases:
 - expected_values:
+    TOYOTA_ATF_PAN_T: 13.125
+    TOYOTA_ATF_TQC_T: 13.125
+  response: '7E806618235203520'
+- expected_values:
     TOYOTA_ATF_PAN_T: 15
     TOYOTA_ATF_TQC_T: 15
   response: '7E806618237003700'

@@ -1,0 +1,7 @@
+command_id: 700.708.2215F6
+test_cases:
+- expected_values:
+    TOYOTA_BAT_V_INIT_LOW_V: 8.9
+  response: |-
+    70810096215F6000059
+    7082100004E00000000

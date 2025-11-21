@@ -1,0 +1,5 @@
+command_id: 700.708.2215FA
+test_cases:
+- expected_values:
+    TOYOTA_ALT_DUTY_CYCLE: 48.39024
+  response: 708056215FA1F00
