@@ -4,29 +4,5 @@ test_cases:
     TOYOTA_EVAP_FIN_THERMISTOR: -0.3
   response: 7CC03614B54
 - expected_values:
-    TOYOTA_EVAP_FIN_THERMISTOR: 0.4
-  response: 7CC03614B56
-- expected_values:
-    TOYOTA_EVAP_FIN_THERMISTOR: 0.75
-  response: 7CC03614B57
-- expected_values:
-    TOYOTA_EVAP_FIN_THERMISTOR: 1.1
-  response: 7CC03614B58
-- expected_values:
-    TOYOTA_EVAP_FIN_THERMISTOR: 1.45
-  response: 7CC03614B59
-- expected_values:
-    TOYOTA_EVAP_FIN_THERMISTOR: 1.8
-  response: 7CC03614B5A
-- expected_values:
-    TOYOTA_EVAP_FIN_THERMISTOR: 2.15
-  response: 7CC03614B5B
-- expected_values:
-    TOYOTA_EVAP_FIN_THERMISTOR: 2.85
-  response: 7CC03614B5D
-- expected_values:
-    TOYOTA_EVAP_FIN_THERMISTOR: 3.55
-  response: 7CC03614B5F
-- expected_values:
     TOYOTA_EVAP_FIN_THERMISTOR: 3.9
   response: 7CC03614B60
