@@ -8,6 +8,13 @@ test_cases:
     TOYOTA_SLIP_WARN: 0
   response: 7B804613D0000
 - expected_values:
+    TOYOTA_ABS_WARN: 0
+    TOYOTA_BRAKE_WARN: 0
+    TOYOTA_BUZZER: 0
+    TOYOTA_ECB_WARN: 0
+    TOYOTA_SLIP_WARN: 0
+  response: 7B804613D0008
+- expected_values:
     TOYOTA_ABS_WARN: 1
     TOYOTA_BRAKE_WARN: 1
     TOYOTA_BUZZER: 0
