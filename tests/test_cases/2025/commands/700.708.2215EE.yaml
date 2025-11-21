@@ -4,11 +4,11 @@ test_cases:
     TOYOTA_BAT_SENS_V: 12.07752
   response: 708056215EE26A6
 - expected_values:
-    TOYOTA_BAT_SENS_V: 13.84508
-  response: 708056215EE2C4E
+    TOYOTA_BAT_SENS_V: 14.37242
+  response: 708056215EE2DFE
 - expected_values:
-    TOYOTA_BAT_SENS_V: 14.24303
-  response: 708056215EE2D94
+    TOYOTA_BAT_SENS_V: 14.37486
+  response: 708056215EE2E00
 - expected_values:
-    TOYOTA_BAT_SENS_V: 14.35533
-  response: 708056215EE2DF0
+    TOYOTA_BAT_SENS_V: 15.0438
+  response: 708056215EE3024

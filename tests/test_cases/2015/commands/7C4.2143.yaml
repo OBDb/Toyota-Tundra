@@ -1,0 +1,12 @@
+command_id: 7C4.2143
+test_cases:
+- expected_values:
+    TOYOTA_AIR_OUTLET_SERVO_PULSE_D: 83
+  response: |-
+    2143
+    7CC03614353
+- expected_values:
+    TOYOTA_AIR_OUTLET_SERVO_PULSE_D: 83
+  response: |-
+    21431
+    7CC03614353

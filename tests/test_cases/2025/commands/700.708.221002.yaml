@@ -4,8 +4,11 @@ test_cases:
     TOYOTA_BAT_VOLTAGE: 12.22165
   response: 70805621002271C
 - expected_values:
-    TOYOTA_BAT_VOLTAGE: 12.42673
-  response: 7080562100227C4
+    TOYOTA_BAT_VOLTAGE: 12.49509
+  response: 7080562100227FC
 - expected_values:
-    TOYOTA_BAT_VOLTAGE: 14.11129
-  response: 708056210022D28
+    TOYOTA_BAT_VOLTAGE: 12.49997
+  response: '708056210022800'
+- expected_values:
+    TOYOTA_BAT_VOLTAGE: 14.7607
+  response: 708056210022F3C

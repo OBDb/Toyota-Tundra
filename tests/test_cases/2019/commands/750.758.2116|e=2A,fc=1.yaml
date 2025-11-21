@@ -1,6 +1,11 @@
 command_id: 750.758.2116|e=2A,fc=1
 test_cases:
 - expected_values:
+    TOYOTA_TT_1: 11
+    TOYOTA_TT_2: 12
+    TOYOTA_TT_3: 12
+    TOYOTA_TT_4: 11
+    TOYOTA_TT_5: 150
     TOYOTA_TT_FL: 11
     TOYOTA_TT_FL_V1: 11
     TOYOTA_TT_FR: 12
@@ -15,6 +20,11 @@ test_cases:
     7582A10076116333434
     7582A2133FF00000000
 - expected_values:
+    TOYOTA_TT_1: 11
+    TOYOTA_TT_2: 150
+    TOYOTA_TT_3: 14
+    TOYOTA_TT_4: 14
+    TOYOTA_TT_5: 150
     TOYOTA_TT_FL: 11
     TOYOTA_TT_FL_V1: 11
     TOYOTA_TT_FR: 215
@@ -29,6 +39,11 @@ test_cases:
     7582A1007611633FF36
     7582A2136FF00000000
 - expected_values:
+    TOYOTA_TT_1: 12
+    TOYOTA_TT_2: 13
+    TOYOTA_TT_3: 14
+    TOYOTA_TT_4: 150
+    TOYOTA_TT_5: 150
     TOYOTA_TT_FL: 12
     TOYOTA_TT_FL_V1: 12
     TOYOTA_TT_FR: 13
@@ -43,6 +58,11 @@ test_cases:
     7582A10076116343536
     7582A21FFFF00000000
 - expected_values:
+    TOYOTA_TT_1: 16
+    TOYOTA_TT_2: 18
+    TOYOTA_TT_3: 150
+    TOYOTA_TT_4: 17
+    TOYOTA_TT_5: 150
     TOYOTA_TT_FL: 16
     TOYOTA_TT_FL_V1: 16
     TOYOTA_TT_FR: 18
@@ -57,6 +77,11 @@ test_cases:
     7582A10076116383AFF
     7582A2139FF00000000
 - expected_values:
+    TOYOTA_TT_1: 23
+    TOYOTA_TT_2: 21
+    TOYOTA_TT_3: 21
+    TOYOTA_TT_4: 24
+    TOYOTA_TT_5: 150
     TOYOTA_TT_FL: 23
     TOYOTA_TT_FL_V1: 23
     TOYOTA_TT_FR: 21
@@ -71,6 +96,11 @@ test_cases:
     7582A100761163F3D3D
     7582A2140FF00000000
 - expected_values:
+    TOYOTA_TT_1: 150
+    TOYOTA_TT_2: 12
+    TOYOTA_TT_3: 12
+    TOYOTA_TT_4: 11
+    TOYOTA_TT_5: 150
     TOYOTA_TT_FL: 215
     TOYOTA_TT_FL_V1: 150
     TOYOTA_TT_FR: 12

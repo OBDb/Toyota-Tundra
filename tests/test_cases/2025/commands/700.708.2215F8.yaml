@@ -4,26 +4,8 @@ test_cases:
     TOYOTA_BAT_T: 6.4
   response: 708056215F801D0
 - expected_values:
-    TOYOTA_BAT_T: 6.5
-  response: 708056215F801D1
+    TOYOTA_BAT_T: 11.1
+  response: 708056215F801FF
 - expected_values:
-    TOYOTA_BAT_T: 7.5
-  response: 708056215F801DB
-- expected_values:
-    TOYOTA_BAT_T: 9.5
-  response: 708056215F801EF
-- expected_values:
-    TOYOTA_BAT_T: 9.6
-  response: 708056215F801F0
-- expected_values:
-    TOYOTA_BAT_T: 9.7
-  response: 708056215F801F1
-- expected_values:
-    TOYOTA_BAT_T: 9.8
-  response: 708056215F801F2
-- expected_values:
-    TOYOTA_BAT_T: 10
-  response: 708056215F801F4
-- expected_values:
-    TOYOTA_BAT_T: 10.2
-  response: 708056215F801F6
+    TOYOTA_BAT_T: 11.2
+  response: 708056215F80200
