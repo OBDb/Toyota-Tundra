@@ -1,8 +1,8 @@
 command_id: 700.708.2215F7
 test_cases:
 - expected_values:
-    TOYOTA_BAT_C: -38.81339
-  response: 708056215F7584A
+    TOYOTA_BAT_C: -43.69051
+  response: 708056215F7534B
 - expected_values:
     TOYOTA_BAT_C: 0.92809
   response: 708056215F78100
