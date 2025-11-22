@@ -5,3 +5,21 @@ test_cases:
   response: |-
     0144
     7E80441447FF2
+- expected_values:
+    EQ_RAT: 0.92467
+  response: 7E8044144765B
+- expected_values:
+    EQ_RAT: 0.96562
+  response: 7E80441447B99
+- expected_values:
+    EQ_RAT: 0.9846
+  response: 7E80441447E07
+- expected_values:
+    EQ_RAT: 0.99318
+  response: 7E80441447F20
+- expected_values:
+    EQ_RAT: 0.99959
+  response: 7E80441447FF2
+- expected_values:
+    EQ_RAT: 1.03426
+  response: '7E80441448462'
