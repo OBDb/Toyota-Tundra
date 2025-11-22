@@ -10,3 +10,6 @@ test_cases:
   response: |-
     21441
     7CC0361441C
+- expected_values:
+    TOYOTA_AIR_INLET_DAMPER_TARGET_PULSE: 28
+  response: 7CC0361441C

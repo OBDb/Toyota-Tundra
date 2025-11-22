@@ -6,3 +6,11 @@ test_cases:
   response: |-
     211F
     7B803611F00
+- expected_values:
+    TOYOTA_PARKING_BRAKE_SW: 0
+    TOYOTA_STOP_LIGHT_SW: 0
+  response: 7B803611F00
+- expected_values:
+    TOYOTA_PARKING_BRAKE_SW: 0
+    TOYOTA_STOP_LIGHT_SW: 1
+  response: 7B803611F80
