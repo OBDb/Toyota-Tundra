@@ -6,3 +6,7 @@ test_cases:
   response: |-
     211D
     7B803611D00
+- expected_values:
+    TOYOTA_MAIN_IDLE_SW: 0
+    TOYOTA_RESERVOIR_WARNING_SW: 0
+  response: 7B803611D00

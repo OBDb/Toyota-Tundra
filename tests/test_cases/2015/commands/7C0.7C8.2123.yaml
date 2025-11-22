@@ -5,3 +5,9 @@ test_cases:
   response: |-
     2123
     7C8036123AE
+- expected_values:
+    TOYOTA_COOLANT_T: 0
+  response: 7C803612300
+- expected_values:
+    TOYOTA_COOLANT_T: 91
+  response: 7C8036123B6
