@@ -1,8 +1,8 @@
-command_id: 7B1.220103
+command_id: 747.220103|fc=1
 test_cases:
 - expected_values:
-    TOYOTA_4WD_ODO: 33570847
+    TOYOTA_ODO_V6: 16415
   response: 708076201030200401F
 - expected_values:
-    TOYOTA_4WD_ODO: 33570851
+    TOYOTA_ODO_V6: 16419
   response: '7080762010302004023'
