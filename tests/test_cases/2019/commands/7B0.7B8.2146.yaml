@@ -1,6 +1,13 @@
 command_id: 7B0.7B8.2146
 test_cases:
 - expected_values:
+    TOYOTA_ZP_DEC: -24.91384
+    TOYOTA_ZP_DEC2: -24.71769
+  response: |-
+    2146
+    7B8100961460102807F
+    7B821F1281200000000
+- expected_values:
     TOYOTA_ZP_DEC: -25.11
     TOYOTA_ZP_DEC2: -24.71769
   response: |-
