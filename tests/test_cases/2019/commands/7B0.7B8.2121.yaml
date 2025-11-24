@@ -1,6 +1,13 @@
 command_id: 7B0.7B8.2121
 test_cases:
 - expected_values:
+    TOYOTA_VEHICLE_SPEED_7B0: 19.2
+    TOYOTA_VSS: 20.25
+    TOYOTA_VSS_V3: 19.2
+  response: |-
+    2121
+    7B80361210F
+- expected_values:
     TOYOTA_VEHICLE_SPEED_7B0: 0
     TOYOTA_VSS: 0
     TOYOTA_VSS_V3: 0

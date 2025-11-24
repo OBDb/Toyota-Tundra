@@ -1,6 +1,14 @@
 command_id: 7E0.7E8.2104
 test_cases:
 - expected_values:
+    TOYOTA_TARGET_AIR_FUEL_RATIO: 0.99459
+  response: |-
+    2104
+    7E8101861047FF2838D
+    7E8216D81849F6D8183
+    7E8228D800B849F800B
+    7E8230FFF00FF000000
+- expected_values:
     TOYOTA_TARGET_AIR_FUEL_RATIO: 0.78495
   response: |-
     7E81018610464FA9DCF
