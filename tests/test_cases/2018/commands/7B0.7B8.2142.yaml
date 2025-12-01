@@ -10,5 +10,17 @@ test_cases:
     TOYOTA_FL_ACC: 1
     TOYOTA_FR_ACC: 0
     TOYOTA_RL_ACC: 0
+    TOYOTA_RR_ACC: 1
+  response: 7B806614200010100
+- expected_values:
+    TOYOTA_FL_ACC: 1
+    TOYOTA_FR_ACC: 0
+    TOYOTA_RL_ACC: 0
     TOYOTA_RR_ACC: 2
   response: 7B806614200010200
+- expected_values:
+    TOYOTA_FL_ACC: 0
+    TOYOTA_FR_ACC: 6
+    TOYOTA_RL_ACC: 0
+    TOYOTA_RR_ACC: 0
+  response: 7B806614206000000
