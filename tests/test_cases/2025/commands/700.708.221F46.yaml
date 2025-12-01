@@ -1,8 +1,8 @@
 command_id: 700.708.221F46
 test_cases:
 - expected_values:
-    TOYOTA_AMBIENT_T: -3
-  response: 70804621F4625
+    TOYOTA_AMBIENT_T: -10
+  response: 70804621F461E
 - expected_values:
     TOYOTA_AMBIENT_T: 36
   response: 70804621F464C
