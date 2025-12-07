@@ -1,0 +1,23 @@
+command_id: 700.708.22106C
+test_cases:
+- expected_values:
+    TOYOTA_DIST_SINCE_BAT_DISC: 15195
+  response: 7080562106C3B5B
+- expected_values:
+    TOYOTA_DIST_SINCE_BAT_DISC: 15196
+  response: 7080562106C3B5C
+- expected_values:
+    TOYOTA_DIST_SINCE_BAT_DISC: 15197
+  response: 7080562106C3B5D
+- expected_values:
+    TOYOTA_DIST_SINCE_BAT_DISC: 15198
+  response: 7080562106C3B5E
+- expected_values:
+    TOYOTA_DIST_SINCE_BAT_DISC: 15199
+  response: 7080562106C3B5F
+- expected_values:
+    TOYOTA_DIST_SINCE_BAT_DISC: 15200
+  response: 7080562106C3B60
+- expected_values:
+    TOYOTA_DIST_SINCE_BAT_DISC: 15201
+  response: 7080562106C3B61
