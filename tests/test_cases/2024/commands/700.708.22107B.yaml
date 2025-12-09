@@ -2,7 +2,6 @@ command_id: 700.708.22107B
 test_cases:
 - expected_values:
     TOYOTA_EOT_V2: 32
-    TOYOTA_EOT_V2_V2: 32
   response: |-
     708102262107B000000
     708210000000280B782
@@ -11,7 +10,6 @@ test_cases:
     7082448684C5A430430
 - expected_values:
     TOYOTA_EOT_V2: 26
-    TOYOTA_EOT_V2_V2: 26
   response: |-
     708102262107B000000
     708210000022E7F5A81
@@ -20,7 +18,6 @@ test_cases:
     7082442827F3A3A01BA
 - expected_values:
     TOYOTA_EOT_V2: 28
-    TOYOTA_EOT_V2_V2: 28
   response: |-
     708102262107B000003
     708218D016C517F9984
@@ -29,7 +26,6 @@ test_cases:
     7082444838343430000
 - expected_values:
     TOYOTA_EOT_V2: 29
-    TOYOTA_EOT_V2_V2: 29
   response: |-
     708102262107B000003
     708218F010A347FB984
@@ -38,7 +34,6 @@ test_cases:
     7082445787343430000
 - expected_values:
     TOYOTA_EOT_V2: 36
-    TOYOTA_EOT_V2_V2: 36
   response: |-
     708102262107B000003
     708219B010C997F6F83
@@ -47,7 +42,6 @@ test_cases:
     708244C828247470000
 - expected_values:
     TOYOTA_EOT_V2: 18
-    TOYOTA_EOT_V2_V2: 18
   response: |-
     708102262107B000003
     708219E0108507F8D81
@@ -56,7 +50,6 @@ test_cases:
     708243A8383373702DC
 - expected_values:
     TOYOTA_EOT_V2: 25
-    TOYOTA_EOT_V2_V2: 25
   response: |-
     708102262107B000003
     70821A30105F07F4B81
@@ -65,7 +58,6 @@ test_cases:
     70824417A7841410280
 - expected_values:
     TOYOTA_EOT_V2: 21
-    TOYOTA_EOT_V2_V2: 21
   response: |-
     708102262107B000003
     70821A60127617F7783
@@ -74,7 +66,6 @@ test_cases:
     708243D84843C3C0000
 - expected_values:
     TOYOTA_EOT_V2: 24
-    TOYOTA_EOT_V2_V2: 24
   response: |-
     708102262107B000003
     70821AA0103897FC083
@@ -83,7 +74,6 @@ test_cases:
     7082440646141410000
 - expected_values:
     TOYOTA_EOT_V2: 31
-    TOYOTA_EOT_V2_V2: 31
   response: |-
     708102262107B000003
     70821AE0168FD7F9983
@@ -92,7 +82,6 @@ test_cases:
     70824477F7F44440000
 - expected_values:
     TOYOTA_EOT_V2: 46
-    TOYOTA_EOT_V2_V2: 46
   response: |-
     708102262107B000004
     708212A01003A7F5C84
@@ -101,7 +90,6 @@ test_cases:
     7082456696949490000
 - expected_values:
     TOYOTA_EOT_V2: 35
-    TOYOTA_EOT_V2_V2: 35
   response: |-
     708102262107B000004
     708213601039D7F4C81
@@ -110,7 +98,6 @@ test_cases:
     708244B828346460000
 - expected_values:
     TOYOTA_EOT_V2: 34
-    TOYOTA_EOT_V2_V2: 34
   response: |-
     708102262107B000004
     70821880103CF806585
@@ -119,7 +106,6 @@ test_cases:
     708244A6969484811BB
 - expected_values:
     TOYOTA_EOT_V2: 22
-    TOYOTA_EOT_V2_V2: 22
   response: |-
     708102262107B000004
     7082193010015807B82
@@ -128,7 +114,6 @@ test_cases:
     708243E516E413D0000
 - expected_values:
     TOYOTA_EOT_V2: 35
-    TOYOTA_EOT_V2_V2: 35
   response: |-
     708102262107B000004
     70821BC010028800A82
@@ -137,7 +122,6 @@ test_cases:
     708244B4B4B4B4B0000
 - expected_values:
     TOYOTA_EOT_V2: 24
-    TOYOTA_EOT_V2_V2: 24
   response: |-
     708102262107B000004
     70821F50100227F5384
@@ -146,7 +130,6 @@ test_cases:
     7082440464641410000
 - expected_values:
     TOYOTA_EOT_V2: 23
-    TOYOTA_EOT_V2_V2: 23
   response: |-
     708102262107B000005
     70821020101E5807B81
@@ -154,8 +137,15 @@ test_cases:
     7082380008001000080
     708243F5F693C3C0000
 - expected_values:
+    TOYOTA_EOT_V2: 19
+  response: |-
+    708102262107B000005
+    708210E0103617FBA81
+    7082225800F7FBC8000
+    7082380007FFD000067
+    708243B6550302D0000
+- expected_values:
     TOYOTA_EOT_V2: 11
-    TOYOTA_EOT_V2_V2: 11
   response: |-
     708102262107B000005
     70821420101AD7F8380
@@ -164,7 +154,6 @@ test_cases:
     7082433655033320004
 - expected_values:
     TOYOTA_EOT_V2: 43
-    TOYOTA_EOT_V2_V2: 43
   response: |-
     708102262107B000005
     70821AC0101327FF781
@@ -172,8 +161,15 @@ test_cases:
     7082380007FFD000082
     70824537069494B0000
 - expected_values:
+    TOYOTA_EOT_V2: 19
+  response: |-
+    708102262107B000006
+    70821120100567F8381
+    708226680207FA38000
+    7082380008000000067
+    708243B52502D2D0000
+- expected_values:
     TOYOTA_EOT_V2: 33
-    TOYOTA_EOT_V2_V2: 33
   response: |-
     708102262107B000007
     708210B015CEB806381
@@ -182,7 +178,6 @@ test_cases:
     7082449828249490000
 - expected_values:
     TOYOTA_EOT_V2: 24
-    TOYOTA_EOT_V2_V2: 24
   response: |-
     708102262107B001A05
     70821E7010644806C85
@@ -191,7 +186,6 @@ test_cases:
     70824406964424104FF
 - expected_values:
     TOYOTA_EOT_V2: 34
-    TOYOTA_EOT_V2_V2: 34
   response: |-
     708102262107B001B06
     70821290100F880AE82
@@ -200,7 +194,6 @@ test_cases:
     708244A504B4647005E
 - expected_values:
     TOYOTA_EOT_V2: 41
-    TOYOTA_EOT_V2_V2: 41
   response: |-
     708102262107B002003
     70821CD01024D7F1B84
@@ -209,7 +202,6 @@ test_cases:
     7082451797946460000
 - expected_values:
     TOYOTA_EOT_V2: 33
-    TOYOTA_EOT_V2_V2: 33
   response: |-
     708102262107B002203
     708218B0104BE7F8C88
@@ -218,7 +210,6 @@ test_cases:
     7082449787843430000
 - expected_values:
     TOYOTA_EOT_V2: 33
-    TOYOTA_EOT_V2_V2: 33
   response: |-
     708102262107B002403
     708218D010D817F3284
@@ -227,7 +218,6 @@ test_cases:
     70824497A7A4949010F
 - expected_values:
     TOYOTA_EOT_V2: 33
-    TOYOTA_EOT_V2_V2: 33
   response: |-
     708102262107B002403
     708218D010FF97F3286
@@ -236,7 +226,6 @@ test_cases:
     70824497D7D484802F8
 - expected_values:
     TOYOTA_EOT_V2: 42
-    TOYOTA_EOT_V2_V2: 42
   response: |-
     708102262107B002403
     70821AD0103407F3382
@@ -245,7 +234,6 @@ test_cases:
     7082452737346460000
 - expected_values:
     TOYOTA_EOT_V2: 43
-    TOYOTA_EOT_V2_V2: 43
   response: |-
     708102262107B002403
     70821B70102CE7F4684
@@ -254,7 +242,6 @@ test_cases:
     708245373734B4B0000
 - expected_values:
     TOYOTA_EOT_V2: 23
-    TOYOTA_EOT_V2_V2: 23
   response: |-
     708102262107B002503
     70821A101110D7F8C85
@@ -263,7 +250,6 @@ test_cases:
     708243F6A6A3F3F0853
 - expected_values:
     TOYOTA_EOT_V2: 35
-    TOYOTA_EOT_V2_V2: 35
   response: |-
     708102262107B002503
     70821C20103567FD688
@@ -272,7 +258,6 @@ test_cases:
     708244B666648480000
 - expected_values:
     TOYOTA_EOT_V2: 24
-    TOYOTA_EOT_V2_V2: 24
   response: |-
     708102262107B002A03
     708219801009F7F5388
@@ -281,7 +266,6 @@ test_cases:
     7082440504641410003
 - expected_values:
     TOYOTA_EOT_V2: 24
-    TOYOTA_EOT_V2_V2: 24
   response: |-
     708102262107B002A04
     70821A103004F7EFC84
@@ -290,7 +274,6 @@ test_cases:
     70824404C4C3E3E0000
 - expected_values:
     TOYOTA_EOT_V2: 28
-    TOYOTA_EOT_V2_V2: 28
   response: |-
     708102262107B003204
     70821930100037F438B
@@ -299,7 +282,6 @@ test_cases:
     7082444555544440000
 - expected_values:
     TOYOTA_EOT_V2: 27
-    TOYOTA_EOT_V2_V2: 27
   response: |-
     708102262107B003204
     708219D0109F67F2B84
@@ -307,17 +289,7 @@ test_cases:
     7082380007FFE000087
     70824436969424229D0
 - expected_values:
-    TOYOTA_EOT_V2: 13
-    TOYOTA_EOT_V2_V2: 13
-  response: |-
-    708102262107B003404
-    708217A0100007EBF82
-    70822F7800E7EBC80AB
-    7082380008003000083
-    70824354C5A322E0008
-- expected_values:
     TOYOTA_EOT_V2: 70
-    TOYOTA_EOT_V2_V2: 70
   response: |-
     708102262107B003604
     70821360100057F1A89
@@ -326,7 +298,6 @@ test_cases:
     708246E7D7F4B4B0000
 - expected_values:
     TOYOTA_EOT_V2: 47
-    TOYOTA_EOT_V2_V2: 47
   response: |-
     708102262107B003604
     708214601005A7F5387
@@ -335,7 +306,6 @@ test_cases:
     708245773734E4E0009
 - expected_values:
     TOYOTA_EOT_V2: 10
-    TOYOTA_EOT_V2_V2: 10
   response: |-
     708102262107B003F04
     70821A80100007EF584
@@ -344,7 +314,6 @@ test_cases:
     7082432323232320000
 - expected_values:
     TOYOTA_EOT_V2: 7
-    TOYOTA_EOT_V2_V2: 7
   response: |-
     708102262107B003F04
     70821A80100837EF587
@@ -353,7 +322,6 @@ test_cases:
     708242F3C3C2E2E0000
 - expected_values:
     TOYOTA_EOT_V2: 28
-    TOYOTA_EOT_V2_V2: 28
   response: |-
     708102262107B004604
     70821BE0126A17F7086
@@ -362,7 +330,6 @@ test_cases:
     70824448C8C424207DA
 - expected_values:
     TOYOTA_EOT_V2: 25
-    TOYOTA_EOT_V2_V2: 25
   response: |-
     708102262107B004E04
     70821670100627F6A87
