@@ -4,8 +4,8 @@ test_cases:
     TOYOTA_INJECTOR_PORT: 0
   response: '708056210180000'
 - expected_values:
-    TOYOTA_INJECTOR_PORT: 3.04
-  response: 708056210180BE0
+    TOYOTA_INJECTOR_PORT: 3.838
+  response: 708056210180EFE
 - expected_values:
-    TOYOTA_INJECTOR_PORT: 10.102
-  response: '708056210182776'
+    TOYOTA_INJECTOR_PORT: 10.351
+  response: 70805621018286F
