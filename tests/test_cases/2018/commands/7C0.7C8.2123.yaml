@@ -1,6 +1,10 @@
 command_id: 7C0.7C8.2123
 test_cases:
 - expected_values:
+    TOYOTA_COOLANT_T: 44
+    TOYOTA_ECT_7C0: 44
+  response: 7C803612358
+- expected_values:
     TOYOTA_COOLANT_T: 79
     TOYOTA_ECT_7C0: 79
   response: 7C80361239E
