@@ -1,8 +1,23 @@
 command_id: 7C4.2143
 test_cases:
 - expected_values:
+    TOYOTA_AIR_OUTLET_SERVO_PULSE_D: 9
+  response: 7CC03614309
+- expected_values:
     TOYOTA_AIR_OUTLET_SERVO_PULSE_D: 97
   response: 7CC03614361
+- expected_values:
+    TOYOTA_AIR_OUTLET_SERVO_PULSE_D: 97
+  response: |-
+    7CC03614361
+    7DF02010C
+    7E804410C1449
+    7DF02010D
+    7E803410D44
+    7DF020110
+    7E804411003DB
+    7DF02010C
+    7E804410C13F2
 - expected_values:
     TOYOTA_AIR_OUTLET_SERVO_PULSE_D: 9
   response: |-
