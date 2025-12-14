@@ -3,3 +3,15 @@ test_cases:
 - expected_values:
     TOYOTA_GEAR_V3: 1
   response: 7E80561DA010400
+- expected_values:
+    TOYOTA_GEAR_V3: 2
+  response: 7E80561DA020400
+- expected_values:
+    TOYOTA_GEAR_V3: 3
+  response: 7E80561DA030400
+- expected_values:
+    TOYOTA_GEAR_V3: 4
+  response: 7E80561DA040400
+- expected_values:
+    TOYOTA_GEAR_V3: 5
+  response: 7E80561DA050400
