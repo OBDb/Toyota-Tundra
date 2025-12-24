@@ -29,3 +29,8 @@ test_cases:
 - expected_values:
     TOYOTA_ODO: 280322
   response: '7E8056128044702'
+- expected_values:
+    TOYOTA_ODO: 291427
+  response: |-
+    7E8056128047263
+    7E804410C1705
