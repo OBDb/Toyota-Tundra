@@ -1,6 +1,13 @@
 command_id: 7B0.7B8.2105
 test_cases:
 - expected_values:
+    TOYOTA_DECEL: -0.07129
+    TOYOTA_DECEL_2: -0.64165
+  response: |-
+    2105
+    7B8100961057F7B02AE
+    7B82100FFD000000000
+- expected_values:
     TOYOTA_DECEL: -2.35271
     TOYOTA_DECEL_2: 0.92682
   response: |-
@@ -32,12 +39,6 @@ test_cases:
     7B82100FEAD00000000
 - expected_values:
     TOYOTA_DECEL: -0.64165
-    TOYOTA_DECEL_2: -0.64165
-  response: |-
-    7B8100961057B7B0368
-    7B82100000600000000
-- expected_values:
-    TOYOTA_DECEL: -0.64165
     TOYOTA_DECEL_2: -0.35647
   response: |-
     7B8100961057B7D0401
@@ -54,6 +55,12 @@ test_cases:
   response: |-
     7B8100961057D6E027B
     7B82100FFCD00000000
+- expected_values:
+    TOYOTA_DECEL: -0.21388
+    TOYOTA_DECEL_2: -0.21388
+  response: |-
+    7B8100961057E7E02B7
+    7B82100000900000000
 - expected_values:
     TOYOTA_DECEL: -0.21388
     TOYOTA_DECEL_2: 2.06753
