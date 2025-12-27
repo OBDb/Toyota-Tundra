@@ -17,7 +17,12 @@ test_cases:
     7E80641010007ED00
 - expected_values:
     TOYOTA_AIR_OUTLET_SERVO_PULSE_D: 25
-  response: 7CC03614319
+  response: |-
+    7CC03614319
+    7DF02010D
+    7E803410D23
+    7DF020110
+    7E8044110030E
 - expected_values:
     TOYOTA_AIR_OUTLET_SERVO_PULSE_D: 97
   response: 7CC03614361
