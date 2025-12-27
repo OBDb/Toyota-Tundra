@@ -37,6 +37,12 @@ test_cases:
     7DF02010C
     7E804410C14BA
 - expected_values:
+    TOYOTA_AIR_INLET_DAMPER_TARGET_PULSE: 28
+  response: |-
+    7DF02010C
+    7CC0361441C
+    7E804410C115E
+- expected_values:
     TOYOTA_AIR_INLET_DAMPER_TARGET_PULSE: 7
   response: |-
     7DF02010C
