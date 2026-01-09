@@ -1,0 +1,20 @@
+command_id: 700.708.221075
+test_cases:
+- expected_values:
+    TOYOTA_IWP_SPEED: 300
+  response: 7080562107580CD
+- expected_values:
+    TOYOTA_IWP_SPEED: 300
+  response: 7080562107593B2
+- expected_values:
+    TOYOTA_IWP_SPEED: 300
+  response: '708056210759427'
+- expected_values:
+    TOYOTA_IWP_SPEED: 300
+  response: '708056210759487'
+- expected_values:
+    TOYOTA_IWP_SPEED: 300
+  response: '708056210759488'
+- expected_values:
+    TOYOTA_IWP_SPEED: 300
+  response: 7080562107594A7
