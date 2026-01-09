@@ -55,3 +55,11 @@ test_cases:
   response: |-
     7E8056128047614
     7E804410C16E3
+- expected_values:
+    TOYOTA_ODO: 292714
+  response: |-
+    7E805612804776A
+    7E804410C0902
+    7E803410D00
+    7E804411002E9
+    7E80441447FF2
