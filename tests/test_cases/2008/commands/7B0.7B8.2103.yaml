@@ -9,5 +9,6 @@ test_cases:
 - expected_values:
     TOYOTA_TIRE_FL_SPD: 104.96
     TOYOTA_TIRE_FR_SPD: 104.96
+    TOYOTA_TIRE_RL_SPD: 104.96
     TOYOTA_TIRE_RR_SPD: 104.96
   response: 7B806610352525252
