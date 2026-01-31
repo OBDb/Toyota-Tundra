@@ -1,6 +1,12 @@
 command_id: 7C0.7C8.2113
 test_cases:
 - expected_values:
+    TOYOTA_BAT_V: 0.8
+  response: 7C803611308
+- expected_values:
+    TOYOTA_BAT_V: 12
+  response: 7C803611378
+- expected_values:
     TOYOTA_BAT_V: 12.2
   response: 7C80361137A
 - expected_values:
