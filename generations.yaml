@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Toyota_Tundra"
+
 generations:
   - name: "First Generation (XK30/XK40)"
     start_year: 1999
