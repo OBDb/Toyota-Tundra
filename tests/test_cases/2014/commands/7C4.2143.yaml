@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     TOYOTA_AIR_OUTLET_SERVO_PULSE_D: 9
   response: 7CC03614309
+- expected_values:
+    TOYOTA_AIR_OUTLET_SERVO_PULSE_D: 25
+  response: 7CC03614319
