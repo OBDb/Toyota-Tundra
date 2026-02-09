@@ -10,5 +10,5 @@ test_cases:
     TOYOTA_12V_V: 12.49509
   response: 7080562100227FC
 - expected_values:
-    TOYOTA_12V_V: 15.14156
-  response: '708056210023074'
+    TOYOTA_12V_V: 15.12203
+  response: '708056210023064'
