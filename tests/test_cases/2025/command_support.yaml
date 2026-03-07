@@ -374,6 +374,7 @@ unsupported_commands_by_ecu:
   - 7E0.0104:LOAD_PCT
   - 7E0.0105:ECT
   - 7E0.010D:VSS
+  - 7E0.0111:TP
   - 7E0.011C:OBDSUP
   - 7E0.011F:RUNTM
   - 7E0.0121:MIL_DIST
@@ -432,7 +433,9 @@ unsupported_commands_by_ecu:
   "7E5":
   - 7E5.7ED.0101
   - 7E5.7ED.0104
+  - 7E5.7ED.0105
   - 7E5.7ED.010D
+  - 7E5.7ED.0111
   - 7E5.7ED.0121
   - 7E5.7ED.0130
   - 7E5.7ED.0131
@@ -442,7 +445,9 @@ unsupported_commands_by_ecu:
   "7E6":
   - 7E6.7EE.0101
   - 7E6.7EE.0104
+  - 7E6.7EE.0105
   - 7E6.7EE.010D
+  - 7E6.7EE.0111
   - 7E6.7EE.0121
   - 7E6.7EE.0130
   - 7E6.7EE.0131
