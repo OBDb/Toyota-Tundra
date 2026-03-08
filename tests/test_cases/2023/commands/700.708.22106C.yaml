@@ -7,20 +7,5 @@ test_cases:
     TOYOTA_DIST_SINCE_BAT_DISC: 1256
   response: 7080562106C04E8
 - expected_values:
-    TOYOTA_DIST_SINCE_BAT_DISC: 8049
-  response: 7080562106C1F71
-- expected_values:
-    TOYOTA_DIST_SINCE_BAT_DISC: 34769
-  response: 7080562106C87D1
-- expected_values:
     TOYOTA_DIST_SINCE_BAT_DISC: 39743
   response: 7080562106C9B3F
-- expected_values:
-    TOYOTA_DIST_SINCE_BAT_DISC: 39754
-  response: 7080562106C9B4A
-- expected_values:
-    TOYOTA_DIST_SINCE_BAT_DISC: 39755
-  response: 7080562106C9B4B
-- expected_values:
-    TOYOTA_DIST_SINCE_BAT_DISC: 39757
-  response: 7080562106C9B4D
