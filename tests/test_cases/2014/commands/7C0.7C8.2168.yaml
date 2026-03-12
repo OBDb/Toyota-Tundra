@@ -1,6 +1,12 @@
 command_id: 7C0.7C8.2168
 test_cases:
 - expected_values:
+    TOYOTA_RHEOSTAT: 201
+  response: 7C8036168C9
+- expected_values:
+    TOYOTA_RHEOSTAT: 202
+  response: 7C8036168CA
+- expected_values:
     TOYOTA_RHEOSTAT: 254
   response: 7C8036168FE
 - expected_values:
