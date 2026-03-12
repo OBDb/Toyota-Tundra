@@ -31,6 +31,6 @@ test_cases:
     TOYOTA_ATF_TQC_T: 102.5
   response: 7E806618286608E80
 - expected_values:
-    TOYOTA_ATF_PAN_T: 95
-    TOYOTA_ATF_TQC_T: 95.625
-  response: 7E8066182870087A0
+    TOYOTA_ATF_PAN_T: 96.25
+    TOYOTA_ATF_TQC_T: 99.375
+  response: 7E806618288408B60
