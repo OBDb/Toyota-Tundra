@@ -4,11 +4,11 @@ test_cases:
     TOYOTA_DIST_SINCE_BAT_DISC: 229
   response: 7080562106C00E5
 - expected_values:
-    TOYOTA_DIST_SINCE_BAT_DISC: 54012
-  response: 7080562106CD2FC
-- expected_values:
     TOYOTA_DIST_SINCE_BAT_DISC: 54037
   response: 7080562106CD315
 - expected_values:
     TOYOTA_DIST_SINCE_BAT_DISC: 55120
   response: 7080562106CD750
+- expected_values:
+    TOYOTA_DIST_SINCE_BAT_DISC: 55295
+  response: 7080562106CD7FF
