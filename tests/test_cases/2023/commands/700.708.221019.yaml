@@ -4,6 +4,9 @@ test_cases:
     TOYOTA_INJECTION: DIRECT
   response: 70807621019014C8000
 - expected_values:
+    TOYOTA_INJECTION: DIRECT
+  response: 7080762101901FD8000
+- expected_values:
     TOYOTA_INJECTION: BOTH
   response: '7080762101902008000'
 - expected_values:
@@ -12,6 +15,3 @@ test_cases:
 - expected_values:
     TOYOTA_INJECTION: BOTH
   response: 7080762101902D58AF9
-- expected_values:
-    TOYOTA_INJECTION: BOTH
-  response: 7080762101902FC8B0E
