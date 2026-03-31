@@ -87,6 +87,7 @@ supported_commands_by_ecu:
   - 7DF.0104
   - 7DF.0105
   - 7DF.0111
+  - 7DF.012F
   - 7DF.0131
   - 7DF.0134
   - 7DF.0144
@@ -297,6 +298,7 @@ unsupported_commands_by_ecu:
   - 7E0.010D:VSS
   - 7E0.0111:TP
   - 7E0.011F:RUNTM
+  - 7E0.012F:FLI
   - 7E0.0131:CLR_DIST
   - 7E0.0134:LAMBDA11_CURRENT,O2S11_CURRENT
   - 7E0.0142:VPWR
