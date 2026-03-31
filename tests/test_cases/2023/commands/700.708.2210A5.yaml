@@ -2,6 +2,9 @@ command_id: 700.708.2210A5
 test_cases:
 - expected_values:
     TOYOTA_MISFIRE_CNT: 0
+  response: "708 10 08 62 10 A5 00 01 AA \n708 21 00 A7 00 00 00 00 00 "
+- expected_values:
+    TOYOTA_MISFIRE_CNT: 0
   response: |-
     70810086210A5000000
     7082100000000000000

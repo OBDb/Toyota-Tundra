@@ -1,6 +1,12 @@
 command_id: 700.708.221F6D
 test_cases:
 - expected_values:
+    TOYOTA_HFP_ACTUAL: 6.05
+    TOYOTA_HFP_TARGET: 4000
+    TOYOTA_LOW_FUEL_PRESSURE: 530
+  response: "708 10 0E 62 1F 6D 1B 01 90 \n708 21 02 5D 00 00 35 00 35 \n708 22 00
+    00 00 00 00 00 00 "
+- expected_values:
     TOYOTA_HFP_ACTUAL: 4.38
     TOYOTA_HFP_TARGET: 4000
     TOYOTA_LOW_FUEL_PRESSURE: 380
