@@ -1,6 +1,10 @@
 command_id: 700.708.22107B
 test_cases:
 - expected_values:
+    TOYOTA_EOT_V2: 48
+  response: "708 10 22 62 10 7B 00 1A 04 \n708 21 80 01 00 0E 7F F3 84 \n708 22 D3
+    80 00 7F F3 80 00 \n708 23 80 00 80 02 00 00 83 \n708 24 58 7D 7D 47 47 00 04 "
+- expected_values:
     TOYOTA_EOT_V2: 54
   response: |-
     708102262107B000000
