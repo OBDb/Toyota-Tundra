@@ -24,4 +24,4 @@ test_cases:
     TOYOTA_GEAR: 6
     TOYOTA_GEAR_V2: 6
     TOYOTA_TQC_LOCKUP: 0
-  response: '7E8056185060010'
+  response: '7E8056185060000'

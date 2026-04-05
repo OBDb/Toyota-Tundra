@@ -1,0 +1,8 @@
+command_id: 7B0.7B8.2146
+test_cases:
+- expected_values:
+    TOYOTA_ZP_DEC: -25.11
+    TOYOTA_ZP_DEC2: -0.00192
+    TOYOTA_ZP_YAW: -8
+    TOYOTA_ZP_YAW_RATE: -8
+  response: 7B8076146008078FFFF
