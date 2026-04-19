@@ -34,6 +34,14 @@ test_cases:
     7DF020101
     7E80641010007ED00
 - expected_values:
+    TOYOTA_AIR_OUTLET_SERVO_PULSE_D: 9
+  response: |-
+    7CC03614309
+    7DF02010D
+    7E803410D2C
+    7DF020110
+    7E80441100D94
+- expected_values:
     TOYOTA_AIR_OUTLET_SERVO_PULSE_D: 25
   response: |-
     7CC03614319
@@ -57,6 +65,16 @@ test_cases:
     7DF02010C
     7E804410C13F2
 - expected_values:
+    TOYOTA_AIR_OUTLET_SERVO_PULSE_D: 9
+  response: |-
+    7DF02010C
+    7E804410C08A1
+    7CC03614309
+    7DF02010D
+    7E803410D00
+    7DF020110
+    7E804411001EA
+- expected_values:
     TOYOTA_AIR_OUTLET_SERVO_PULSE_D: 25
   response: |-
     7DF02010C
@@ -74,6 +92,12 @@ test_cases:
     7E803410D1F
     7DF020110
     7E804411003CD
+- expected_values:
+    TOYOTA_AIR_OUTLET_SERVO_PULSE_D: 9
+  response: |-
+    7DF02010C
+    7E804410C1935
+    7CC03614309
 - expected_values:
     TOYOTA_AIR_OUTLET_SERVO_PULSE_D: 9
   response: |-
