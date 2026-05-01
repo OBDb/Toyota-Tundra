@@ -18,6 +18,14 @@ test_cases:
     7582A10086220210104
     7582A21030205000000
 - expected_values:
+    TOYOTA_TID_1: FR
+    TOYOTA_TID_2: FL
+    TOYOTA_TID_3: RR
+    TOYOTA_TID_4: RL
+  response: |-
+    7582A10086220210201
+    7582A21040300000000
+- expected_values:
     TOYOTA_TID_1: RL
     TOYOTA_TID_2: FR
     TOYOTA_TID_3: FL
