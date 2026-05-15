@@ -15,6 +15,13 @@ test_cases:
     TOYOTA_ODO_V5: 4856
   response: 70907620103020012F8
 - expected_values:
+    TOYOTA_ODO_V5: 23962
+  response: |-
+    7090762010302005D9A
+    709100F6210110100E0
+    7092120010080000000
+    7092200000000000000
+- expected_values:
     TOYOTA_ODO_V5: 37093
   response: |-
     70907620103020090E5
