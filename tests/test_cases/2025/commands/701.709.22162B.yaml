@@ -1,8 +1,8 @@
 command_id: 701.709.22162B
 test_cases:
 - expected_values:
-    TOYOTA_ATF_THERMAL_DEGRAD_EST: 38
-  response: 7090562162B0026
+    TOYOTA_ATF_THERMAL_DEGRAD_EST: 34
+  response: 7090562162B0022
 - expected_values:
     TOYOTA_ATF_THERMAL_DEGRAD_EST: 605
   response: 7090562162B025D
