@@ -20,3 +20,7 @@ test_cases:
     TOYOTA_MIL: 1
     TOYOTA_NUMBER_OF_EMISSION_DTC: 3
   response: '7E803610683'
+- expected_values:
+    TOYOTA_MIL: 1
+    TOYOTA_NUMBER_OF_EMISSION_DTC: 4
+  response: '7E803610684'
