@@ -2,4 +2,7 @@ command_id: 7C0.7C8.21A1
 test_cases:
 - expected_values:
     TOYOTA_KEY_REMIND_SOUND: 24
+  response: '7C8 03 61 A1 18 '
+- expected_values:
+    TOYOTA_KEY_REMIND_SOUND: 24
   response: 7C80361A118

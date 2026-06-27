@@ -6,6 +6,9 @@ test_cases:
     2122
     7CC03612286
 - expected_values:
+    TOYOTA_AAT_7C4: 29.55
+  response: '7CC 03 61 22 97 '
+- expected_values:
     TOYOTA_AAT_7C4: 4.7
   response: 7CC03612250
 - expected_values:
