@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.2128
 test_cases:
 - expected_values:
+    TOYOTA_ODO: 167222
+  response: '7E8 05 61 28 02 8D 36 '
+- expected_values:
     TOYOTA_ODO: 93773
   response: 7E8056128016E4D
 - expected_values:
