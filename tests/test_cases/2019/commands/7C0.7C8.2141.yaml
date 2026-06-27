@@ -2,6 +2,9 @@ command_id: 7C0.7C8.2141
 test_cases:
 - expected_values:
     TOYOTA_OIL_CHANGE_ODO: 3540.5568
+  response: '7C8 03 61 41 16 '
+- expected_values:
+    TOYOTA_OIL_CHANGE_ODO: 3540.5568
   response: 7C803614116
 - expected_values:
     TOYOTA_OIL_CHANGE_ODO: 4023.36
