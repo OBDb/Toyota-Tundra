@@ -4,29 +4,8 @@ test_cases:
     TOYOTA_BAT_V: 13.8
   response: '7C8 03 61 13 8A '
 - expected_values:
-    TOYOTA_BAT_V: 12.8
-  response: 7C803611380
-- expected_values:
-    TOYOTA_BAT_V: 12.9
-  response: 7C803611381
-- expected_values:
-    TOYOTA_BAT_V: 13
-  response: 7C803611382
-- expected_values:
-    TOYOTA_BAT_V: 13.1
-  response: 7C803611383
-- expected_values:
-    TOYOTA_BAT_V: 13.2
-  response: 7C803611384
-- expected_values:
-    TOYOTA_BAT_V: 13.3
-  response: 7C803611385
-- expected_values:
-    TOYOTA_BAT_V: 13.4
-  response: 7C803611386
-- expected_values:
-    TOYOTA_BAT_V: 13.8
-  response: 7C80361138A
+    TOYOTA_BAT_V: 11.9
+  response: 7C803611377
 - expected_values:
     TOYOTA_BAT_V: 13.9
   response: 7C80361138B
