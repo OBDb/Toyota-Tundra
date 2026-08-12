@@ -4,14 +4,62 @@ test_cases:
     TOYOTA_AIR_INLET_DAMPER_TARGET_PULSE: 7
   response: 7CC03614407
 - expected_values:
-    TOYOTA_AIR_INLET_DAMPER_TARGET_PULSE: 16
-  response: 7CC03614410
+    TOYOTA_AIR_INLET_DAMPER_TARGET_PULSE: 7
+  response: |-
+    7CC03614407
+    7DF02010C
+    7E804410C0000
 - expected_values:
-    TOYOTA_AIR_INLET_DAMPER_TARGET_PULSE: 17
-  response: 7CC03614411
-- expected_values:
-    TOYOTA_AIR_INLET_DAMPER_TARGET_PULSE: 19
-  response: 7CC03614413
+    TOYOTA_AIR_INLET_DAMPER_TARGET_PULSE: 7
+  response: |-
+    7CC03614407
+    7DF02010C
+    7E804410C0AFF
 - expected_values:
     TOYOTA_AIR_INLET_DAMPER_TARGET_PULSE: 28
   response: 7CC0361441C
+- expected_values:
+    TOYOTA_AIR_INLET_DAMPER_TARGET_PULSE: 7
+  response: |-
+    7DF02010C
+    7CC03614407
+    7E804410C0A34
+- expected_values:
+    TOYOTA_AIR_INLET_DAMPER_TARGET_PULSE: 7
+  response: |-
+    7DF02010C
+    7E804410C0000
+    7CC03614407
+- expected_values:
+    TOYOTA_AIR_INLET_DAMPER_TARGET_PULSE: 7
+  response: |-
+    7DF02010C
+    7E804410C113C
+    7CC03614407
+- expected_values:
+    TOYOTA_AIR_INLET_DAMPER_TARGET_PULSE: 7
+  response: |-
+    7DF02010C
+    7E804410C1A1F
+    7CC03614407
+- expected_values:
+    TOYOTA_AIR_INLET_DAMPER_TARGET_PULSE: 7
+  response: |-
+    7DF02010C
+    7E804410C1D26
+    7CC03614407
+- expected_values:
+    TOYOTA_AIR_INLET_DAMPER_TARGET_PULSE: 7
+  response: |-
+    7E804410C0BB1
+    7CC03614407
+- expected_values:
+    TOYOTA_AIR_INLET_DAMPER_TARGET_PULSE: 7
+  response: |-
+    7E804410C1B09
+    7CC03614407
+- expected_values:
+    TOYOTA_AIR_INLET_DAMPER_TARGET_PULSE: 7
+  response: |-
+    7E804410C22EF
+    7CC03614407
