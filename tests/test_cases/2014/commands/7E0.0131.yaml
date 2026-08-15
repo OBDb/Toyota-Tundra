@@ -11,6 +11,11 @@ test_cases:
     7E804410C1405
     7E8044131000B
 - expected_values:
+    CLR_DIST: 201
+  response: |-
+    7E804410C14FF
+    7E804413100C9
+- expected_values:
     CLR_DIST: 22
   response: |-
     7E804410C1DEE
@@ -43,11 +48,6 @@ test_cases:
   response: |-
     7E80441310078
     7E804410C0FF4
-- expected_values:
-    CLR_DIST: 250
-  response: |-
-    7E804413100FA
-    7E804410C1A16
 - expected_values:
     CLR_DIST: 252
   response: 7E804413100FC
