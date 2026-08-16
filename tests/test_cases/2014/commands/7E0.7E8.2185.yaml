@@ -8,12 +8,12 @@ test_cases:
     7E804410C089E
     7E8056185010010
 - expected_values:
-    TOYOTA_GEAR: 5
-    TOYOTA_GEAR_V2: 5
+    TOYOTA_GEAR: 6
+    TOYOTA_GEAR_V2: 6
     TOYOTA_TQC_LOCKUP: 0
   response: |-
-    7E804410C15BA
-    7E8056185050010
+    7E804410C11D5
+    7E8056185060010
 - expected_values:
     TOYOTA_GEAR: 5
     TOYOTA_GEAR_V2: 5
