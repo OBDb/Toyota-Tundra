@@ -30,12 +30,12 @@ test_cases:
     EQ_RAT: 0.99318
   response: |-
     7E80441447F20
-    7E804410C0FE4
+    7E804410C1000
 - expected_values:
     EQ_RAT: 0.99318
   response: |-
     7E80441447F20
-    7E804410C1000
+    7E804410C1FF2
 - expected_values:
     EQ_RAT: 0.99318
   response: |-
