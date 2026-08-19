@@ -3,7 +3,7 @@ test_cases:
 - expected_values:
     EQ_RAT: 0.99318
   response: |-
-    7E804410C0A73
+    7E804410C0A1B
     7E80441447F20
 - expected_values:
     EQ_RAT: 0.61979
@@ -40,7 +40,7 @@ test_cases:
     EQ_RAT: 0.99318
   response: |-
     7E80441447F20
-    7E804410C2001
+    7E804410C3060
 - expected_values:
     EQ_RAT: 1.00002
   response: '7E80441448000'
