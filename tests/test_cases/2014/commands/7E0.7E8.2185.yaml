@@ -70,7 +70,7 @@ test_cases:
     TOYOTA_TQC_LOCKUP: 1
   response: |-
     7E8056185048018
-    7E804410C1D65
+    7E804410C1B67
 - expected_values:
     TOYOTA_GEAR: 6
     TOYOTA_GEAR_V2: 6
