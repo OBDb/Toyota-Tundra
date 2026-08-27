@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.2105
 test_cases:
 - expected_values:
+    TOYOTA_CATALYST_T_B1S1: 170.7
+    TOYOTA_CATALYST_T_B1S2: 170.7
+  response: |-
+    7E8100C61054C1F083B
+    7E821083B0504050400
+- expected_values:
     TOYOTA_CATALYST_T_B1S1: 323.3
     TOYOTA_CATALYST_T_B1S2: 323.3
   response: |-
@@ -36,12 +42,6 @@ test_cases:
   response: |-
     7E8100C61054E450EFD
     7E8210EFD0B8C0B8C00
-- expected_values:
-    TOYOTA_CATALYST_T_B1S1: 235
-    TOYOTA_CATALYST_T_B1S2: 235
-  response: |-
-    7E8100C61054E490ABE
-    7E8210ABE07BA07BA00
 - expected_values:
     TOYOTA_CATALYST_T_B1S1: 478
     TOYOTA_CATALYST_T_B1S2: 478
