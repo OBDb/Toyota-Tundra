@@ -235,6 +235,8 @@ supported_commands_by_ecu:
   - 0142:VPWR
   - 014D:MIL_TIME
   - 014E:CLR_TIME
+  "7E6":
+  - 7E6.7EE.0131
 unsupported_commands_by_ecu:
   "6F1":
   - 6F1.221700|e=40,fc=1:TOYOTA_ODO_V3
@@ -479,7 +481,6 @@ unsupported_commands_by_ecu:
   - 7E6.7EE.011F
   - 7E6.7EE.0121
   - 7E6.7EE.0130
-  - 7E6.7EE.0131
   - 7E6.7EE.0141
   - 7E6.7EE.0142
   - 7E6.7EE.0146
