@@ -1,0 +1,11 @@
+command_id: 700.708.222820
+test_cases:
+- expected_values:
+    TOYOTA_INTERCOOLER_WATER: 34.99809
+  response: '708056228201666'
+- expected_values:
+    TOYOTA_INTERCOOLER_WATER: 37.33577
+  response: '7080562282017E5'
+- expected_values:
+    TOYOTA_INTERCOOLER_WATER: 39.54528
+  response: 70805622820194F
