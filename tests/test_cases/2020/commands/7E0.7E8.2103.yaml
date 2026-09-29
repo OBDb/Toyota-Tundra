@@ -3,6 +3,7 @@ test_cases:
 - expected_values:
     TOYOTA_EVAP_PURGE_DUTY: 50.58824
     TOYOTA_IGN_ADVANCE: 121
+    TOYOTA_IGN_ADV_RAW: 121
     TOYOTA_LONG_FT_B1S1: 3.90625
     TOYOTA_SHORT_FT_B1S1: -4.6875
   response: |-
@@ -12,6 +13,7 @@ test_cases:
 - expected_values:
     TOYOTA_EVAP_PURGE_DUTY: 50.58824
     TOYOTA_IGN_ADVANCE: 121
+    TOYOTA_IGN_ADV_RAW: 121
     TOYOTA_LONG_FT_B1S1: 3.125
     TOYOTA_SHORT_FT_B1S1: -3.90625
   response: |-
@@ -21,6 +23,7 @@ test_cases:
 - expected_values:
     TOYOTA_EVAP_PURGE_DUTY: 50.98039
     TOYOTA_IGN_ADVANCE: 124
+    TOYOTA_IGN_ADV_RAW: 124
     TOYOTA_LONG_FT_B1S1: 3.90625
     TOYOTA_SHORT_FT_B1S1: -3.90625
   response: |-
@@ -30,6 +33,7 @@ test_cases:
 - expected_values:
     TOYOTA_EVAP_PURGE_DUTY: 51.76471
     TOYOTA_IGN_ADVANCE: 126
+    TOYOTA_IGN_ADV_RAW: 126
     TOYOTA_LONG_FT_B1S1: 3.90625
     TOYOTA_SHORT_FT_B1S1: -3.125
   response: |-
@@ -39,6 +43,7 @@ test_cases:
 - expected_values:
     TOYOTA_EVAP_PURGE_DUTY: 52.15686
     TOYOTA_IGN_ADVANCE: 125
+    TOYOTA_IGN_ADV_RAW: 125
     TOYOTA_LONG_FT_B1S1: 4.6875
     TOYOTA_SHORT_FT_B1S1: -2.34375
   response: |-
@@ -48,6 +53,7 @@ test_cases:
 - expected_values:
     TOYOTA_EVAP_PURGE_DUTY: 51.76471
     TOYOTA_IGN_ADVANCE: 127
+    TOYOTA_IGN_ADV_RAW: 127
     TOYOTA_LONG_FT_B1S1: 4.6875
     TOYOTA_SHORT_FT_B1S1: -2.34375
   response: |-
@@ -57,6 +63,7 @@ test_cases:
 - expected_values:
     TOYOTA_EVAP_PURGE_DUTY: 52.15686
     TOYOTA_IGN_ADVANCE: 129
+    TOYOTA_IGN_ADV_RAW: 129
     TOYOTA_LONG_FT_B1S1: 5.46875
     TOYOTA_SHORT_FT_B1S1: -1.5625
   response: |-
@@ -66,6 +73,7 @@ test_cases:
 - expected_values:
     TOYOTA_EVAP_PURGE_DUTY: 50.98039
     TOYOTA_IGN_ADVANCE: 131
+    TOYOTA_IGN_ADV_RAW: 131
     TOYOTA_LONG_FT_B1S1: 3.125
     TOYOTA_SHORT_FT_B1S1: -0.78125
   response: |-
@@ -75,6 +83,7 @@ test_cases:
 - expected_values:
     TOYOTA_EVAP_PURGE_DUTY: 52.15686
     TOYOTA_IGN_ADVANCE: 128
+    TOYOTA_IGN_ADV_RAW: 128
     TOYOTA_LONG_FT_B1S1: 4.6875
     TOYOTA_SHORT_FT_B1S1: -0.78125
   response: |-
@@ -84,6 +93,7 @@ test_cases:
 - expected_values:
     TOYOTA_EVAP_PURGE_DUTY: 52.15686
     TOYOTA_IGN_ADVANCE: 128
+    TOYOTA_IGN_ADV_RAW: 128
     TOYOTA_LONG_FT_B1S1: 6.25
     TOYOTA_SHORT_FT_B1S1: 0
   response: |-
@@ -93,6 +103,7 @@ test_cases:
 - expected_values:
     TOYOTA_EVAP_PURGE_DUTY: 50.98039
     TOYOTA_IGN_ADVANCE: 128
+    TOYOTA_IGN_ADV_RAW: 128
     TOYOTA_LONG_FT_B1S1: 2.34375
     TOYOTA_SHORT_FT_B1S1: 0.78125
   response: |-
@@ -102,6 +113,7 @@ test_cases:
 - expected_values:
     TOYOTA_EVAP_PURGE_DUTY: 50.98039
     TOYOTA_IGN_ADVANCE: 128
+    TOYOTA_IGN_ADV_RAW: 128
     TOYOTA_LONG_FT_B1S1: 3.125
     TOYOTA_SHORT_FT_B1S1: 0.78125
   response: |-
@@ -111,6 +123,7 @@ test_cases:
 - expected_values:
     TOYOTA_EVAP_PURGE_DUTY: 52.94118
     TOYOTA_IGN_ADVANCE: 130
+    TOYOTA_IGN_ADV_RAW: 130
     TOYOTA_LONG_FT_B1S1: 7.8125
     TOYOTA_SHORT_FT_B1S1: 0.78125
   response: |-
@@ -120,6 +133,7 @@ test_cases:
 - expected_values:
     TOYOTA_EVAP_PURGE_DUTY: 50.98039
     TOYOTA_IGN_ADVANCE: 128
+    TOYOTA_IGN_ADV_RAW: 128
     TOYOTA_LONG_FT_B1S1: 2.34375
     TOYOTA_SHORT_FT_B1S1: 1.5625
   response: |-
@@ -129,6 +143,7 @@ test_cases:
 - expected_values:
     TOYOTA_EVAP_PURGE_DUTY: 50.98039
     TOYOTA_IGN_ADVANCE: 131
+    TOYOTA_IGN_ADV_RAW: 131
     TOYOTA_LONG_FT_B1S1: 3.125
     TOYOTA_SHORT_FT_B1S1: 3.125
   response: |-
@@ -138,6 +153,7 @@ test_cases:
 - expected_values:
     TOYOTA_EVAP_PURGE_DUTY: 50.98039
     TOYOTA_IGN_ADVANCE: 138
+    TOYOTA_IGN_ADV_RAW: 138
     TOYOTA_LONG_FT_B1S1: 3.125
     TOYOTA_SHORT_FT_B1S1: 7.8125
   response: |-
@@ -147,6 +163,7 @@ test_cases:
 - expected_values:
     TOYOTA_EVAP_PURGE_DUTY: 50.98039
     TOYOTA_IGN_ADVANCE: 128
+    TOYOTA_IGN_ADV_RAW: 128
     TOYOTA_LONG_FT_B1S1: 3.125
     TOYOTA_SHORT_FT_B1S1: 0
   response: |-

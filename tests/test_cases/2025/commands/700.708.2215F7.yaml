@@ -1,0 +1,14 @@
+command_id: 700.708.2215F7
+test_cases:
+- expected_values:
+    TOYOTA_BAT_CURRENT_700: -43.69051
+  response: 708056215F7534B
+- expected_values:
+    TOYOTA_BAT_CURRENT_700: 0.92809
+  response: 708056215F78100
+- expected_values:
+    TOYOTA_BAT_CURRENT_700: 1.90047
+  response: 708056215F781FF
+- expected_values:
+    TOYOTA_BAT_CURRENT_700: 33.72568
+  response: 708056215F7A299
