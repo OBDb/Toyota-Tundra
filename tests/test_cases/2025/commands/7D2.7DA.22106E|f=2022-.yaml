@@ -1,0 +1,11 @@
+command_id: 7D2.7DA.22106E|f=2022-
+test_cases:
+- expected_values:
+    TUNDRA_AC_POWER_CONS: 0.55
+  response: 7DA0462106E0B
+- expected_values:
+    TUNDRA_AC_POWER_CONS: 0.6
+  response: 7DA0462106E0C
+- expected_values:
+    TUNDRA_AC_POWER_CONS: 0.65
+  response: 7DA0462106E0D

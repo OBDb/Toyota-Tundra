@@ -1,0 +1,20 @@
+command_id: 7D2.7DA.221039|f=2022-
+test_cases:
+- expected_values:
+    TUNDRA_FRONT_REAR_MOTOR_TQ: -30.002
+  response: 7DA076210391C110ACE
+- expected_values:
+    TUNDRA_FRONT_REAR_MOTOR_TQ: -29.979
+  response: 7DA076210391C570AE5
+- expected_values:
+    TUNDRA_FRONT_REAR_MOTOR_TQ: -29.933
+  response: 7DA076210391C9E0B13
+- expected_values:
+    TUNDRA_FRONT_REAR_MOTOR_TQ: -29.069
+  response: 7DA0762103923330E73
+- expected_values:
+    TUNDRA_FRONT_REAR_MOTOR_TQ: -29.05
+  response: 7DA0762103923330E86
+- expected_values:
+    TUNDRA_FRONT_REAR_MOTOR_TQ: -29.049
+  response: 7DA0762103923330E87
