@@ -4,8 +4,11 @@ test_cases:
     TUNDRA_ODO_1FA6: 84164.3
   response: 7DA07621FA6000CD7AB
 - expected_values:
-    TUNDRA_ODO_1FA6: 84197.3
-  response: 7DA07621FA6000CD8F5
+    TUNDRA_ODO_1FA6: 84224
+  response: 7DA07621FA6000CDA00
 - expected_values:
-    TUNDRA_ODO_1FA6: 84198.6
-  response: 7DA07621FA6000CD902
+    TUNDRA_ODO_1FA6: 84248.6
+  response: 7DA07621FA6000CDAF6
+- expected_values:
+    TUNDRA_ODO_1FA6: 84250.4
+  response: 7DA07621FA6000CDB08

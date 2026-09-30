@@ -1,11 +1,11 @@
 command_id: 7C4.7CC.221001|fc=1
 test_cases:
 - expected_values:
-    TUNDRA_CABIN_T_V2: 27.79
-  response: 7CC056210010ADB
+    TUNDRA_CABIN_T_V2: 23.59
+  response: 7CC056210010937
 - expected_values:
-    TUNDRA_CABIN_T_V2: 28.13
-  response: 7CC056210010AFD
+    TUNDRA_CABIN_T_V2: 25.58
+  response: 7CC0562100109FE
 - expected_values:
     TUNDRA_CABIN_T_V2: 28.19
   response: 7CC056210010B03
