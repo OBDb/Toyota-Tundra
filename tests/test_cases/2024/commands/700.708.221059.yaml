@@ -9,11 +9,6 @@ test_cases:
     708100A621059285128
     7082151000000000000
 - expected_values:
-    TUNDRA_ACCEL_PEDAL: 0
-  response: |-
-    708100A62105928512B
-    7082152000000000000
-- expected_values:
     TUNDRA_ACCEL_PEDAL: 0.70446
   response: |-
     708100A6210592A5328
@@ -23,6 +18,11 @@ test_cases:
   response: |-
     708100A6210592B542A
     7082154000000000000
+- expected_values:
+    TUNDRA_ACCEL_PEDAL: 6.33827
+  response: |-
+    708100A621059325B2C
+    7082152026E00000000
 - expected_values:
     TUNDRA_ACCEL_PEDAL: 21.127
   response: |-
