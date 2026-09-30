@@ -1,11 +1,11 @@
 command_id: 7D0.7D8.2162
 test_cases:
 - expected_values:
-    TUNDRA_PARKING_BRAKE: 'OFF'
+    TUNDRA_PARKING_BRAKE: 0
   response: 7D8056162010000
 - expected_values:
-    TUNDRA_PARKING_BRAKE: 'OFF'
-  response: 7D8056162191313
-- expected_values:
-    TUNDRA_PARKING_BRAKE: 'OFF'
+    TUNDRA_PARKING_BRAKE: 0
   response: 7D8056162194948
+- expected_values:
+    TUNDRA_PARKING_BRAKE: 0
+  response: 7D80561621D0000
