@@ -1,0 +1,20 @@
+command_id: 7D2.7DA.221002|f=2022-
+test_cases:
+- expected_values:
+    TUNDRA_AUX_BAT_V: 14.15688
+  response: 7DA056210022D54
+- expected_values:
+    TUNDRA_AUX_BAT_V: 14.18128
+  response: 7DA056210022D68
+- expected_values:
+    TUNDRA_AUX_BAT_V: 14.18616
+  response: 7DA056210022D6C
+- expected_values:
+    TUNDRA_AUX_BAT_V: 14.19104
+  response: 7DA056210022D70
+- expected_values:
+    TUNDRA_AUX_BAT_V: 14.19592
+  response: 7DA056210022D74
+- expected_values:
+    TUNDRA_AUX_BAT_V: 14.2252
+  response: 7DA056210022D8C
