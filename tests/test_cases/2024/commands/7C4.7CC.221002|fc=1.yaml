@@ -1,14 +1,14 @@
 command_id: 7C4.7CC.221002|fc=1
 test_cases:
 - expected_values:
-    TOYOTA_AAT_7C4_V2: 13.51
-  response: 7CC056210020547
+    TUNDRA_AAT_7C4_V2: 11.65
+  response: 7CC05621002048D
 - expected_values:
-    TOYOTA_AAT_7C4_V2: 15.33
+    TUNDRA_AAT_7C4_V2: 15.33
   response: 7CC0562100205FD
 - expected_values:
-    TOYOTA_AAT_7C4_V2: 15.36
+    TUNDRA_AAT_7C4_V2: 15.36
   response: 7CC056210020600
 - expected_values:
-    TOYOTA_AAT_7C4_V2: 25.68
+    TUNDRA_AAT_7C4_V2: 25.68
   response: 7CC056210020A08

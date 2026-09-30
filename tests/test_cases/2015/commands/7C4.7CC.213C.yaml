@@ -1,18 +1,18 @@
 command_id: 7C4.7CC.213C
 test_cases:
 - expected_values:
-    TOYOTA_BLOWER_MOTOR_SPEED_LEVEL: 7
+    TUNDRA_BLOWER_MOTOR_SPEED_LEVEL: 7
   response: |-
     213C
     7CC03613C07
 - expected_values:
-    TOYOTA_BLOWER_MOTOR_SPEED_LEVEL: 7
+    TUNDRA_BLOWER_MOTOR_SPEED_LEVEL: 7
   response: |-
     213C1
     7CC03613C07
 - expected_values:
-    TOYOTA_BLOWER_MOTOR_SPEED_LEVEL: 0
+    TUNDRA_BLOWER_MOTOR_SPEED_LEVEL: 0
   response: 7CC03613C00
 - expected_values:
-    TOYOTA_BLOWER_MOTOR_SPEED_LEVEL: 29
+    TUNDRA_BLOWER_MOTOR_SPEED_LEVEL: 29
   response: 7CC03613C1D

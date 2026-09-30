@@ -1,8 +1,8 @@
 command_id: 7C4.7CC.2124
 test_cases:
 - expected_values:
-    TOYOTA_SOLAR_DRIVER: 7
+    TUNDRA_SOLAR_DRIVER: 7
   response: 7CC03612407
 - expected_values:
-    TOYOTA_SOLAR_DRIVER: 143
+    TUNDRA_SOLAR_DRIVER: 143
   response: 7CC0361248F

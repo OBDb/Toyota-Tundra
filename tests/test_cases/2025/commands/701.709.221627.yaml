@@ -1,10 +1,8 @@
 command_id: 701.709.221627
 test_cases:
 - expected_values:
-    TOYOTA_ATF_T_PAN: 0
-    TOYOTA_TF1_PAN: 32
+    TUNDRA_TF1_PAN: 32
   response: '709056216272800'
 - expected_values:
-    TOYOTA_ATF_T_PAN: 101
-    TOYOTA_TF1_PAN: 213.8
+    TUNDRA_TF1_PAN: 213.8
   response: 709056216278D00

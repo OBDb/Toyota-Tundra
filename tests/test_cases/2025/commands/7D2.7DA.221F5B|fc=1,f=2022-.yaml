@@ -1,0 +1,8 @@
+command_id: 7D2.7DA.221F5B|fc=1,f=2022-
+test_cases:
+- expected_values:
+    TUNDRA_SOC: 32.15686
+  response: 7DA04621F5B52
+- expected_values:
+    TUNDRA_SOC: 70.98039
+  response: 7DA04621F5BB5

@@ -1,14 +1,14 @@
 command_id: 700.708.221F3E
 test_cases:
 - expected_values:
-    TOYOTA_CAT_T_12: 5.2
+    TUNDRA_CAT_T_12: 5.2
   response: 70805621F3E01C4
 - expected_values:
-    TOYOTA_CAT_T_12: 36.8
+    TUNDRA_CAT_T_12: 36.8
   response: 70805621F3E0300
 - expected_values:
-    TOYOTA_CAT_T_12: 62.3
+    TUNDRA_CAT_T_12: 62.3
   response: 70805621F3E03FF
 - expected_values:
-    TOYOTA_CAT_T_12: 755.8
+    TUNDRA_CAT_T_12: 755.8
   response: 70805621F3E1F16

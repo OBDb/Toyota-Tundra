@@ -1,35 +1,35 @@
 command_id: 700.708.2210A5
 test_cases:
 - expected_values:
-    TOYOTA_MISFIRE_CNT: 0
+    TUNDRA_MISFIRE_CNT: 0
   response: "708 10 08 62 10 A5 00 01 AA \n708 21 00 A7 00 00 00 00 00 "
 - expected_values:
-    TOYOTA_MISFIRE_CNT: 0
+    TUNDRA_MISFIRE_CNT: 0
   response: |-
     70810086210A5000000
     7082100000000000000
 - expected_values:
-    TOYOTA_MISFIRE_CNT: 0
+    TUNDRA_MISFIRE_CNT: 0
   response: |-
     70810086210A5000000
     70821002F0000000000
 - expected_values:
-    TOYOTA_MISFIRE_CNT: 0
+    TUNDRA_MISFIRE_CNT: 0
   response: |-
     70810086210A5000000
     7082100FF0000000000
 - expected_values:
-    TOYOTA_MISFIRE_CNT: 0
+    TUNDRA_MISFIRE_CNT: 0
   response: |-
     70810086210A50000FF
     7082100FF0000000000
 - expected_values:
-    TOYOTA_MISFIRE_CNT: 0
+    TUNDRA_MISFIRE_CNT: 0
   response: |-
     70810086210A5000200
     7082100670000000000
 - expected_values:
-    TOYOTA_MISFIRE_CNT: 9
+    TUNDRA_MISFIRE_CNT: 9
   response: |-
     70810086210A50900F3
     7082100FF0000000000

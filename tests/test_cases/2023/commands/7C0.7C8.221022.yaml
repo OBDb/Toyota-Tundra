@@ -1,19 +1,16 @@
 command_id: 7C0.7C8.221022
 test_cases:
 - expected_values:
-    TOYOTA_FLV: 114.45
-    TOYOTA_FUEL_LEVEL: 114.45
+    TUNDRA_FUEL_LEVEL: 114.45
   response: |-
     221022
     7C8056210222CB5
 - expected_values:
-    TOYOTA_FLV: 0
-    TOYOTA_FUEL_LEVEL: 0
+    TUNDRA_FUEL_LEVEL: 0
   response: 7C8056210220000
 - expected_values:
-    TOYOTA_FLV: 30.71
-    TOYOTA_FUEL_LEVEL: 30.71
+    TUNDRA_FUEL_LEVEL: 30.71
   response: 7C8056210220BFF
 - expected_values:
-    TOYOTA_FUEL_LEVEL: 655.35
+    TUNDRA_FUEL_LEVEL: 655.35
   response: 7C805621022FFFF

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2101|f=2018-;-2013;2015
+test_cases:
+- expected_values:
+    TUNDRA_LOAD: 0.78431
+  response: 7E806610102072D00

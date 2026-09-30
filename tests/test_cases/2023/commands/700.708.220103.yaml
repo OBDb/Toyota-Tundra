@@ -1,8 +1,8 @@
 command_id: 700.708.220103
 test_cases:
 - expected_values:
-    TOYOTA_ENG_ODO: 33606728
+    TUNDRA_ENG_ODO: 52296
   response: 708076201030200CC48
 - expected_values:
-    TOYOTA_ENG_ODO: 33606756
+    TUNDRA_ENG_ODO: 52324
   response: 708076201030200CC64

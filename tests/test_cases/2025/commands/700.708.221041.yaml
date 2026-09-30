@@ -1,14 +1,14 @@
 command_id: 700.708.221041
 test_cases:
 - expected_values:
-    TOYOTA_ECT_IGN: -16.25
-    TOYOTA_ECT_INIT: -16.25
+    TUNDRA_ECT_IGN: -16.25
+    TUNDRA_ECT_INIT: -16.25
   response: '708056210412626'
 - expected_values:
-    TOYOTA_ECT_IGN: 41.875
-    TOYOTA_ECT_INIT: 95.625
+    TUNDRA_ECT_IGN: 41.875
+    TUNDRA_ECT_INIT: 95.625
   response: 7080562104183D9
 - expected_values:
-    TOYOTA_ECT_IGN: 95
-    TOYOTA_ECT_INIT: 95
+    TUNDRA_ECT_IGN: 95
+    TUNDRA_ECT_INIT: 95
   response: 70805621041D8D8

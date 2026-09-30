@@ -1,0 +1,98 @@
+command_id: 7C4.7CC.2143
+test_cases:
+- expected_values:
+    TUNDRA_AIR_OUTLET_SERVO_PULSE_D: 9
+  response: 7CC03614309
+- expected_values:
+    TUNDRA_AIR_OUTLET_SERVO_PULSE_D: 9
+  response: |-
+    7CC03614309
+    7DF02010C
+    7E804410C08E6
+- expected_values:
+    TUNDRA_AIR_OUTLET_SERVO_PULSE_D: 32
+  response: |-
+    7CC03614320
+    7DF02010C
+    7E804410C0000
+- expected_values:
+    TUNDRA_AIR_OUTLET_SERVO_PULSE_D: 32
+  response: |-
+    7CC03614320
+    7DF02010C
+    7E804410C09FF
+- expected_values:
+    TUNDRA_AIR_OUTLET_SERVO_PULSE_D: 64
+  response: |-
+    7CC03614340
+    7DF02010C
+    7E804410C09B1
+- expected_values:
+    TUNDRA_AIR_OUTLET_SERVO_PULSE_D: 97
+  response: 7CC03614361
+- expected_values:
+    TUNDRA_AIR_OUTLET_SERVO_PULSE_D: 9
+  response: |-
+    7DF02010C
+    7CC03614309
+    7E804410C140E
+- expected_values:
+    TUNDRA_AIR_OUTLET_SERVO_PULSE_D: 32
+  response: |-
+    7DF02010C
+    7CC03614320
+    7E804410C0AE0
+- expected_values:
+    TUNDRA_AIR_OUTLET_SERVO_PULSE_D: 32
+  response: |-
+    7DF02010C
+    7E804410C0000
+    7CC03614320
+- expected_values:
+    TUNDRA_AIR_OUTLET_SERVO_PULSE_D: 64
+  response: |-
+    7DF02010C
+    7E804410C0BFF
+    7CC03614340
+- expected_values:
+    TUNDRA_AIR_OUTLET_SERVO_PULSE_D: 64
+  response: |-
+    7DF02010C
+    7E804410C0FC2
+    7CC03614340
+- expected_values:
+    TUNDRA_AIR_OUTLET_SERVO_PULSE_D: 39
+  response: |-
+    7DF02010C
+    7E804410C204C
+    7CC03614327
+- expected_values:
+    TUNDRA_AIR_OUTLET_SERVO_PULSE_D: 32
+  response: |-
+    7E804410C0A21
+    7CC03614320
+- expected_values:
+    TUNDRA_AIR_OUTLET_SERVO_PULSE_D: 9
+  response: |-
+    7E804410C0A34
+    7CC03614309
+- expected_values:
+    TUNDRA_AIR_OUTLET_SERVO_PULSE_D: 32
+  response: |-
+    7E804410C10DE
+    7CC03614320
+- expected_values:
+    TUNDRA_AIR_OUTLET_SERVO_PULSE_D: 39
+  response: |-
+    7E804410C1314
+    7CC03614327
+- expected_values:
+    TUNDRA_AIR_OUTLET_SERVO_PULSE_D: 64
+  response: |-
+    7E804410C1D4C
+    7CC03614340
+- expected_values:
+    TUNDRA_AIR_OUTLET_SERVO_PULSE_D: 32
+  response: |-
+    7E804410C229B
+    7CC03614320
