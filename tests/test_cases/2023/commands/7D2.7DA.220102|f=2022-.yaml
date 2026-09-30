@@ -1,0 +1,37 @@
+command_id: 7D2.7DA.220102|f=2022-
+test_cases:
+- expected_values:
+    TUNDRA_KEY_CYCLE: 4108
+  response: |-
+    7DA100A620102100C00
+    7DA2103F2E101000000
+- expected_values:
+    TUNDRA_KEY_CYCLE: 4108
+  response: |-
+    7DA100A620102100C00
+    7DA2104F50E01000000
+- expected_values:
+    TUNDRA_KEY_CYCLE: 4108
+  response: |-
+    7DA100A620102100C00
+    7DA21065F9D01000000
+- expected_values:
+    TUNDRA_KEY_CYCLE: 4108
+  response: |-
+    7DA100A620102100C00
+    7DA2109510601000000
+- expected_values:
+    TUNDRA_KEY_CYCLE: 4108
+  response: |-
+    7DA100A620102100C00
+    7DA210C280001000000
+- expected_values:
+    TUNDRA_KEY_CYCLE: 4108
+  response: |-
+    7DA100A620102100C00
+    7DA210FA6D901000000
+- expected_values:
+    TUNDRA_KEY_CYCLE: 4108
+  response: |-
+    7DA100A620102100C00
+    7DA21101BE701000000

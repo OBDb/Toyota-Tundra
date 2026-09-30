@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     TUNDRA_CABIN_T_V2: 25.69
   response: 7CC056210010A09
+- expected_values:
+    TUNDRA_CABIN_T_V2: 33.46
+  response: 7CC056210010D12
