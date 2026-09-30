@@ -10,5 +10,5 @@ test_cases:
     TUNDRA_AAT_7C4_V2: 30.71
   response: 7CC056210020BFF
 - expected_values:
-    TUNDRA_AAT_7C4_V2: 30.96
-  response: 7CC056210020C18
+    TUNDRA_AAT_7C4_V2: 30.89
+  response: 7CC056210020C11
