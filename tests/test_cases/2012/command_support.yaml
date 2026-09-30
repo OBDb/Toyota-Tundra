@@ -142,4 +142,4 @@ unsupported_commands_by_ecu:
   - 7D2.7DA.221F4A
   - 7D2.7DA.221F9A
   "7E0":
-  - 7E0.7E8.2128:TUNDRA_ODO
+  - 7E0.7E8.2128|f=2010-:TUNDRA_ODO
