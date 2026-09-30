@@ -7,6 +7,12 @@ test_cases:
     TUNDRA_BRAKE_STROKE: 9
   response: 7B80462104C09
 - expected_values:
+    TUNDRA_BRAKE_STROKE: 11
+  response: 7B80462104C0B
+- expected_values:
+    TUNDRA_BRAKE_STROKE: 12
+  response: 7B80462104C0C
+- expected_values:
     TUNDRA_BRAKE_STROKE: 14
   response: 7B80462104C0E
 - expected_values:
@@ -18,6 +24,9 @@ test_cases:
 - expected_values:
     TUNDRA_BRAKE_STROKE: 25
   response: 7B80462104C19
+- expected_values:
+    TUNDRA_BRAKE_STROKE: 27
+  response: 7B80462104C1B
 - expected_values:
     TUNDRA_BRAKE_STROKE: 29
   response: 7B80462104C1D

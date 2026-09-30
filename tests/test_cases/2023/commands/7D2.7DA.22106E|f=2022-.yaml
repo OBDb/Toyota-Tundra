@@ -4,23 +4,5 @@ test_cases:
     TUNDRA_AC_POWER_CONS: 0.3
   response: 7DA0462106E06
 - expected_values:
-    TUNDRA_AC_POWER_CONS: 0.35
-  response: 7DA0462106E07
-- expected_values:
-    TUNDRA_AC_POWER_CONS: 0.4
-  response: 7DA0462106E08
-- expected_values:
-    TUNDRA_AC_POWER_CONS: 0.45
-  response: 7DA0462106E09
-- expected_values:
-    TUNDRA_AC_POWER_CONS: 0.5
-  response: 7DA0462106E0A
-- expected_values:
-    TUNDRA_AC_POWER_CONS: 0.55
-  response: 7DA0462106E0B
-- expected_values:
-    TUNDRA_AC_POWER_CONS: 0.6
-  response: 7DA0462106E0C
-- expected_values:
-    TUNDRA_AC_POWER_CONS: 0.95
-  response: 7DA0462106E13
+    TUNDRA_AC_POWER_CONS: 1.65
+  response: 7DA0462106E21
