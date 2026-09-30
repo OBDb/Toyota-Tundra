@@ -1,8 +1,8 @@
 command_id: 700.708.222820
 test_cases:
 - expected_values:
-    TOYOTA_INTERCOOLER_WATER: 37.879
-  response: 70805622820183E
+    TOYOTA_INTERCOOLER_WATER: 0
+  response: '708056228200000'
 - expected_values:
     TOYOTA_INTERCOOLER_WATER: 42.18204
   response: 708056228201AFF

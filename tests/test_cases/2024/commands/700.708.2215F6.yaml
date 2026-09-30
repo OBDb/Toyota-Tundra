@@ -5,3 +5,13 @@ test_cases:
   response: |-
     70810096215F600005A
     7082100003D00000000
+- expected_values:
+    TOYOTA_INITIAL_ENG_BAT_V_LO: 9
+  response: |-
+    70810096215F600005A
+    7082100003E00000000
+- expected_values:
+    TOYOTA_INITIAL_ENG_BAT_V_LO: 9.2
+  response: |-
+    70810096215F600005C
+    70821014C4500000000
