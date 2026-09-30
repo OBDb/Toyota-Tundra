@@ -1,34 +1,28 @@
 command_id: 7E0.7E8.2185
 test_cases:
 - expected_values:
-    TOYOTA_GEAR: 3
-    TOYOTA_GEAR_V2: 3
-    TOYOTA_TQC_LOCKUP: 0
+    TUNDRA_GEAR: 3
+    TUNDRA_TQC_LOCKUP: 0
   response: |-
     2185
     7E8056185030010
 - expected_values:
-    TOYOTA_GEAR: 1
-    TOYOTA_GEAR_V2: 1
-    TOYOTA_TQC_LOCKUP: 0
+    TUNDRA_GEAR: 1
+    TUNDRA_TQC_LOCKUP: 0
   response: '7E8 05 61 85 01 00 10 '
 - expected_values:
-    TOYOTA_GEAR: 1
-    TOYOTA_GEAR_V2: 1
-    TOYOTA_TQC_LOCKUP: 0
+    TUNDRA_GEAR: 1
+    TUNDRA_TQC_LOCKUP: 0
   response: '7E8056185010000'
 - expected_values:
-    TOYOTA_GEAR: 4
-    TOYOTA_GEAR_V2: 4
-    TOYOTA_TQC_LOCKUP: 1
+    TUNDRA_GEAR: 4
+    TUNDRA_TQC_LOCKUP: 1
   response: '7E8056185048008'
 - expected_values:
-    TOYOTA_GEAR: 4
-    TOYOTA_GEAR_V2: 4
-    TOYOTA_TQC_LOCKUP: 1
+    TUNDRA_GEAR: 4
+    TUNDRA_TQC_LOCKUP: 1
   response: '7E8056185048018'
 - expected_values:
-    TOYOTA_GEAR: 6
-    TOYOTA_GEAR_V2: 6
-    TOYOTA_TQC_LOCKUP: 0
+    TUNDRA_GEAR: 6
+    TUNDRA_TQC_LOCKUP: 0
   response: '7E8056185060000'

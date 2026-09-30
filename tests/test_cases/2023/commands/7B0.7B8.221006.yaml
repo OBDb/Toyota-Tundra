@@ -1,13 +1,13 @@
 command_id: 7B0.7B8.221006
 test_cases:
 - expected_values:
-    TOYOTA_MASTER_CYL_TEMP: 39
+    TUNDRA_MASTER_CYL_TEMP: 39
   response: |-
     221006
     7B8056210067700
 - expected_values:
-    TOYOTA_MASTER_CYL_TEMP: -2
+    TUNDRA_MASTER_CYL_TEMP: -2
   response: 7B8056210064E00
 - expected_values:
-    TOYOTA_MASTER_CYL_TEMP: 60
+    TUNDRA_MASTER_CYL_TEMP: 60
   response: 7B8056210068C00

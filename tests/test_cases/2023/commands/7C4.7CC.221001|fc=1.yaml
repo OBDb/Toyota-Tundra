@@ -1,11 +1,11 @@
 command_id: 7C4.7CC.221001|fc=1
 test_cases:
 - expected_values:
-    TOYOTA_CABIN_T_V2: 27.79
+    TUNDRA_CABIN_T_V2: 27.79
   response: 7CC056210010ADB
 - expected_values:
-    TOYOTA_CABIN_T_V2: 28.13
+    TUNDRA_CABIN_T_V2: 28.13
   response: 7CC056210010AFD
 - expected_values:
-    TOYOTA_CABIN_T_V2: 28.19
+    TUNDRA_CABIN_T_V2: 28.19
   response: 7CC056210010B03

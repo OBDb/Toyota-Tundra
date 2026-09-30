@@ -1,32 +1,32 @@
 command_id: 7C4.7CC.2126
 test_cases:
 - expected_values:
-    TOYOTA_ECT: 42.6
+    TUNDRA_ECT: 42.6
   response: 7CC03612676
 - expected_values:
-    TOYOTA_ECT: 50.3
+    TUNDRA_ECT: 50.3
   response: 7CC0361268C
 - expected_values:
-    TOYOTA_ECT: 54.85
+    TUNDRA_ECT: 54.85
   response: 7CC03612699
 - expected_values:
-    TOYOTA_ECT: 58.35
+    TUNDRA_ECT: 58.35
   response: 7CC036126A3
 - expected_values:
-    TOYOTA_ECT: 62.9
+    TUNDRA_ECT: 62.9
   response: 7CC036126B0
 - expected_values:
-    TOYOTA_ECT: 84.25
+    TUNDRA_ECT: 84.25
   response: 7CC036126ED
 - expected_values:
-    TOYOTA_ECT: 84.95
+    TUNDRA_ECT: 84.95
   response: 7CC036126EF
 - expected_values:
-    TOYOTA_ECT: 85.3
+    TUNDRA_ECT: 85.3
   response: 7CC036126F0
 - expected_values:
-    TOYOTA_ECT: 86.35
+    TUNDRA_ECT: 86.35
   response: 7CC036126F3
 - expected_values:
-    TOYOTA_ECT: 86.7
+    TUNDRA_ECT: 86.7
   response: 7CC036126F4

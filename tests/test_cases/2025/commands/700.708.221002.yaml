@@ -1,14 +1,14 @@
 command_id: 700.708.221002
 test_cases:
 - expected_values:
-    TOYOTA_12V_V: 9.624
+    TUNDRA_12V_V: 9.624
   response: 708056210021ECC
 - expected_values:
-    TOYOTA_12V_V: 12.49509
+    TUNDRA_12V_V: 12.49509
   response: 7080562100227FC
 - expected_values:
-    TOYOTA_12V_V: 12.49997
+    TUNDRA_12V_V: 12.49997
   response: '708056210022800'
 - expected_values:
-    TOYOTA_12V_V: 14.99996
+    TUNDRA_12V_V: 14.99996
   response: '708056210023000'

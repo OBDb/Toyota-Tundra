@@ -1,8 +1,8 @@
 command_id: 7C0.7C8.2168
 test_cases:
 - expected_values:
-    TOYOTA_RHEOSTAT: 29
+    TUNDRA_RHEOSTAT: 29
   response: 7C80361681D
 - expected_values:
-    TOYOTA_RHEOSTAT: 255
+    TUNDRA_RHEOSTAT: 255
   response: 7C8036168FF

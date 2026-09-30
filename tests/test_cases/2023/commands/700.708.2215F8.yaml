@@ -1,29 +1,29 @@
 command_id: 700.708.2215F8
 test_cases:
 - expected_values:
-    TOYOTA_BAT_T_700: 3
+    TUNDRA_BAT_T_700: 3
   response: 708056215F801AE
 - expected_values:
-    TOYOTA_BAT_T_700: 3.1
+    TUNDRA_BAT_T_700: 3.1
   response: 708056215F801AF
 - expected_values:
-    TOYOTA_BAT_T_700: 3.2
+    TUNDRA_BAT_T_700: 3.2
   response: 708056215F801B0
 - expected_values:
-    TOYOTA_BAT_T_700: 3.3
+    TUNDRA_BAT_T_700: 3.3
   response: 708056215F801B1
 - expected_values:
-    TOYOTA_BAT_T_700: 9.2
+    TUNDRA_BAT_T_700: 9.2
   response: 708056215F801EC
 - expected_values:
-    TOYOTA_BAT_T_700: 9.3
+    TUNDRA_BAT_T_700: 9.3
   response: 708056215F801ED
 - expected_values:
-    TOYOTA_BAT_T_700: 9.4
+    TUNDRA_BAT_T_700: 9.4
   response: 708056215F801EE
 - expected_values:
-    TOYOTA_BAT_T_700: 9.5
+    TUNDRA_BAT_T_700: 9.5
   response: 708056215F801EF
 - expected_values:
-    TOYOTA_BAT_T_700: 32.9
+    TUNDRA_BAT_T_700: 32.9
   response: 708056215F802D9

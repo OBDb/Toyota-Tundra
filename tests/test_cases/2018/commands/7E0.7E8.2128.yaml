@@ -1,27 +1,27 @@
 command_id: 7E0.7E8.2128
 test_cases:
 - expected_values:
-    TOYOTA_ODO: 124913
+    TUNDRA_ODO: 124913
   response: 7E805612801E7F1
 - expected_values:
-    TOYOTA_ODO: 126714
+    TUNDRA_ODO: 126714
   response: 7E805612801EEFA
 - expected_values:
-    TOYOTA_ODO: 126772
+    TUNDRA_ODO: 126772
   response: 7E805612801EF34
 - expected_values:
-    TOYOTA_ODO: 145531
+    TUNDRA_ODO: 145531
   response: 7E805612802387B
 - expected_values:
-    TOYOTA_ODO: 277475
+    TUNDRA_ODO: 277475
   response: |-
     7E8056128043BE3
     7E804410C190F
 - expected_values:
-    TOYOTA_ODO: 277477
+    TUNDRA_ODO: 277477
   response: 7E8056128043BE5
 - expected_values:
-    TOYOTA_ODO: 278636
+    TUNDRA_ODO: 278636
   response: |-
     7E805612804406C
     7E804410C0E09
@@ -30,17 +30,17 @@ test_cases:
     7E80441100374
     7E804410C0DCE
 - expected_values:
-    TOYOTA_ODO: 280322
+    TUNDRA_ODO: 280322
   response: '7E8056128044702'
 - expected_values:
-    TOYOTA_ODO: 291573
+    TUNDRA_ODO: 291573
   response: |-
     7E80561280472F5
     7E804410C154A
     7E803410D0F
     7E80441100C70
 - expected_values:
-    TOYOTA_ODO: 291646
+    TUNDRA_ODO: 291646
   response: |-
     7E805612804733E
     7E804410C1220
@@ -48,18 +48,18 @@ test_cases:
     7E804411004BA
     7E80441423617
 - expected_values:
-    TOYOTA_ODO: 291657
+    TUNDRA_ODO: 291657
   response: |-
     7E8056128047349
     7E803410D21
     7E804411004CA
 - expected_values:
-    TOYOTA_ODO: 292372
+    TUNDRA_ODO: 292372
   response: |-
     7E8056128047614
     7E804410C16E3
 - expected_values:
-    TOYOTA_ODO: 292714
+    TUNDRA_ODO: 292714
   response: |-
     7E805612804776A
     7E804410C0902
