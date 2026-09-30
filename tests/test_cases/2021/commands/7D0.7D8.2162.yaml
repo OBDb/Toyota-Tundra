@@ -5,7 +5,7 @@ test_cases:
   response: 7D8056162010000
 - expected_values:
     TUNDRA_PARKING_BRAKE: 'OFF'
-  response: 7D8056162014747
+  response: 7D8056162191313
 - expected_values:
     TUNDRA_PARKING_BRAKE: 'OFF'
-  response: 7D8056162090000
+  response: 7D8056162194948
