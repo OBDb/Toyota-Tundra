@@ -1,0 +1,14 @@
+command_id: 7C4.7CC.222801|fc=1
+test_cases:
+- expected_values:
+    TOYOTA_BLOWER: 4
+  response: 7CC0462280104
+- expected_values:
+    TOYOTA_BLOWER: 5
+  response: 7CC0462280105
+- expected_values:
+    TOYOTA_BLOWER: 6
+  response: 7CC0462280106
+- expected_values:
+    TOYOTA_BLOWER: 7
+  response: 7CC0462280107

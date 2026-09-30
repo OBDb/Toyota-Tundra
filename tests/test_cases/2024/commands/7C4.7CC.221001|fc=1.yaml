@@ -4,8 +4,8 @@ test_cases:
     TOYOTA_CABIN_T_V2: 19.81
   response: 7CC0562100107BD
 - expected_values:
-    TOYOTA_CABIN_T_V2: 22.55
-  response: 7CC0562100108CF
+    TOYOTA_CABIN_T_V2: 25.56
+  response: 7CC0562100109FC
 - expected_values:
-    TOYOTA_CABIN_T_V2: 23.29
-  response: 7CC056210010919
+    TOYOTA_CABIN_T_V2: 25.69
+  response: 7CC056210010A09
