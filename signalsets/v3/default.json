@@ -1,7 +1,7 @@
 { "commands": [
 { "hdr": "700", "rax": "708", "cmd": {"22": "0103"}, "freq": 30, "dbgfilter": { "to": 2022, "from": 2025 },
   "signals": [
-    {"id": "TUNDRA_ENG_ODO", "path": "Trips", "fmt": { "len": 32, "max": 4294967295, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
+    {"id": "TUNDRA_ENG_ODO", "path": "Trips", "fmt": {"bix": 8, "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]},
 { "hdr": "700", "rax": "708", "cmd": {"22": "1002"}, "freq": 5, "dbgfilter": { "to": 2022, "from": 2026 },
   "signals": [
@@ -654,6 +654,17 @@
   "signals": [
     {"id": "TUNDRA_MASTER_CYL_TEMP", "path": "Engine", "fmt": { "len": 8, "max": 100, "min": -20, "add": -80, "unit": "celsius" }, "name": "Master cylinder sensor temperature"}
   ]},
+{ "hdr": "7B0", "rax": "7B8", "fcm1": true, "cmd": {"22": "1045"}, "freq": 5, "dbgfilter": { "to": 2022, "from": 2025 },
+  "signals": [
+    {"id": "TUNDRA_EPB", "path": "Brakes", "name": "Parking brake actuator status", "fmt": {"len": 8, "map": {
+          "0": { "description": "Applied", "value": "APPLIED" }
+        }}
+    }
+  ]},
+{ "hdr": "7B0", "rax": "7B8", "fcm1": true, "cmd": {"22": "104C"}, "freq": 1, "dbgfilter": { "to": 2022, "from": 2024 },
+  "signals": [
+    {"id": "TUNDRA_BRAKE_STROKE", "path": "Control", "fmt": { "len": 8, "max": 255, "unit": "millimeters" }, "name": "Brake pedal stroke"}
+  ]},
 { "hdr": "7B1", "rax": "7B9", "dbg": true, "cmd": {"22": "0103"}, "freq": 30,
   "signals": [
     {"id": "TUNDRA_TOT_DIST", "path": "Trips", "fmt": { "len": 32, "max": 150, "unit": "scalar" }, "name": "Total distance"}
@@ -894,6 +905,10 @@
     {"id": "TUNDRA_RR_WHEEL_VSS", "path": "Movement", "fmt": {"bix": 32, "len": 16, "max": 327.67, "min": -327.68, "div": 100, "add": -327.68, "unit": "kilometersPerHour" }, "name": "Rear right wheel speed"},
     {"id": "TUNDRA_RL_WHEEL_VSS", "path": "Movement", "fmt": {"bix": 48, "len": 16, "max": 327.67, "min": -327.68, "div": 100, "add": -327.68, "unit": "kilometersPerHour" }, "name": "Rear left wheel speed"}
   ]},
+{ "hdr": "7D2", "rax": "7DA", "fcm1": true, "cmd": {"22": "1076"}, "freq": 1, "dbgfilter": { "to": 2022, "from": 2024 },
+  "signals": [
+    {"id": "TUNDRA_READY", "path": "Drivetrain", "fmt": {"bix": 15, "len": 1, "max": 1, "unit": "noyes" }, "name": "Ready to drive"}
+  ]},
 { "hdr": "7D2", "rax": "7DA", "dbg": true, "cmd": {"22": "107E"}, "freq": 5, "filter": { "from": 2022 },
   "signals": [
     {"id": "TUNDRA_12V_BAT_V_BEFORE_SMR", "path": "Battery", "fmt": { "len": 8, "max": 11.56, "mul": 61, "div": 50000, "add": 11.25, "unit": "volts" }, "name": "12V battery voltage before system main relay"}
@@ -963,6 +978,16 @@
   "signals": [
     {"id": "TUNDRA_DC_DC_CONV_TGT_V", "path": "Battery", "fmt": { "len": 16, "max": 7999, "mul": 1220703, "div": 10000000, "unit": "volts" }, "name": "DC-DC converter, target voltage before charging"}
   ]},
+{ "hdr": "7D2", "rax": "7DA", "fcm1": true, "cmd": {"22": "15E5"}, "freq": 60, "dbgfilter": { "to": 2022, "from": 2024 },
+  "signals": [
+    {"id": "TUNDRA_12V_CAP", "path": "Electrical", "fmt": { "len": 8, "max": 127.5, "div": 2, "unit": "ampereHours" }, "name": "12V battery full charge capacity"}
+  ]},
+{ "hdr": "7D2", "rax": "7DA", "fcm1": true, "cmd": {"22": "15E8"}, "freq": 60, "dbgfilter": { "to": 2022, "from": 2024 },
+  "signals": [
+    {"id": "TUNDRA_12V_AH_IN",   "path": "Electrical", "fmt": {           "len": 32, "max": 429496729.5, "div": 10, "unit": "ampereHours" }, "name": "12V battery charge, total"},
+    {"id": "TUNDRA_12V_AH_OUT",  "path": "Electrical", "fmt": {"bix": 32, "len": 32, "max": 429496729.5, "div": 10, "unit": "ampereHours" }, "name": "12V battery discharge, total"},
+    {"id": "TUNDRA_READY_HOURS", "path": "Stats",      "fmt": {"bix": 80, "len": 16, "max": 65535,                  "unit": "hours"       }, "name": "Ready-on time, total"}
+  ]},
 { "hdr": "7D2", "rax": "7DA", "cmd": {"22": "15EE"}, "freq": 1, "filter": { "from": 2022 }, "dbgfilter": { "from": 2026 },
   "signals": [
     {"id": "TUNDRA_12V_V_V2", "path": "Battery", "fmt": { "len": 8, "max": 80.2, "mul": 0.31448, "add": 0.0125, "unit": "volts" }, "name": "12V battery voltage", "suggestedMetric": "starterBatteryVoltage"}
@@ -1030,6 +1055,10 @@
   "signals": [
     {"id": "TUNDRA_HVBAT_V", "path": "Battery", "fmt": {"bix": 16, "len": 16, "max": 1023,                   "mul": 156.25, "div": 10000,               "unit": "volts" }, "name": "HV battery voltage", "suggestedMetric": "tractionBatteryVoltage"},
     {"id": "TUNDRA_HVBAT_C", "path": "Battery", "fmt": {"bix": 32, "len": 16, "max": 3276.7, "min": -3276.8,                "div": 10,    "sign": true, "unit": "amps"  }, "name": "HV battery current", "suggestedMetric": "tractionBatteryCurrent"}
+  ]},
+{ "hdr": "7D2", "rax": "7DA", "fcm1": true, "cmd": {"22": "1FA6"}, "freq": 10, "dbgfilter": { "to": 2022, "from": 2024 },
+  "signals": [
+    {"id": "TUNDRA_ODO_1FA6", "path": "Trips", "fmt": { "len": 32, "max": 429496729.5, "div": 10, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"21": "01"}, "freq": 1, "filter": { "to": 2013, "years": [2015], "from": 2018 }, "dbgfilter": { "to": 2004, "years": [2009, 2012, 2013], "from": 2022 },
   "signals": [

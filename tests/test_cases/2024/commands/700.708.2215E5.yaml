@@ -1,5 +1,8 @@
 command_id: 700.708.2215E5
 test_cases:
 - expected_values:
+    TUNDRA_BAT_STAT_FULL_CHG: 15300
+  response: '708046215E578'
+- expected_values:
     TUNDRA_BAT_STAT_FULL_CHG: 16447.5
   response: '708046215E581'
