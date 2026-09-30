@@ -1,8 +1,8 @@
 command_id: 700.708.221F3D
 test_cases:
 - expected_values:
-    TUNDRA_CAT_T_BANK_2_SENS_1: 668.3
-  response: 70805621F3D0F5F
+    TUNDRA_CAT_T_BANK_2_SENS_1: 197.6
+  response: 70805621F3D0528
 - expected_values:
     TUNDRA_CAT_T_BANK_2_SENS_1: 1203.98
   response: 70805621F3D1AFF
@@ -10,5 +10,5 @@ test_cases:
     TUNDRA_CAT_T_BANK_2_SENS_1: 1296.5
   response: 70805621F3D1D01
 - expected_values:
-    TUNDRA_CAT_T_BANK_2_SENS_1: 1413.14
-  response: 70805621F3D1F89
+    TUNDRA_CAT_T_BANK_2_SENS_1: 1397.84
+  response: 70805621F3D1F34
