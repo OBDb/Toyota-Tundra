@@ -1,8 +1,8 @@
 command_id: 7C4.7CC.2121
 test_cases:
 - expected_values:
-    TOYOTA_CABIN_T: 19
+    TUNDRA_CABIN_T: 19
   response: 7CC03612166
 - expected_values:
-    TOYOTA_CABIN_T: 35
+    TUNDRA_CABIN_T: 35
   response: 7CC036121A6

@@ -1,12 +1,12 @@
 command_id: 700.708.2215F6
 test_cases:
 - expected_values:
-    TOYOTA_INITIAL_ENG_BAT_V_LO: 8.2
+    TUNDRA_INITIAL_ENG_BAT_V_LO: 8.2
   response: |-
     70810096215F6000052
     7082100002000000000
 - expected_values:
-    TOYOTA_INITIAL_ENG_BAT_V_LO: 8.9
+    TUNDRA_INITIAL_ENG_BAT_V_LO: 8.9
   response: |-
     70810096215F6000059
     7082100004E00000000

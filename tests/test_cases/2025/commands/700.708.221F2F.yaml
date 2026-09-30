@@ -1,8 +1,8 @@
 command_id: 700.708.221F2F
 test_cases:
 - expected_values:
-    TOYOTA_FLI: 5.88235
+    TUNDRA_FLI: 5.88235
   response: 70804621F2F0F
 - expected_values:
-    TOYOTA_FLI: 98.03922
+    TUNDRA_FLI: 98.03922
   response: 70804621F2FFA

@@ -1,12 +1,8 @@
 command_id: 7B0.7B8.2121
 test_cases:
 - expected_values:
-    TOYOTA_VEHICLE_SPEED_7B0: 0
-    TOYOTA_VSS: 0
-    TOYOTA_VSS_V3: 0
+    TUNDRA_VSS: 0
   response: 7B803612100
 - expected_values:
-    TOYOTA_VEHICLE_SPEED_7B0: 104.96
-    TOYOTA_VSS: 110.7
-    TOYOTA_VSS_V3: 104.96
+    TUNDRA_VSS: 110.7
   response: 7B803612152

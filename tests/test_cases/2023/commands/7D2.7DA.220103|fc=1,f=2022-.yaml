@@ -1,0 +1,17 @@
+command_id: 7D2.7DA.220103|fc=1,f=2022-
+test_cases:
+- expected_values:
+    TUNDRA_ODO_V2_V2: 39062
+  response: 7DA0762010301009896
+- expected_values:
+    TUNDRA_ODO_V2_V2: 61954
+  response: 7DA076201030100F202
+- expected_values:
+    TUNDRA_ODO_V2_V2: 34032
+  response: 7DA07620103020084F0
+- expected_values:
+    TUNDRA_ODO_V2_V2: 34815
+  response: 7DA07620103020087FF
+- expected_values:
+    TUNDRA_ODO_V2_V2: 34816
+  response: 7DA0762010302008800

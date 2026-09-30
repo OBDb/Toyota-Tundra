@@ -1,14 +1,14 @@
 command_id: 700.708.221075
 test_cases:
 - expected_values:
-    TOYOTA_IWP_SPEED: 300
+    TUNDRA_IWP_SPEED: 32973
   response: 7080562107580CD
 - expected_values:
-    TOYOTA_IWP_SPEED: 300
+    TUNDRA_IWP_SPEED: 35584
   response: 708056210758B00
 - expected_values:
-    TOYOTA_IWP_SPEED: 300
+    TUNDRA_IWP_SPEED: 36351
   response: 708056210758DFF
 - expected_values:
-    TOYOTA_IWP_SPEED: 300
+    TUNDRA_IWP_SPEED: 50688
   response: 70805621075C600

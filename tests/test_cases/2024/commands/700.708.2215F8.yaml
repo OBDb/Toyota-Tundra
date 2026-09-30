@@ -1,14 +1,8 @@
 command_id: 700.708.2215F8
 test_cases:
 - expected_values:
-    TOYOTA_BAT_T_700: 21.8
+    TUNDRA_BAT_T_700: 21.8
   response: 708056215F8026A
 - expected_values:
-    TOYOTA_BAT_T_700: 21.9
-  response: 708056215F8026B
-- expected_values:
-    TOYOTA_BAT_T_700: 22
-  response: 708056215F8026C
-- expected_values:
-    TOYOTA_BAT_T_700: 29.1
-  response: 708056215F802B3
+    TUNDRA_BAT_T_700: 29.6
+  response: 708056215F802B8

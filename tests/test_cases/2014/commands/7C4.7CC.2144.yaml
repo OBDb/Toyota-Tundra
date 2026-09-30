@@ -1,0 +1,76 @@
+command_id: 7C4.7CC.2144
+test_cases:
+- expected_values:
+    TUNDRA_AIR_INLET_DAMPER_TARGET_PULSE: 7
+  response: 7CC03614407
+- expected_values:
+    TUNDRA_AIR_INLET_DAMPER_TARGET_PULSE: 7
+  response: |-
+    7CC03614407
+    7DF02010C
+    7E804410C0000
+- expected_values:
+    TUNDRA_AIR_INLET_DAMPER_TARGET_PULSE: 7
+  response: |-
+    7CC03614407
+    7DF02010C
+    7E804410C0AFF
+- expected_values:
+    TUNDRA_AIR_INLET_DAMPER_TARGET_PULSE: 28
+  response: 7CC0361441C
+- expected_values:
+    TUNDRA_AIR_INLET_DAMPER_TARGET_PULSE: 28
+  response: |-
+    7CC0361441C
+    7DF02010C
+    7E804410C0A08
+- expected_values:
+    TUNDRA_AIR_INLET_DAMPER_TARGET_PULSE: 7
+  response: |-
+    7DF02010C
+    7CC03614407
+    7E804410C0A34
+- expected_values:
+    TUNDRA_AIR_INLET_DAMPER_TARGET_PULSE: 7
+  response: |-
+    7DF02010C
+    7E804410C0000
+    7CC03614407
+- expected_values:
+    TUNDRA_AIR_INLET_DAMPER_TARGET_PULSE: 7
+  response: |-
+    7DF02010C
+    7E804410C0DA5
+    7CC03614407
+- expected_values:
+    TUNDRA_AIR_INLET_DAMPER_TARGET_PULSE: 7
+  response: |-
+    7DF02010C
+    7E804410C1A1F
+    7CC03614407
+- expected_values:
+    TUNDRA_AIR_INLET_DAMPER_TARGET_PULSE: 7
+  response: |-
+    7DF02010C
+    7E804410C21D6
+    7CC03614407
+- expected_values:
+    TUNDRA_AIR_INLET_DAMPER_TARGET_PULSE: 7
+  response: |-
+    7E804410C09B7
+    7CC03614407
+- expected_values:
+    TUNDRA_AIR_INLET_DAMPER_TARGET_PULSE: 28
+  response: |-
+    7E804410C16FC
+    7CC0361441C
+- expected_values:
+    TUNDRA_AIR_INLET_DAMPER_TARGET_PULSE: 7
+  response: |-
+    7E804410C1B09
+    7CC03614407
+- expected_values:
+    TUNDRA_AIR_INLET_DAMPER_TARGET_PULSE: 7
+  response: |-
+    7E804410C22EF
+    7CC03614407

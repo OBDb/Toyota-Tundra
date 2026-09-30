@@ -1,11 +1,11 @@
 command_id: 700.708.2215EE
 test_cases:
 - expected_values:
-    TOYOTA_V_BATSENS: 13.0321
+    TUNDRA_V_BATSENS: 13.0321
   response: 708056215EE29B4
 - expected_values:
-    TOYOTA_V_BATSENS: 14.30162
+    TUNDRA_V_BATSENS: 14.30162
   response: 708056215EE2DC4
 - expected_values:
-    TOYOTA_V_BATSENS: 14.36754
+    TUNDRA_V_BATSENS: 14.36754
   response: 708056215EE2DFA

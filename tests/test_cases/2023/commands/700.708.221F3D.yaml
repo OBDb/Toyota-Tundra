@@ -1,8 +1,14 @@
 command_id: 700.708.221F3D
 test_cases:
 - expected_values:
-    TOYOTA_CAT_T_BANK_2_SENS_1: 668.3
+    TUNDRA_CAT_T_BANK_2_SENS_1: 668.3
   response: 70805621F3D0F5F
 - expected_values:
-    TOYOTA_CAT_T_BANK_2_SENS_1: 698
-  response: 70805621F3D1004
+    TUNDRA_CAT_T_BANK_2_SENS_1: 1203.98
+  response: 70805621F3D1AFF
+- expected_values:
+    TUNDRA_CAT_T_BANK_2_SENS_1: 1296.5
+  response: 70805621F3D1D01
+- expected_values:
+    TUNDRA_CAT_T_BANK_2_SENS_1: 1413.14
+  response: 70805621F3D1F89

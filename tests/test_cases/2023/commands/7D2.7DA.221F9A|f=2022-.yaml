@@ -1,0 +1,50 @@
+command_id: 7D2.7DA.221F9A|f=2022-
+test_cases:
+- expected_values:
+    TUNDRA_HVBAT_C: 122.8
+    TUNDRA_HVBAT_V: 262
+  response: |-
+    7DA1009621F9A0E0041
+    7DA218004CC00000000
+- expected_values:
+    TUNDRA_HVBAT_C: 99.6
+    TUNDRA_HVBAT_V: 263
+  response: |-
+    7DA1009621F9A0E0041
+    7DA21C003E400000000
+- expected_values:
+    TUNDRA_HVBAT_C: 164.8
+    TUNDRA_HVBAT_V: 265
+  response: |-
+    7DA1009621F9A0E0042
+    7DA2140067000000000
+- expected_values:
+    TUNDRA_HVBAT_C: 108.3
+    TUNDRA_HVBAT_V: 268
+  response: |-
+    7DA1009621F9A0E0043
+    7DA2100043B00000000
+- expected_values:
+    TUNDRA_HVBAT_C: 86.3
+    TUNDRA_HVBAT_V: 276
+  response: |-
+    7DA1009621F9A0E0045
+    7DA2100035F00000000
+- expected_values:
+    TUNDRA_HVBAT_C: -0.3
+    TUNDRA_HVBAT_V: 289
+  response: |-
+    7DA1009621F9A0E0048
+    7DA2140FFFD00000000
+- expected_values:
+    TUNDRA_HVBAT_C: 0.2
+    TUNDRA_HVBAT_V: 291
+  response: |-
+    7DA1009621F9A0E0048
+    7DA21C0000200000000
+- expected_values:
+    TUNDRA_HVBAT_C: -89.2
+    TUNDRA_HVBAT_V: 381
+  response: |-
+    7DA1009621F9A0E005F
+    7DA2140FC8400000000

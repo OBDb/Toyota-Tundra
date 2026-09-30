@@ -1,50 +1,14 @@
 command_id: 700.708.221F77
 test_cases:
 - expected_values:
-    TOYOTA_IAT_B1S1: 18
-    TOYOTA_IAT_B1S2: -40
+    TUNDRA_IAT_B1S1: 18
+    TUNDRA_IAT_B1S2: -40
   response: |-
     7081008621F77013A00
     7082100000000000000
 - expected_values:
-    TOYOTA_IAT_B1S1: 19
-    TOYOTA_IAT_B1S2: -40
+    TUNDRA_IAT_B1S1: 36
+    TUNDRA_IAT_B1S2: -40
   response: |-
-    7081008621F77013B00
-    7082100000000000000
-- expected_values:
-    TOYOTA_IAT_B1S1: 20
-    TOYOTA_IAT_B1S2: -40
-  response: |-
-    7081008621F77013C00
-    7082100000000000000
-- expected_values:
-    TOYOTA_IAT_B1S1: 21
-    TOYOTA_IAT_B1S2: -40
-  response: |-
-    7081008621F77013D00
-    7082100000000000000
-- expected_values:
-    TOYOTA_IAT_B1S1: 22
-    TOYOTA_IAT_B1S2: -40
-  response: |-
-    7081008621F77013E00
-    7082100000000000000
-- expected_values:
-    TOYOTA_IAT_B1S1: 23
-    TOYOTA_IAT_B1S2: -40
-  response: |-
-    7081008621F77013F00
-    7082100000000000000
-- expected_values:
-    TOYOTA_IAT_B1S1: 25
-    TOYOTA_IAT_B1S2: -40
-  response: |-
-    7081008621F77014100
-    7082100000000000000
-- expected_values:
-    TOYOTA_IAT_B1S1: 28
-    TOYOTA_IAT_B1S2: -40
-  response: |-
-    7081008621F77014400
+    7081008621F77014C00
     7082100000000000000
