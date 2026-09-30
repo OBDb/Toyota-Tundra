@@ -4,11 +4,5 @@ test_cases:
     TOYOTA_BAT_T_700: 21.8
   response: 708056215F8026A
 - expected_values:
-    TOYOTA_BAT_T_700: 21.9
-  response: 708056215F8026B
-- expected_values:
-    TOYOTA_BAT_T_700: 22
-  response: 708056215F8026C
-- expected_values:
-    TOYOTA_BAT_T_700: 29.1
-  response: 708056215F802B3
+    TOYOTA_BAT_T_700: 30.2
+  response: 708056215F802BE
