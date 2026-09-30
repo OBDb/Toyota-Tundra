@@ -5,4 +5,4 @@ test_cases:
   response: 7CC0462280100
 - expected_values:
     TUNDRA_BLOWER: 7
-  response: 7CC0462280110
+  response: 7CC0462280116
