@@ -10,5 +10,5 @@ test_cases:
     TUNDRA_CAT_T_BANK_2_SENS_2: 835.7
   response: 70805621F3F1301
 - expected_values:
-    TUNDRA_CAT_T_BANK_2_SENS_2: 1087.52
-  response: 70805621F3F1878
+    TUNDRA_CAT_T_BANK_2_SENS_2: 1126.4
+  response: 70805621F3F1950

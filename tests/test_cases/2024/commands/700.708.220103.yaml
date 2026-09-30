@@ -7,8 +7,8 @@ test_cases:
     TUNDRA_ENG_ODO: 39620
   response: 7080762010302009AC4
 - expected_values:
-    TUNDRA_ENG_ODO: 39650
-  response: 7080762010302009AE2
+    TUNDRA_ENG_ODO: 39656
+  response: 7080762010302009AE8
 - expected_values:
     TUNDRA_ENG_ODO: 42441
   response: 708076201030200A5C9
