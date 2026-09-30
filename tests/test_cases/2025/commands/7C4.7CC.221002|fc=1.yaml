@@ -1,0 +1,23 @@
+command_id: 7C4.7CC.221002|fc=1
+test_cases:
+- expected_values:
+    TUNDRA_AAT_7C4_V2: 30.68
+  response: 7CC056210020BFC
+- expected_values:
+    TUNDRA_AAT_7C4_V2: 30.89
+  response: 7CC056210020C11
+- expected_values:
+    TUNDRA_AAT_7C4_V2: 30.96
+  response: 7CC056210020C18
+- expected_values:
+    TUNDRA_AAT_7C4_V2: 31.03
+  response: 7CC056210020C1F
+- expected_values:
+    TUNDRA_AAT_7C4_V2: 31.17
+  response: 7CC056210020C2D
+- expected_values:
+    TUNDRA_AAT_7C4_V2: 31.28
+  response: 7CC056210020C38
+- expected_values:
+    TUNDRA_AAT_7C4_V2: 31.6
+  response: 7CC056210020C58
