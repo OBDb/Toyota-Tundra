@@ -4,6 +4,11 @@ test_cases:
     TUNDRA_INITIAL_ENG_BAT_V_LO: 8.7
   response: |-
     70810096215F6000057
+    7082100004500000000
+- expected_values:
+    TUNDRA_INITIAL_ENG_BAT_V_LO: 8.7
+  response: |-
+    70810096215F6000057
     7082100004700000000
 - expected_values:
     TUNDRA_INITIAL_ENG_BAT_V_LO: 8.9
