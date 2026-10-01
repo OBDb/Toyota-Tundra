@@ -4,8 +4,8 @@ test_cases:
     TUNDRA_BAT_CURRENT_700: -18.79012
   response: 708056215F76CCD
 - expected_values:
-    TUNDRA_BAT_CURRENT_700: 4.87479
-  response: 708056215F7850B
+    TUNDRA_BAT_CURRENT_700: 9.71759
+  response: 708056215F78A01
 - expected_values:
     TUNDRA_BAT_CURRENT_700: 19.46802
   response: 708056215F793FE
