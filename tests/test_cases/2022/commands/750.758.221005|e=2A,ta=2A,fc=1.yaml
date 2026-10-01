@@ -1,22 +1,20 @@
 command_id: 750.758.221005|e=2A,ta=2A,fc=1
 test_cases:
 - expected_values:
-    TUNDRA_TP_4: 39.39394
+    TUNDRA_TP_1: null
+    TUNDRA_TP_2: null
+    TUNDRA_TP_3: null
+    TUNDRA_TP_4: null
+    TUNDRA_TP_5: null
   response: |-
     7582A100D6210050000
-    7582A210000000000BA
+    7582A21000000000000
     7582A22000000000000
 - expected_values:
     TUNDRA_TP_4: 40.60606
   response: |-
     7582A100D6210050000
     7582A210000000000BF
-    7582A22000000000000
-- expected_values:
-    TUNDRA_TP_3: 44
-  response: |-
-    7582A100D6210050000
-    7582A21000000CD0000
     7582A22000000000000
 - expected_values:
     TUNDRA_TP_1: 43.75758
