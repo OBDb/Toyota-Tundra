@@ -1,8 +1,8 @@
 command_id: 7C4.7CC.221002|fc=1
 test_cases:
 - expected_values:
-    TUNDRA_AAT_7C4_V2: 26.48
-  response: 7CC056210020A58
+    TUNDRA_AAT_7C4_V2: 19.77
+  response: 7CC0562100207B9
 - expected_values:
     TUNDRA_AAT_7C4_V2: 28.2
   response: 7CC056210020B04

@@ -1,8 +1,11 @@
 command_id: 700.708.220103
 test_cases:
 - expected_values:
+    TUNDRA_ENG_ODO: 43711
+  response: 708076201030200AABF
+- expected_values:
+    TUNDRA_ENG_ODO: 43713
+  response: 708076201030200AAC1
+- expected_values:
     TUNDRA_ENG_ODO: 52296
   response: 708076201030200CC48
-- expected_values:
-    TUNDRA_ENG_ODO: 52387
-  response: 708076201030200CCA3

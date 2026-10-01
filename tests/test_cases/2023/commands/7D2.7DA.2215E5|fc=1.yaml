@@ -1,5 +1,8 @@
 command_id: 7D2.7DA.2215E5|fc=1
 test_cases:
 - expected_values:
+    TUNDRA_12V_CAP: 54.5
+  response: 7DA046215E56D
+- expected_values:
     TUNDRA_12V_CAP: 58.5
   response: 7DA046215E575
