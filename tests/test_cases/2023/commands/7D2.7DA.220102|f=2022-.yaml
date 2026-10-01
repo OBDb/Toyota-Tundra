@@ -9,29 +9,39 @@ test_cases:
     TUNDRA_KEY_CYCLE: 4108
   response: |-
     7DA100A620102100C00
-    7DA2104F50E01000000
-- expected_values:
-    TUNDRA_KEY_CYCLE: 4108
-  response: |-
-    7DA100A620102100C00
-    7DA21065F9D01000000
-- expected_values:
-    TUNDRA_KEY_CYCLE: 4108
-  response: |-
-    7DA100A620102100C00
-    7DA2109510601000000
-- expected_values:
-    TUNDRA_KEY_CYCLE: 4108
-  response: |-
-    7DA100A620102100C00
     7DA210C280001000000
 - expected_values:
     TUNDRA_KEY_CYCLE: 4108
   response: |-
     7DA100A620102100C00
-    7DA210FA6D901000000
-- expected_values:
-    TUNDRA_KEY_CYCLE: 4108
-  response: |-
-    7DA100A620102100C00
     7DA21101BE701000000
+- expected_values:
+    TUNDRA_KEY_CYCLE: 4110
+  response: |-
+    7DA100A620102100E00
+    7DA210207EF01000000
+- expected_values:
+    TUNDRA_KEY_CYCLE: 4110
+  response: |-
+    7DA100A620102100E00
+    7DA210A1FDF01000000
+- expected_values:
+    TUNDRA_KEY_CYCLE: 4110
+  response: |-
+    7DA100A620102100E00
+    7DA210FF6E901000000
+- expected_values:
+    TUNDRA_KEY_CYCLE: 4110
+  response: |-
+    7DA100A620102100E00
+    7DA2116105101000000
+- expected_values:
+    TUNDRA_KEY_CYCLE: 4110
+  response: |-
+    7DA100A620102100E00
+    7DA2120641801000000
+- expected_values:
+    TUNDRA_KEY_CYCLE: 4112
+  response: |-
+    7DA100A620102101000
+    7DA2100BA7E01000000

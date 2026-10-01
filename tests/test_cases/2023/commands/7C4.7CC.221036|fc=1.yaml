@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     TUNDRA_HVAC_SET_RAW: 38
   response: 7CC0462103626
+- expected_values:
+    TUNDRA_HVAC_SET_RAW: 39
+  response: 7CC0462103627
