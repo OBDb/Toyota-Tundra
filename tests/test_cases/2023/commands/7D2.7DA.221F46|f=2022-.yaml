@@ -1,8 +1,8 @@
 command_id: 7D2.7DA.221F46|f=2022-
 test_cases:
 - expected_values:
-    TUNDRA_AAT_7D2: -5
-  response: 7DA04621F4623
+    TUNDRA_AAT_7D2: null
+  response: 7DA04621F4600
 - expected_values:
     TUNDRA_AAT_7D2: 41
   response: 7DA04621F4651
