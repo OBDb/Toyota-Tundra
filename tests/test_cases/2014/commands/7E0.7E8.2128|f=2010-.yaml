@@ -19,9 +19,6 @@ test_cases:
     TUNDRA_ODO: 222563
   response: '7E8056128036563'
 - expected_values:
-    TUNDRA_ODO: 312643
-  response: 7E805612804C543
-- expected_values:
     TUNDRA_ODO: 327680
   response: '7E8056128050000'
 - expected_values:
@@ -52,3 +49,6 @@ test_cases:
   response: |-
     7E805612805018B
     7E804410C0FF7
+- expected_values:
+    TUNDRA_ODO: null
+  response: 7E8056128FFFFFF

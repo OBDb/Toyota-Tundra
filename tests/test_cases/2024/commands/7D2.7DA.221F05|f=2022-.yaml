@@ -4,5 +4,5 @@ test_cases:
     TUNDRA_COOL_T: 20
   response: 7DA04621F053C
 - expected_values:
-    TUNDRA_COOL_T: 96
-  response: 7DA04621F0588
+    TUNDRA_COOL_T: null
+  response: 7DA04621F05FF
