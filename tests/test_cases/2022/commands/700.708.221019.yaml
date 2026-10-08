@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     TUNDRA_INJECTION: BOTH
   response: 7080762101902C48000
+- expected_values:
+    TUNDRA_INJECTION: BOTH
+  response: 7080762101902CB8000
