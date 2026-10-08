@@ -10,11 +10,23 @@ test_cases:
     TUNDRA_ALT_DUTY_CYCLE: 28.87805
   response: 708056215FA1280
 - expected_values:
+    TUNDRA_ALT_DUTY_CYCLE: 35.12195
+  response: 708056215FA1680
+- expected_values:
+    TUNDRA_ALT_DUTY_CYCLE: 39.02439
+  response: 708056215FA1900
+- expected_values:
     TUNDRA_ALT_DUTY_CYCLE: 42.14634
   response: 708056215FA1B00
 - expected_values:
     TUNDRA_ALT_DUTY_CYCLE: 45.26829
   response: 708056215FA1D00
 - expected_values:
+    TUNDRA_ALT_DUTY_CYCLE: 51.5122
+  response: 708056215FA2100
+- expected_values:
     TUNDRA_ALT_DUTY_CYCLE: 57.7561
   response: 708056215FA2500
+- expected_values:
+    TUNDRA_ALT_DUTY_CYCLE: 60.87805
+  response: 708056215FA2700
