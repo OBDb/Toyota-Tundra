@@ -4,8 +4,8 @@ test_cases:
     TUNDRA_INTERCOOLER_WATER: 0
   response: '708056228200000'
 - expected_values:
-    TUNDRA_INTERCOOLER_WATER: 53.25399
-  response: '708056228202215'
-- expected_values:
     TUNDRA_INTERCOOLER_WATER: 54.52354
   response: '7080562282022E5'
+- expected_values:
+    TUNDRA_INTERCOOLER_WATER: 55.06676
+  response: 70805622820233E
