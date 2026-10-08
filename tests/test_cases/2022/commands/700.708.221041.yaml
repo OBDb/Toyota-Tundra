@@ -1,0 +1,10 @@
+command_id: 700.708.221041
+test_cases:
+- expected_values:
+    TUNDRA_ECT_IGN: 80.625
+    TUNDRA_ECT_INIT: 80.625
+  response: 70805621041C1C1
+- expected_values:
+    TUNDRA_ECT_IGN: 80.625
+    TUNDRA_ECT_INIT: 91.25
+  response: 70805621041C1D2

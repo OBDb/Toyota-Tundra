@@ -1,0 +1,8 @@
+command_id: 700.708.2215EE
+test_cases:
+- expected_values:
+    TUNDRA_V_BATSENS: 12.47058
+  response: 708056215EE27E8
+- expected_values:
+    TUNDRA_V_BATSENS: 13.44713
+  response: 708056215EE2B08

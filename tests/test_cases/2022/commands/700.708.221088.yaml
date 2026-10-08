@@ -1,0 +1,23 @@
+command_id: 700.708.221088
+test_cases:
+- expected_values:
+    TUNDRA_EXHAUST_VVT_ANGLE_B1: 0
+  response: '708056210880000'
+- expected_values:
+    TUNDRA_EXHAUST_VVT_ANGLE_B1: 0.01953
+  response: '708056210880002'
+- expected_values:
+    TUNDRA_EXHAUST_VVT_ANGLE_B1: 0.05859
+  response: '708056210880006'
+- expected_values:
+    TUNDRA_EXHAUST_VVT_ANGLE_B1: 0.06835
+  response: '708056210880007'
+- expected_values:
+    TUNDRA_EXHAUST_VVT_ANGLE_B1: 0.1367
+  response: 70805621088000E
+- expected_values:
+    TUNDRA_EXHAUST_VVT_ANGLE_B1: 36.49876
+  response: 708056210880E9A
+- expected_values:
+    TUNDRA_EXHAUST_VVT_ANGLE_B1: 38.16845
+  response: 708056210880F45

@@ -1,0 +1,11 @@
+command_id: 700.708.221075
+test_cases:
+- expected_values:
+    TUNDRA_IWP_SPEED: 32973
+  response: 7080562107580CD
+- expected_values:
+    TUNDRA_IWP_SPEED: 37887
+  response: 7080562107593FF
+- expected_values:
+    TUNDRA_IWP_SPEED: 37888
+  response: '708056210759400'
