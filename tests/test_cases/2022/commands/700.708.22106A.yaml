@@ -1,0 +1,11 @@
+command_id: 700.708.22106A
+test_cases:
+- expected_values:
+    TUNDRA_FUEL_PUMP_DUTY_RATIO: 30
+  response: 7080562106A01EC
+- expected_values:
+    TUNDRA_FUEL_PUMP_DUTY_RATIO: 236.28049
+  response: 7080562106A0F23
+- expected_values:
+    TUNDRA_FUEL_PUMP_DUTY_RATIO: 284.08537
+  response: 7080562106A1233

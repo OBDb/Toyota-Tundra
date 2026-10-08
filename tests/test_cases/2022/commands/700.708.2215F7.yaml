@@ -1,0 +1,14 @@
+command_id: 700.708.2215F7
+test_cases:
+- expected_values:
+    TUNDRA_BAT_CURRENT_700: -27.09914
+  response: 708056215F7644A
+- expected_values:
+    TUNDRA_BAT_CURRENT_700: 4.02444
+  response: 708056215F7842C
+- expected_values:
+    TUNDRA_BAT_CURRENT_700: 16.50895
+  response: 708056215F790F6
+- expected_values:
+    TUNDRA_BAT_CURRENT_700: 46.06529
+  response: 708056215F7AF3D

@@ -1,0 +1,8 @@
+command_id: 700.708.2215F8
+test_cases:
+- expected_values:
+    TUNDRA_BAT_T_700: 51
+  response: 708056215F8038E
+- expected_values:
+    TUNDRA_BAT_T_700: 51.2
+  response: 708056215F80390

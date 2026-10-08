@@ -1,0 +1,11 @@
+command_id: 700.708.22106C
+test_cases:
+- expected_values:
+    TUNDRA_DIST_SINCE_BAT_DISC: 3616
+  response: 7080562106C0E20
+- expected_values:
+    TUNDRA_DIST_SINCE_BAT_DISC: 3617
+  response: 7080562106C0E21
+- expected_values:
+    TUNDRA_DIST_SINCE_BAT_DISC: 3618
+  response: 7080562106C0E22
