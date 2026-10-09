@@ -13,6 +13,12 @@ test_cases:
     TUNDRA_EXHAUST_VVT_ANGLE_B1: 0.06835
   response: '708056210880007'
 - expected_values:
+    TUNDRA_EXHAUST_VVT_ANGLE_B1: 0.09764
+  response: 70805621088000A
+- expected_values:
+    TUNDRA_EXHAUST_VVT_ANGLE_B1: 0.12694
+  response: 70805621088000D
+- expected_values:
     TUNDRA_EXHAUST_VVT_ANGLE_B1: 0.1367
   response: 70805621088000E
 - expected_values:
