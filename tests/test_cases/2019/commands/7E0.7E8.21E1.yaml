@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.21E1
+test_cases:
+- expected_values:
+    TUNDRA_CODES_INCLUDE: 3
+  response: |-
+    7E8100A61E103030034
+    7E82120000226000000
+- expected_values:
+    TUNDRA_CODES_INCLUDE: 3
+  response: |-
+    7E8100A61E103030035
+    7E8212000020D000000
+- expected_values:
+    TUNDRA_CODES_INCLUDE: 3
+  response: |-
+    7E8100A61E103030035
+    7E8212000038C000000
