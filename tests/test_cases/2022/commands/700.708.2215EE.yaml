@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     TUNDRA_V_BATSENS: 13.44713
   response: 708056215EE2B08
+- expected_values:
+    TUNDRA_V_BATSENS: 13.73033
+  response: 708056215EE2BF0
