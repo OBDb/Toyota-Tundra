@@ -10,6 +10,9 @@ test_cases:
     TUNDRA_FLI: 74.5098
   response: 70804621F2FBE
 - expected_values:
+    TUNDRA_FLI: 81.56863
+  response: 70804621F2FD0
+- expected_values:
     TUNDRA_FLI: 83.13725
   response: 70804621F2FD4
 - expected_values:
