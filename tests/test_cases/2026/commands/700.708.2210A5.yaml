@@ -1,0 +1,12 @@
+command_id: 700.708.2210A5
+test_cases:
+- expected_values:
+    TUNDRA_MISFIRE_CNT: 0
+  response: |-
+    70810086210A5000042
+    7082100DC0000000000
+- expected_values:
+    TUNDRA_MISFIRE_CNT: 0
+  response: |-
+    70810086210A500019B
+    7082100CE0000000000

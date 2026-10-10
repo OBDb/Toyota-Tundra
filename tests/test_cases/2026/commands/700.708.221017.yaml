@@ -1,0 +1,8 @@
+command_id: 700.708.221017
+test_cases:
+- expected_values:
+    TUNDRA_INJ_VOL: 1.07344
+  response: 708056210170D6B
+- expected_values:
+    TUNDRA_INJ_VOL: 1.29188
+  response: '708056210171026'

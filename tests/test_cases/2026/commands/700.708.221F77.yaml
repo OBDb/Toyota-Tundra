@@ -1,0 +1,14 @@
+command_id: 700.708.221F77
+test_cases:
+- expected_values:
+    TUNDRA_IAT_B1S1: 33
+    TUNDRA_IAT_B1S2: -40
+  response: |-
+    7081008621F77014900
+    7082100000000000000
+- expected_values:
+    TUNDRA_IAT_B1S1: 36
+    TUNDRA_IAT_B1S2: -40
+  response: |-
+    7081008621F77014C00
+    7082100000000000000
