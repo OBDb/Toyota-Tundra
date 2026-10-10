@@ -1,0 +1,5 @@
+command_id: 700.708.222820
+test_cases:
+- expected_values:
+    TUNDRA_INTERCOOLER_WATER: 45.55123
+  response: 708056228201D27

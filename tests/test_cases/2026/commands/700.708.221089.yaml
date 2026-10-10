@@ -1,0 +1,5 @@
+command_id: 700.708.221089
+test_cases:
+- expected_values:
+    TUNDRA_EXHAUST_VVT_HOLD_LEARN_B1: 57.06058
+  response: '708056210892487'

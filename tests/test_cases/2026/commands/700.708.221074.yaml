@@ -1,0 +1,8 @@
+command_id: 700.708.221074
+test_cases:
+- expected_values:
+    TUNDRA_EOP: 91.01562
+  response: 70805621074048D
+- expected_values:
+    TUNDRA_EOP: 98.98438
+  response: 7080562107404F3
