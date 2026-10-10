@@ -1,14 +1,14 @@
 command_id: 700.708.221627
 test_cases:
 - expected_values:
-    TUNDRA_ATF_T_PAN_V3: 30.625
-  response: 7080562162746A0
+    TUNDRA_ATF_T_PAN_V3: 25.625
+  response: 7080562162741A0
+- expected_values:
+    TUNDRA_ATF_T_PAN_V3: 26.875
+  response: '7080562162742E0'
 - expected_values:
     TUNDRA_ATF_T_PAN_V3: 35
   response: 708056216274B00
-- expected_values:
-    TUNDRA_ATF_T_PAN_V3: 36.875
-  response: 708056216274CE0
 - expected_values:
     TUNDRA_ATF_T_PAN_V3: 92.5
   response: '708056216278480'

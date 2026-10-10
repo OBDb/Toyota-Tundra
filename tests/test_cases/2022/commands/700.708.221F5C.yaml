@@ -1,8 +1,8 @@
 command_id: 700.708.221F5C
 test_cases:
 - expected_values:
-    TUNDRA_EOT_V2: 30
-  response: 70804621F5C46
+    TUNDRA_EOT_V2: 28
+  response: 70804621F5C44
 - expected_values:
     TUNDRA_EOT_V2: 101
   response: 70804621F5C8D
