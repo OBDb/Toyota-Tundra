@@ -4,5 +4,5 @@ test_cases:
     TUNDRA_ENG_ODO: 48162
   response: 708076201030200BC22
 - expected_values:
-    TUNDRA_ENG_ODO: 48338
-  response: 708076201030200BCD2
+    TUNDRA_ENG_ODO: 48363
+  response: 708076201030200BCEB
