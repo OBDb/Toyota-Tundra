@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.2181
+test_cases:
+- expected_values:
+    TUNDRA_SPD_NT: 500
+  response: 7E80461810A04
+- expected_values:
+    TUNDRA_SPD_NT: 600
+  response: |-
+    7E80461810C06
+    7E804410C0B9F
+- expected_values:
+    TUNDRA_SPD_NT: 700
+  response: 7E80461810E09
+- expected_values:
+    TUNDRA_SPD_NT: 750
+  response: 7E80461810F03
+- expected_values:
+    TUNDRA_SPD_NT: 1050
+  response: '7E80461811500'
+- expected_values:
+    TUNDRA_SPD_NT: 1050
+  response: |-
+    7E80461811500
+    7E804410C118D
+- expected_values:
+    TUNDRA_SPD_NT: 1250
+  response: |-
+    7E80461811914
+    7E804410C190F
+- expected_values:
+    TUNDRA_SPD_NT: 1300
+  response: 7E80461811A2C
