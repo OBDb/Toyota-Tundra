@@ -15,6 +15,15 @@ test_cases:
     TUNDRA_SPD_TEST_RESULT: 0
   response: |-
     7E80461E30000
+    7E804410C0A3A
+- expected_values:
+    TUNDRA_CHECK_MODE_ON: 0
+    TUNDRA_F_TEST_RESULTS_1: 0
+    TUNDRA_MIS_TEST_RESULT: 0
+    TUNDRA_OXS1_FS2_TEST_RESULT: 0
+    TUNDRA_SPD_TEST_RESULT: 0
+  response: |-
+    7E80461E30000
     7E804410C0C0F
 - expected_values:
     TUNDRA_CHECK_MODE_ON: 0
