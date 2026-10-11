@@ -10,6 +10,21 @@ test_cases:
     7582A10086210040000
     7582A21000000000000
 - expected_values:
+    TUNDRA_TT_4: -18
+  response: |-
+    7582A10086210040000
+    7582A21001600000000
+- expected_values:
+    TUNDRA_TT_4: 8
+  response: |-
+    7582A10086210040000
+    7582A21003000000000
+- expected_values:
+    TUNDRA_TT_3: 8
+  response: |-
+    7582A10086210040000
+    7582A21300000000000
+- expected_values:
     TUNDRA_TT_3: 40
   response: |-
     7582A10086210040000

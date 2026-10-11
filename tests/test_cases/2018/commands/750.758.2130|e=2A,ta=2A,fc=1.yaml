@@ -29,6 +29,15 @@ test_cases:
     7582A10076130FFAEAC
     7582A21ABFF00000000
 - expected_values:
+    TUNDRA_TP_FL: null
+    TUNDRA_TP_FR: null
+    TUNDRA_TP_RL: null
+    TUNDRA_TP_RR: null
+    TUNDRA_TP_SPARE: null
+  response: |-
+    7582A10076130FFFFFF
+    7582A21FFFF00000000
+- expected_values:
     TUNDRA_TP_FL: 2.37931
     TUNDRA_TP_FR: 2.37931
     TUNDRA_TP_RL: 2.34483
