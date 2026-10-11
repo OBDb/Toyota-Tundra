@@ -7,8 +7,8 @@ test_cases:
     TUNDRA_ATF_T_PAN_V3: 26.875
   response: '7080562162742E0'
 - expected_values:
-    TUNDRA_ATF_T_PAN_V3: 35
-  response: 708056216274B00
+    TUNDRA_ATF_T_PAN_V3: 30
+  response: '708056216274600'
 - expected_values:
     TUNDRA_ATF_T_PAN_V3: 92.5
   response: '708056216278480'
