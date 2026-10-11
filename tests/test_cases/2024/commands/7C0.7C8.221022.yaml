@@ -7,6 +7,9 @@ test_cases:
     TUNDRA_FUEL_LEVEL: 12.79
   response: 7C80562102204FF
 - expected_values:
+    TUNDRA_FUEL_LEVEL: 117.76
+  response: 7C8056210222E00
+- expected_values:
     TUNDRA_FUEL_LEVEL: null
   response: 7C805621022FFFF
 - expected_values:

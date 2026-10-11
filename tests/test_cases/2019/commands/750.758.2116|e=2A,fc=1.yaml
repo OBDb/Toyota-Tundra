@@ -44,3 +44,12 @@ test_cases:
   response: |-
     7582A10076116FF3434
     7582A2133FF00000000
+- expected_values:
+    TUNDRA_TT_FL: null
+    TUNDRA_TT_FR: null
+    TUNDRA_TT_RL: null
+    TUNDRA_TT_RR: null
+    TUNDRA_TT_SPARE: null
+  response: |-
+    7582A10076116FFFFFF
+    7582A21FFFF00000000

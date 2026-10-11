@@ -4,5 +4,8 @@ test_cases:
     TUNDRA_AAT_7D2: null
   response: 7DA04621F4600
 - expected_values:
+    TUNDRA_AAT_7D2: 1
+  response: 7DA04621F4629
+- expected_values:
     TUNDRA_AAT_7D2: 39
   response: 7DA04621F464F
