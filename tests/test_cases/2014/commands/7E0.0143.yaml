@@ -9,10 +9,10 @@ test_cases:
     7E80441430025
     7E804410C0DCE
 - expected_values:
-    LOAD_ABS: 14.5098
+    LOAD_ABS: 16.07843
   response: |-
-    7E80441430025
-    7E804410C0E42
+    7E80441430029
+    7E804410C0C51
 - expected_values:
     LOAD_ABS: 17.64706
   response: |-
@@ -34,8 +34,8 @@ test_cases:
     7E8044143004D
     7E804410C10E5
 - expected_values:
-    LOAD_ABS: 38.03922
-  response: '7E80441430061'
+    LOAD_ABS: 49.80392
+  response: 7E8044143007F
 - expected_values:
     LOAD_ABS: 50.98039
   response: |-
