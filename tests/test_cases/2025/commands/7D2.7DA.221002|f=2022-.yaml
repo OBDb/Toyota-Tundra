@@ -1,6 +1,9 @@
 command_id: 7D2.7DA.221002|f=2022-
 test_cases:
 - expected_values:
+    TUNDRA_AUX_BAT_V: 12.87832
+  response: 7DA05621002293C
+- expected_values:
     TUNDRA_AUX_BAT_V: 14.15688
   response: 7DA056210022D54
 - expected_values:
