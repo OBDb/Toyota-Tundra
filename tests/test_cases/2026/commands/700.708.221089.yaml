@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     TUNDRA_EXHAUST_VVT_HOLD_LEARN_B1: 57.06058
   response: '708056210892487'
+- expected_values:
+    TUNDRA_EXHAUST_VVT_HOLD_LEARN_B1: 62.63178
+  response: '708056210892818'

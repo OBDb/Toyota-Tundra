@@ -1,0 +1,29 @@
+command_id: 7D2.7DA.221002|f=2022-
+test_cases:
+- expected_values:
+    TUNDRA_AUX_BAT_V: 12.81488
+  response: 7DA056210022908
+- expected_values:
+    TUNDRA_AUX_BAT_V: 14.28376
+  response: 7DA056210022DBC
+- expected_values:
+    TUNDRA_AUX_BAT_V: 14.30328
+  response: 7DA056210022DCC
+- expected_values:
+    TUNDRA_AUX_BAT_V: 14.30816
+  response: 7DA056210022DD0
+- expected_values:
+    TUNDRA_AUX_BAT_V: 14.31304
+  response: 7DA056210022DD4
+- expected_values:
+    TUNDRA_AUX_BAT_V: 14.31792
+  response: 7DA056210022DD8
+- expected_values:
+    TUNDRA_AUX_BAT_V: 14.3228
+  response: 7DA056210022DDC
+- expected_values:
+    TUNDRA_AUX_BAT_V: 14.32768
+  response: 7DA056210022DE0
+- expected_values:
+    TUNDRA_AUX_BAT_V: 14.33744
+  response: 7DA056210022DE8

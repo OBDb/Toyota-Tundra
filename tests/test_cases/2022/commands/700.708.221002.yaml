@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     TUNDRA_12V_V: 13.457
   response: 708056210022B10
+- expected_values:
+    TUNDRA_12V_V: 14.12106
+  response: 708056210022D30

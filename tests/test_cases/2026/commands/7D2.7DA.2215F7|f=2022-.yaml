@@ -1,0 +1,11 @@
+command_id: 7D2.7DA.2215F7|f=2022-
+test_cases:
+- expected_values:
+    TUNDRA_12V_C: 1.31235
+  response: 7DA056215F78158
+- expected_values:
+    TUNDRA_12V_C: 3.91016
+  response: 7DA056215F78401
+- expected_values:
+    TUNDRA_12V_C: 4.84857
+  response: 7DA056215F784F7
