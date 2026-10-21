@@ -1,6 +1,9 @@
 command_id: 700.708.221F2F
 test_cases:
 - expected_values:
+    TUNDRA_FLI: 69.41176
+  response: 70804621F2FB1
+- expected_values:
     TUNDRA_FLI: 72.15686
   response: 70804621F2FB8
 - expected_values:
