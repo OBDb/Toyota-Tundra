@@ -1,0 +1,11 @@
+command_id: 7D2.7DA.221040|f=2022-
+test_cases:
+- expected_values:
+    TUNDRA_TRANSAXLE_OIL_T: 33
+  response: 7DA06621040BFE049
+- expected_values:
+    TUNDRA_TRANSAXLE_OIL_T: 32
+  response: 7DA06621040C00048
+- expected_values:
+    TUNDRA_TRANSAXLE_OIL_T: 29
+  response: 7DA06621040C39045

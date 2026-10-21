@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     TUNDRA_EXHAUST_VVT_OVER_ADV_LEARN_B1: 120.48824
   response: 7080562108F3032
+- expected_values:
+    TUNDRA_EXHAUST_VVT_OVER_ADV_LEARN_B1: 120.88863
+  response: 7080562108F305B

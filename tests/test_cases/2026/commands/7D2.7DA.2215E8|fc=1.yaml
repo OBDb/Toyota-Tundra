@@ -1,0 +1,10 @@
+command_id: 7D2.7DA.2215E8|fc=1
+test_cases:
+- expected_values:
+    TUNDRA_12V_AH_IN: 155.4
+    TUNDRA_12V_AH_OUT: 74.4
+    TUNDRA_READY_HOURS: 1
+  response: |-
+    7DA10146215E8000006
+    7DA2112000002E87678
+    7DA2200010000002B84

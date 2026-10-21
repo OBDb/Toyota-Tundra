@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     TUNDRA_INTAKE_VVT_OVER_RET_LEARN_B1: 30.8496
   response: 7080562108D0C57
+- expected_values:
+    TUNDRA_INTAKE_VVT_OVER_RET_LEARN_B1: 34.81444
+  response: 7080562108D0DED

@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     TUNDRA_LFP: 414.6
   response: 708056210CD9032
+- expected_values:
+    TUNDRA_LFP: 594.8
+  response: 708056210CD973C

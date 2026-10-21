@@ -6,3 +6,9 @@ test_cases:
 - expected_values:
     TUNDRA_12V_V: 13.48629
   response: 708056210022B28
+- expected_values:
+    TUNDRA_12V_V: 14.27731
+  response: 708056210022DB0
+- expected_values:
+    TUNDRA_12V_V: 14.41891
+  response: '708056210022E24'

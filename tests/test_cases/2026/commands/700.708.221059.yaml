@@ -5,3 +5,8 @@ test_cases:
   response: |-
     708100A621059285128
     7082151000000000000
+- expected_values:
+    TUNDRA_ACCEL_PEDAL: 0
+  response: |-
+    708100A621059285228
+    7082152000000000000
