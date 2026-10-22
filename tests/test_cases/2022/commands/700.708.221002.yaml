@@ -10,5 +10,5 @@ test_cases:
     TUNDRA_12V_V: 12.49997
   response: '708056210022800'
 - expected_values:
-    TUNDRA_12V_V: 14.61422
-  response: 708056210022EC4
+    TUNDRA_12V_V: 14.94137
+  response: 708056210022FD0
