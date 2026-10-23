@@ -31,6 +31,12 @@ test_cases:
     7DA1009621F9A0E004D
     7DA21C0FFCF00000000
 - expected_values:
+    TUNDRA_HVBAT_C: -3.7
+    TUNDRA_HVBAT_V: 314
+  response: |-
+    7DA1009621F9A0E004E
+    7DA2180FFDB00000000
+- expected_values:
     TUNDRA_HVBAT_C: -6.3
     TUNDRA_HVBAT_V: 320
   response: |-
