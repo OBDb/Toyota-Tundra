@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     TUNDRA_VSS_V2: 0
   response: 7DA04621F0D00
+- expected_values:
+    TUNDRA_VSS_V2: 5
+  response: 7DA04621F0D05
