@@ -1,6 +1,9 @@
 command_id: 701.709.221627
 test_cases:
 - expected_values:
+    TUNDRA_TF1_PAN: 77
+  response: '709056216274100'
+- expected_values:
     TUNDRA_TF1_PAN: 91.4
   response: '709056216274900'
 - expected_values:
@@ -15,3 +18,6 @@ test_cases:
 - expected_values:
     TUNDRA_TF1_PAN: 109.4
   response: '709056216275300'
+- expected_values:
+    TUNDRA_TF1_PAN: 120.2
+  response: '709056216275900'
