@@ -5,7 +5,7 @@ test_cases:
   response: 7DA056215EE2924
 - expected_values:
     TUNDRA_12V_V_V2: 14.1641
-  response: 7DA056215EE2DE0
+  response: 7DA056215EE2DF8
 - expected_values:
     TUNDRA_12V_V_V2: 14.47858
   response: 7DA056215EE2E00
