@@ -4,5 +4,5 @@ test_cases:
     TUNDRA_SOC: 43.92157
   response: 7DA04621F5B70
 - expected_values:
-    TUNDRA_SOC: 50.58824
-  response: 7DA04621F5B81
+    TUNDRA_SOC: 51.37255
+  response: 7DA04621F5B83
