@@ -10,8 +10,8 @@ test_cases:
     TUNDRA_ODO_V5: 48768
   response: 709076201030200BE80
 - expected_values:
-    TUNDRA_ODO_V5: 48877
-  response: 709076201030200BEED
+    TUNDRA_ODO_V5: 48890
+  response: 709076201030200BEFA
 - expected_values:
     TUNDRA_ODO_V5: 71778
   response: '7090762010302011862'
