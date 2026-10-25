@@ -1,11 +1,11 @@
 command_id: 7C0.7C8.221022
 test_cases:
 - expected_values:
-    TUNDRA_FUEL_LEVEL: 62.83
-  response: 7C805621022188B
+    TUNDRA_FUEL_LEVEL: 59.32
+  response: 7C805621022172C
 - expected_values:
-    TUNDRA_FUEL_LEVEL: 65.72
-  response: 7C80562102219AC
+    TUNDRA_FUEL_LEVEL: 76.59
+  response: 7C8056210221DEB
 - expected_values:
     TUNDRA_FUEL_LEVEL: 90.33
   response: 7C8056210222349
