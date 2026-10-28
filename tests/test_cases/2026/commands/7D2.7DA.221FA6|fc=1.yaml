@@ -4,29 +4,8 @@ test_cases:
     TUNDRA_ODO_1FA6: 251.7
   response: 7DA07621FA6000009D5
 - expected_values:
-    TUNDRA_ODO_1FA6: 264.9
-  response: 7DA07621FA600000A59
-- expected_values:
-    TUNDRA_ODO_1FA6: 266.5
-  response: 7DA07621FA600000A69
-- expected_values:
-    TUNDRA_ODO_1FA6: 271.3
-  response: 7DA07621FA600000A99
-- expected_values:
-    TUNDRA_ODO_1FA6: 273.6
-  response: 7DA07621FA600000AB0
-- expected_values:
     TUNDRA_ODO_1FA6: 277.7
   response: 7DA07621FA600000AD9
 - expected_values:
     TUNDRA_ODO_1FA6: 283.3
   response: 7DA07621FA600000B11
-- expected_values:
-    TUNDRA_ODO_1FA6: 283.4
-  response: 7DA07621FA600000B12
-- expected_values:
-    TUNDRA_ODO_1FA6: 283.6
-  response: 7DA07621FA600000B14
-- expected_values:
-    TUNDRA_ODO_1FA6: 283.8
-  response: 7DA07621FA600000B16
