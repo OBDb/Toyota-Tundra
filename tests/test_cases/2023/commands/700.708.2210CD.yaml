@@ -1,8 +1,8 @@
 command_id: 700.708.2210CD
 test_cases:
 - expected_values:
-    TUNDRA_LFP: 338.9
-  response: 708056210CD8D3D
+    TUNDRA_LFP: 322.3
+  response: 708056210CD8C97
 - expected_values:
     TUNDRA_LFP: 383.9
   response: 708056210CD8EFF
