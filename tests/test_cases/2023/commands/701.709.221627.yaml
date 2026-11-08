@@ -6,8 +6,8 @@ test_cases:
     221627
     709056216275200
 - expected_values:
-    TUNDRA_TF1_PAN: 51.8
-  response: '709056216273300'
+    TUNDRA_TF1_PAN: 35.6
+  response: 709056216272A00
 - expected_values:
     TUNDRA_TF1_PAN: 204.8
   response: '709056216278800'
