@@ -4,5 +4,8 @@ test_cases:
     TUNDRA_12V_BAT_V_BEFORE_SMR: 11.29514
   response: 7DA0562107E2550
 - expected_values:
+    TUNDRA_12V_BAT_V_BEFORE_SMR: 11.29514
+  response: 7DA0562107E2580
+- expected_values:
     TUNDRA_12V_BAT_V_BEFORE_SMR: 11.29636
   response: 7DA0562107E2610

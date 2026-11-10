@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     TUNDRA_ENG_ODO: 27288
   response: 7080762010301006A98
+- expected_values:
+    TUNDRA_ENG_ODO: 28177
+  response: '7080762010301006E11'
