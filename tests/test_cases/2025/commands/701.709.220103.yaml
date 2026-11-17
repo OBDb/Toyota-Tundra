@@ -1,17 +1,22 @@
 command_id: 701.709.220103
 test_cases:
 - expected_values:
-    TUNDRA_ODO_V5: 28177
+    TUNDRA_ODO_V5_RAW: 28177
+    TUNDRA_ODO_V5_UNIT: KM
   response: '7090762010301006E11'
 - expected_values:
-    TUNDRA_ODO_V5: 250
+    TUNDRA_ODO_V5_RAW: 250
+    TUNDRA_ODO_V5_UNIT: MI
   response: 70907620103020000FA
 - expected_values:
-    TUNDRA_ODO_V5: 255
+    TUNDRA_ODO_V5_RAW: 255
+    TUNDRA_ODO_V5_UNIT: MI
   response: 70907620103020000FF
 - expected_values:
-    TUNDRA_ODO_V5: 256
+    TUNDRA_ODO_V5_RAW: 256
+    TUNDRA_ODO_V5_UNIT: MI
   response: '7090762010302000100'
 - expected_values:
-    TUNDRA_ODO_V5: 40192
+    TUNDRA_ODO_V5_RAW: 40192
+    TUNDRA_ODO_V5_UNIT: MI
   response: 7090762010302009D00

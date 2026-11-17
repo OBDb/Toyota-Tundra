@@ -1,8 +1,10 @@
 command_id: 700.708.220103
 test_cases:
 - expected_values:
-    TUNDRA_ENG_ODO: 156
+    TUNDRA_ENG_ODO_RAW: 156
+    TUNDRA_ENG_ODO_UNIT: MI
   response: 708076201030200009C
 - expected_values:
-    TUNDRA_ENG_ODO: 2836
+    TUNDRA_ENG_ODO_RAW: 2836
+    TUNDRA_ENG_ODO_UNIT: MI
   response: 7080762010302000B14

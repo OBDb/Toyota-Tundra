@@ -1,11 +1,14 @@
 command_id: 700.708.220103
 test_cases:
 - expected_values:
-    TUNDRA_ENG_ODO: 27287
+    TUNDRA_ENG_ODO_RAW: 27287
+    TUNDRA_ENG_ODO_UNIT: KM
   response: 7080762010301006A97
 - expected_values:
-    TUNDRA_ENG_ODO: 27288
+    TUNDRA_ENG_ODO_RAW: 27288
+    TUNDRA_ENG_ODO_UNIT: KM
   response: 7080762010301006A98
 - expected_values:
-    TUNDRA_ENG_ODO: 28177
+    TUNDRA_ENG_ODO_RAW: 28177
+    TUNDRA_ENG_ODO_UNIT: KM
   response: '7080762010301006E11'
