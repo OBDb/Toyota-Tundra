@@ -4,8 +4,11 @@ test_cases:
     TUNDRA_BATTERY_VOLTAGE_7C0: 13.2
   response: '7C8 04 62 10 21 84 '
 - expected_values:
-    TUNDRA_BATTERY_VOLTAGE_7C0: 0
+    TUNDRA_BATTERY_VOLTAGE_7C0: null
   response: 7C80462102100
+- expected_values:
+    TUNDRA_BATTERY_VOLTAGE_7C0: 0.8
+  response: 7C80462102108
 - expected_values:
     TUNDRA_BATTERY_VOLTAGE_7C0: 15.4
   response: 7C8046210219A
