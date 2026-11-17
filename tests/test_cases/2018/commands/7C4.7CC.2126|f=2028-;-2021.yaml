@@ -1,0 +1,8 @@
+command_id: 7C4.7CC.2126|f=2028-;-2021
+test_cases:
+- expected_values:
+    TUNDRA_ECT: 32.45
+  response: 7CC03612659
+- expected_values:
+    TUNDRA_ECT: 90.55
+  response: 7CC036126FF

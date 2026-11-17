@@ -1,0 +1,5 @@
+command_id: 7C0.7C8.221021|f=2022-;-2006
+test_cases:
+- expected_values:
+    TUNDRA_BATTERY_VOLTAGE_7C0: 14.2
+  response: 7C8046210218E

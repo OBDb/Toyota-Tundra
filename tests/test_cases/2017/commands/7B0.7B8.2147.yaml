@@ -1,8 +1,0 @@
-command_id: 7B0.7B8.2147
-test_cases:
-- expected_values:
-    TUNDRA_LAT_G: -0.06
-    TUNDRA_LNG_G: 0.06
-    TUNDRA_STEER_ANGLE: -19.5
-    TUNDRA_YAW_RATE: -1
-  response: 7B8076147FD037F7F3D

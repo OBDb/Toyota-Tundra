@@ -1,9 +1,0 @@
-command_id: 7B0.7B8.2146
-test_cases:
-- expected_values:
-    TUNDRA_ZP_DEC: 0.04
-    TUNDRA_ZP_DEC2: 0
-    TUNDRA_ZP_YAW: 0
-  response: |-
-    7B81009614602008080
-    7B82100021300000000

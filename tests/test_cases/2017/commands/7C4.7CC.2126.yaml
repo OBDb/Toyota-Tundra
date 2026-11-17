@@ -1,5 +1,0 @@
-command_id: 7C4.7CC.2126
-test_cases:
-- expected_values:
-    TUNDRA_ECT: 86.7
-  response: 7CC036126F4
