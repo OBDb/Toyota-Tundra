@@ -1,11 +1,14 @@
 command_id: 7D2.7DA.220103|fc=1,f=2022-
 test_cases:
 - expected_values:
-    TUNDRA_ODO_V2_V2: 5119
+    TUNDRA_ODO_V2_V2_RAW: 5119
+    TUNDRA_ODO_V2_V2_UNIT: MI
   response: 7DA07620103020013FF
 - expected_values:
-    TUNDRA_ODO_V2_V2: 5120
+    TUNDRA_ODO_V2_V2_RAW: 5120
+    TUNDRA_ODO_V2_V2_UNIT: MI
   response: 7DA0762010302001400
 - expected_values:
-    TUNDRA_ODO_V2_V2: 54829
+    TUNDRA_ODO_V2_V2_RAW: 54829
+    TUNDRA_ODO_V2_V2_UNIT: MI
   response: 7DA076201030200D62D
