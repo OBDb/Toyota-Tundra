@@ -1,0 +1,8 @@
+command_id: 7C0.7C8.2121|f=2028-;-2021
+test_cases:
+- expected_values:
+    TUNDRA_VSS_7C0: 0
+  response: 7C803612100
+- expected_values:
+    TUNDRA_VSS_7C0: 78
+  response: 7C80361214E

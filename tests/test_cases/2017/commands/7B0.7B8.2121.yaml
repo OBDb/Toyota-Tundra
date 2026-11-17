@@ -1,5 +1,0 @@
-command_id: 7B0.7B8.2121
-test_cases:
-- expected_values:
-    TUNDRA_VSS: 55.35
-  response: 7B803612129

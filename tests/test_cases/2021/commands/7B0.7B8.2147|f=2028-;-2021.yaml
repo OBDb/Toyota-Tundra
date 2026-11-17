@@ -1,0 +1,50 @@
+command_id: 7B0.7B8.2147|f=2028-;-2021
+test_cases:
+- expected_values:
+    TUNDRA_LAT_G: 0
+    TUNDRA_LNG_G: 0
+    TUNDRA_STEER_ANGLE: -43
+    TUNDRA_YAW_RATE: -3
+  response: 7B807614700007D7E52
+- expected_values:
+    TUNDRA_LAT_G: 0
+    TUNDRA_LNG_G: -0.02
+    TUNDRA_STEER_ANGLE: -273.4
+    TUNDRA_YAW_RATE: -20
+  response: 7B807614700FF6C7552
+- expected_values:
+    TUNDRA_LAT_G: 0.12
+    TUNDRA_LNG_G: 0.04
+    TUNDRA_STEER_ANGLE: 572.3
+    TUNDRA_YAW_RATE: 15
+  response: 7B807614706028F965B
+- expected_values:
+    TUNDRA_LAT_G: 0.26
+    TUNDRA_LNG_G: -0.08
+    TUNDRA_STEER_ANGLE: 387.8
+    TUNDRA_YAW_RATE: 24
+  response: 7B80761470DFC988F26
+- expected_values:
+    TUNDRA_LAT_G: -0.32
+    TUNDRA_LNG_G: -0.16
+    TUNDRA_STEER_ANGLE: -579.7
+    TUNDRA_YAW_RATE: -30
+  response: 7B8076147F0F862695B
+- expected_values:
+    TUNDRA_LAT_G: -0.08
+    TUNDRA_LNG_G: 0.14
+    TUNDRA_STEER_ANGLE: -179.2
+    TUNDRA_YAW_RATE: -2
+  response: 7B8076147FC077E7900
+- expected_values:
+    TUNDRA_LAT_G: -0.06
+    TUNDRA_LNG_G: 0.04
+    TUNDRA_STEER_ANGLE: -128.2
+    TUNDRA_YAW_RATE: -9
+  response: 7B8076147FD02777AFE
+- expected_values:
+    TUNDRA_LAT_G: -0.02
+    TUNDRA_LNG_G: 0
+    TUNDRA_STEER_ANGLE: -39.5
+    TUNDRA_YAW_RATE: -5
+  response: 7B8076147FF007B7E75

@@ -1,0 +1,12 @@
+command_id: 7B0.7B8.211D|f=2028-;-2021
+test_cases:
+- expected_values:
+    TUNDRA_MAIN_IDLE_SW: 0
+    TUNDRA_RESERVOIR_WARNING_SW: 0
+  response: |-
+    211D
+    7B803611D00
+- expected_values:
+    TUNDRA_MAIN_IDLE_SW: 0
+    TUNDRA_RESERVOIR_WARNING_SW: 0
+  response: 7B803611D00
