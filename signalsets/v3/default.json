@@ -796,7 +796,7 @@
   "signals": [
     {"id": "TUNDRA_ADJUSTED_AMBIENT_T", "path": "Climate", "fmt": { "len": 8, "max": 50.8, "min": -30.8, "mul": 81.6, "div": 255, "add": -30.8, "unit": "celsius" }, "name": "Adjusted ambient temperature"}
   ]},
-{ "hdr": "7C4", "rax": "7CC", "cmd": {"21": "41"}, "freq": 1, "filter": { "to": 2021, "from": 2028 }, "dbgfilter": { "to": 2013, "years": [2015, 2016, 2017, 2018], "from": 2020 },
+{ "hdr": "7C4", "rax": "7CC", "cmd": {"21": "41"}, "freq": 1, "filter": { "to": 2021, "from": 2028 }, "dbgfilter": { "to": 2013, "years": [2015, 2016, 2017, 2018, 2020] },
   "signals": [
     {"id": "TUNDRA_AIR_MIX_SERVO_TARG_D", "path": "Engine", "fmt": {          "len": 8, "max": 255, "unit": "scalar" }, "name": "Air mix servo target pulse, driver"},
     {"id": "TUNDRA_AIR_MIX_SERVO_ACT_D",  "path": "Engine", "fmt": {"bix": 8, "len": 8, "max": 255, "unit": "scalar" }, "name": "Air mix servo, actual pulse, d"}
