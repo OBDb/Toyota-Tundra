@@ -1,0 +1,12 @@
+command_id: 7E0.7E8.2154
+test_cases:
+- expected_values:
+    TUNDRA_AV_RPM_ALL_CYL: null
+    TUNDRA_RPM_CYL_1: null
+    TUNDRA_RPM_CYL_2: null
+    TUNDRA_RPM_CYL_3: null
+    TUNDRA_RPM_CYL_4: null
+  response: |-
+    7E810146154FFFFFFFF
+    7E821FFFFFFFFFFFFFF
+    7E822FFFFFFFFFFFFFF
